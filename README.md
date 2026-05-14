@@ -61,6 +61,7 @@ Stakeholders can use the outputs to answer questions such as:
     |-- run_sql_analysis.py
     |-- python_analysis.py
     |-- create_notebook.py
+    |-- create_dashboard_screenshot.py
     `-- run_pipeline.py
 ```
 
@@ -105,10 +106,13 @@ The default generation creates 50,000 customers, 800 products, more than 190,000
 - `outputs/tables/analytics_export.xlsx`
 - `outputs/tables/business_insights.json`
 - `outputs/report/ecommerce_analytics_report.html`
+- `assets/powerbi_dashboard_screenshot.png`
 - `powerbi/import_tables/*.csv`
 - `powerbi/DAX_Measures.md`, `powerbi/Data_Model.md`, and `powerbi/Dashboard_Build_Guide.md`
 
 ## Power BI Dashboard
+
+![Power BI Dashboard Screenshot](assets/powerbi_dashboard_screenshot.png)
 
 The repository includes a complete Power BI dashboard blueprint and all import-ready data tables. The `.pbix` file is not generated automatically because Power BI Desktop is a GUI application, but the dashboard can be recreated directly from the files in the `powerbi/` folder.
 

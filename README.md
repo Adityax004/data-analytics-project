@@ -26,42 +26,42 @@ Stakeholders can use the outputs to answer questions such as:
 
 ```text
 .
-├── data/
-│   ├── raw/                  # generated source data with intentional quality issues
-│   └── processed/            # cleaned relational tables
-├── database/
-│   └── ecommerce_analytics.sqlite
-├── docs/
-│   ├── data_dictionary.md
-│   └── project_architecture.md
-├── notebooks/
-│   └── ecommerce_customer_analytics.ipynb
-├── outputs/
-│   ├── sql/                  # query result CSVs
-│   ├── tables/               # Pandas analytics outputs
-│   ├── figures/              # SVG chart assets
-│   └── report/               # local HTML analytics report
-├── powerbi/
-│   ├── import_tables/        # tables to import into Power BI
-│   ├── DAX_Measures.md
-│   ├── Dashboard_Build_Guide.md
-│   ├── Data_Model.md
-│   └── powerbi_theme.json
-├── sql/
-│   ├── 01_schema_postgresql.sql
-│   ├── 02_data_cleaning_postgresql.sql
-│   ├── 03_analysis_queries_postgresql.sql
-│   ├── 04_views_postgresql.sql
-│   ├── sqlite_schema.sql
-│   └── sqlite_views.sql
-└── src/
-    ├── generate_data.py
-    ├── clean_data.py
-    ├── build_database.py
-    ├── run_sql_analysis.py
-    ├── python_analysis.py
-    ├── create_notebook.py
-    └── run_pipeline.py
+|-- data/
+|   |-- raw/                  # generated source data with intentional quality issues
+|   `-- processed/            # cleaned relational tables
+|-- database/
+|   `-- ecommerce_analytics.sqlite
+|-- docs/
+|   |-- data_dictionary.md
+|   `-- project_architecture.md
+|-- notebooks/
+|   `-- ecommerce_customer_analytics.ipynb
+|-- outputs/
+|   |-- sql/                  # query result CSVs
+|   |-- tables/               # Pandas analytics outputs
+|   |-- figures/              # SVG chart assets
+|   `-- report/               # local HTML analytics report
+|-- powerbi/
+|   |-- import_tables/        # tables to import into Power BI
+|   |-- DAX_Measures.md
+|   |-- Dashboard_Build_Guide.md
+|   |-- Data_Model.md
+|   `-- powerbi_theme.json
+|-- sql/
+|   |-- 01_schema_postgresql.sql
+|   |-- 02_data_cleaning_postgresql.sql
+|   |-- 03_analysis_queries_postgresql.sql
+|   |-- 04_views_postgresql.sql
+|   |-- sqlite_schema.sql
+|   `-- sqlite_views.sql
+`-- src/
+    |-- generate_data.py
+    |-- clean_data.py
+    |-- build_database.py
+    |-- run_sql_analysis.py
+    |-- python_analysis.py
+    |-- create_notebook.py
+    `-- run_pipeline.py
 ```
 
 ## Run the Project
@@ -106,11 +106,32 @@ The default generation creates 50,000 customers, 800 products, more than 190,000
 - `outputs/tables/business_insights.json`
 - `outputs/report/ecommerce_analytics_report.html`
 - `powerbi/import_tables/*.csv`
+- `powerbi/DAX_Measures.md`, `powerbi/Data_Model.md`, and `powerbi/Dashboard_Build_Guide.md`
 
-## Recommended Power BI Pages
+## Power BI Dashboard
 
-- Executive Overview
-- Sales Dashboard
-- Customer Analytics
-- Cohort Retention
-- Product Performance
+The repository includes a complete Power BI dashboard blueprint and all import-ready data tables. The `.pbix` file is not generated automatically because Power BI Desktop is a GUI application, but the dashboard can be recreated directly from the files in the `powerbi/` folder.
+
+Dashboard assets:
+
+- Import tables: `powerbi/import_tables/*.csv`
+- Data model relationships: `powerbi/Data_Model.md`
+- DAX KPI and analytics measures: `powerbi/DAX_Measures.md`
+- Dashboard layout guide: `powerbi/Dashboard_Build_Guide.md`
+- Report theme: `powerbi/powerbi_theme.json`
+
+Recommended dashboard pages:
+
+1. Executive Overview: Total Revenue, Total Orders, Total Customers, AOV, Repeat Customer Rate, Return Rate, revenue trend, and geographic revenue.
+2. Sales Dashboard: monthly revenue, running revenue, MoM and YoY growth, payment method performance, category revenue, and discount impact.
+3. Customer Analytics: RFM segments, churn indicators, repeat customer percentage, top customers, and regional customer trends.
+4. Cohort Dashboard: acquisition cohort retention matrix, monthly repeat purchase trends, and retention heatmap.
+5. Product Performance: top and bottom products, category contribution, profit margin analysis, and discount vs sales analysis.
+
+Suggested Power BI build flow:
+
+1. Import all CSV files from `powerbi/import_tables/`.
+2. Create relationships using `powerbi/Data_Model.md`.
+3. Add measures from `powerbi/DAX_Measures.md`.
+4. Apply `powerbi/powerbi_theme.json`.
+5. Build the five report pages using `powerbi/Dashboard_Build_Guide.md`.

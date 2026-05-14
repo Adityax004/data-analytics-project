@@ -24,6 +24,15 @@ This project uses a **custom simulated e-commerce transaction dataset** created 
 
 The dataset is not taken from a public Kaggle or marketplace source. It is a reproducible project dataset with controlled business logic, seasonality, product margins, discounts, returns, customer purchase tiers, and intentional raw-data quality issues for cleaning practice.
 
+Dataset source and links:
+
+- **Dataset origin:** custom project dataset generated inside this repository
+- **Generation script:** [src/generate_data.py](https://github.com/Adityax004/data-analytics-project/blob/main/src/generate_data.py)
+- **Raw dataset files:** [data/raw](https://github.com/Adityax004/data-analytics-project/tree/main/data/raw)
+- **Cleaned dataset files:** [data/processed](https://github.com/Adityax004/data-analytics-project/tree/main/data/processed)
+- **Power BI import dataset:** [powerbi/import_tables](https://github.com/Adityax004/data-analytics-project/tree/main/powerbi/import_tables)
+- **SQLite database file:** [database/ecommerce_analytics.sqlite](https://github.com/Adityax004/data-analytics-project/blob/main/database/ecommerce_analytics.sqlite)
+
 Dataset period: **January 2023 to December 2025**
 
 | Table | Description | Clean Row Count |

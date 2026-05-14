@@ -1,0 +1,44 @@
+{
+  "name": "Ecommerce Analytics Professional",
+  "dataColors": [
+    "#2563EB",
+    "#0F766E",
+    "#DC2626",
+    "#7C3AED",
+    "#C2410C",
+    "#15803D",
+    "#9333EA",
+    "#0369A1"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#0F172A"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontFace": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#334155"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+

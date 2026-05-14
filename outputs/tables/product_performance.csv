@@ -1,0 +1,801 @@
+product_id,product_name,category,sub_category,brand,revenue,gross_profit,units_sold,average_discount_pct,profit_margin_pct,revenue_rank,category_revenue_rank
+P000768,Aster Laptops 0768,Electronics,Laptops,Aster,4280502.49,921769.15,2391,0.07,21.53,1,1
+P000635,Nexora Phones 0635,Electronics,Phones,Nexora,2392953.43,532532.63,3010,0.07,22.25,2,2
+P000086,ZenByte Laptops 0086,Electronics,Laptops,ZenByte,2305729.49,767742.52,1391,0.07,33.3,3,3
+P000671,Aster Phones 0671,Electronics,Phones,Aster,1897806.27,426751.8,2231,0.07,22.49,4,4
+P000209,Nexora Laptops 0209,Electronics,Laptops,Nexora,1810319.43,645906.71,1753,0.07,35.68,5,5
+P000409,PulseTech Laptops 0409,Electronics,Laptops,PulseTech,1776164.46,361175.07,1713,0.07,20.33,6,6
+P000759,Orbit Phones 0759,Electronics,Phones,Orbit,1471770.46,446695.57,1653,0.07,30.35,7,7
+P000195,PulseTech Laptops 0195,Electronics,Laptops,PulseTech,1431508.57,253684.82,731,0.06,17.72,8,8
+P000442,Aster Laptops 0442,Electronics,Laptops,Aster,1356410.3,394253.42,1332,0.07,29.07,9,9
+P000107,CraftHaus Furniture 0107,Home & Kitchen,Furniture,CraftHaus,1347149.92,470414.88,1615,0.07,34.92,10,1
+P000239,Orbit Laptops 0239,Electronics,Laptops,Orbit,1334777.78,471999.98,1420,0.07,35.36,11,10
+P000050,Orbit Phones 0050,Electronics,Phones,Orbit,1333742.18,404996.18,1560,0.07,30.37,12,11
+P000248,CraftHaus Furniture 0248,Home & Kitchen,Furniture,CraftHaus,1318380.46,650690.58,2938,0.07,49.36,13,2
+P000435,Orbit Laptops 0435,Electronics,Laptops,Orbit,1278282.34,315967.7,742,0.07,24.72,14,12
+P000769,ZenByte Laptops 0769,Electronics,Laptops,ZenByte,1219222.94,373660.81,931,0.07,30.65,15,13
+P000294,PulseTech Phones 0294,Electronics,Phones,PulseTech,1185097.84,242672.69,1585,0.07,20.48,16,14
+P000302,ZenByte Laptops 0302,Electronics,Laptops,ZenByte,1017155.65,165291.26,923,0.07,16.25,17,15
+P000590,Aster Cameras 0590,Electronics,Cameras,Aster,999062.68,164721.48,1315,0.07,16.49,18,16
+P000075,Orbit Laptops 0075,Electronics,Laptops,Orbit,960419.35,224236.45,831,0.07,23.35,19,17
+P000725,Aster Laptops 0725,Electronics,Laptops,Aster,938452.4,250820.93,551,0.07,26.73,20,18
+P000509,CraftHaus Furniture 0509,Home & Kitchen,Furniture,CraftHaus,913643.42,442953.99,899,0.07,48.48,21,3
+P000472,BrightNest Furniture 0472,Home & Kitchen,Furniture,BrightNest,890460.35,463664.65,1010,0.07,52.07,22,4
+P000129,Aster Phones 0129,Electronics,Phones,Aster,872438.47,252986.67,1084,0.07,29.0,23,19
+P000485,Nexora Phones 0485,Electronics,Phones,Nexora,859160.41,148165.45,1332,0.07,17.25,24,20
+P000091,Orbit Cameras 0091,Electronics,Cameras,Orbit,834726.46,233606.46,1156,0.07,27.99,25,21
+P000037,Nexora Laptops 0037,Electronics,Laptops,Nexora,830851.47,171135.87,876,0.07,20.6,26,22
+P000555,Aster Laptops 0555,Electronics,Laptops,Aster,815465.09,264854.27,674,0.08,32.48,27,23
+P000341,Orbit Cameras 0341,Electronics,Cameras,Orbit,804259.98,212999.85,1251,0.07,26.48,28,24
+P000123,Orbit Laptops 0123,Electronics,Laptops,Orbit,781343.8,154612.55,673,0.08,19.79,29,25
+P000230,PulseTech Phones 0230,Electronics,Phones,PulseTech,769480.62,209972.16,877,0.07,27.29,30,26
+P000568,ZenByte Cameras 0568,Electronics,Cameras,ZenByte,755317.72,151643.95,687,0.07,20.08,31,27
+P000679,ZenByte Cameras 0679,Electronics,Cameras,ZenByte,747911.27,176801.27,1000,0.07,23.64,32,28
+P000584,CraftHaus Appliances 0584,Home & Kitchen,Appliances,CraftHaus,743994.52,295603.52,2498,0.07,39.73,33,5
+P000624,BrightNest Furniture 0624,Home & Kitchen,Furniture,BrightNest,740183.43,306236.19,1236,0.07,41.37,34,6
+P000741,Nexora Laptops 0741,Electronics,Laptops,Nexora,737976.37,201581.16,533,0.07,27.32,35,29
+P000561,PulseTech Laptops 0561,Electronics,Laptops,PulseTech,731154.55,257631.16,807,0.07,35.24,36,30
+P000626,BrightNest Furniture 0626,Home & Kitchen,Furniture,BrightNest,727869.84,217546.62,1431,0.07,29.89,37,7
+P000059,Nexora Phones 0059,Electronics,Phones,Nexora,726228.94,199963.82,1112,0.07,27.53,38,31
+P000307,Kiva Furniture 0307,Home & Kitchen,Furniture,Kiva,724359.11,393657.26,933,0.07,54.35,39,8
+P000462,Aster Phones 0462,Electronics,Phones,Aster,716828.38,243884.94,1178,0.07,34.02,40,32
+P000038,Elm & Co Furniture 0038,Home & Kitchen,Furniture,Elm & Co,696975.2,175807.15,815,0.07,25.22,41,9
+P000271,Nexora Cameras 0271,Electronics,Cameras,Nexora,695813.56,146589.04,806,0.07,21.07,42,33
+P000029,Aster Phones 0029,Electronics,Phones,Aster,689487.11,201527.84,1291,0.07,29.23,43,34
+P000018,Aster Cameras 0018,Electronics,Cameras,Aster,673001.77,122452.65,704,0.07,18.19,44,35
+P000681,ZenByte Phones 0681,Electronics,Phones,ZenByte,667346.64,188728.64,1190,0.07,28.28,45,36
+P000404,ZenByte Phones 0404,Electronics,Phones,ZenByte,665879.67,209292.77,1970,0.07,31.43,46,37
+P000422,Aster Phones 0422,Electronics,Phones,Aster,660501.55,114911.23,1192,0.07,17.4,47,38
+P000052,Aster Laptops 0052,Electronics,Laptops,Aster,653709.64,117394.99,381,0.08,17.96,48,39
+P000764,Orbit Cameras 0764,Electronics,Cameras,Orbit,652264.82,117553.19,669,0.07,18.02,49,40
+P000188,Nexora Phones 0188,Electronics,Phones,Nexora,629488.82,233727.26,948,0.06,37.13,50,41
+P000552,ZenByte Laptops 0552,Electronics,Laptops,ZenByte,626030.99,162856.49,501,0.07,26.01,51,42
+P000487,Homely Furniture 0487,Home & Kitchen,Furniture,Homely,622631.42,210834.26,1278,0.07,33.86,52,10
+P000636,PulseTech Phones 0636,Electronics,Phones,PulseTech,615895.92,198798.31,709,0.07,32.28,53,43
+P000535,ZenByte Cameras 0535,Electronics,Cameras,ZenByte,605721.68,120539.88,610,0.07,19.9,54,44
+P000449,Nexora Cameras 0449,Electronics,Cameras,Nexora,595405.55,210757.61,566,0.07,35.4,55,45
+P000306,Kiva Furniture 0306,Home & Kitchen,Furniture,Kiva,582274.05,213819.23,1327,0.07,36.72,56,11
+P000350,ZenByte Laptops 0350,Electronics,Laptops,ZenByte,580874.35,126145.35,550,0.06,21.72,57,46
+P000762,ZenByte Laptops 0762,Electronics,Laptops,ZenByte,577937.46,176785.02,411,0.07,30.59,58,47
+P000583,Orbit Phones 0583,Electronics,Phones,Orbit,575581.89,176407.02,1327,0.07,30.65,59,48
+P000647,ZenByte Laptops 0647,Electronics,Laptops,ZenByte,564141.34,202714.31,468,0.06,35.93,60,49
+P000378,Kiva Furniture 0378,Home & Kitchen,Furniture,Kiva,549964.22,165993.1,764,0.07,30.18,61,12
+P000376,Aster Cameras 0376,Electronics,Cameras,Aster,540791.62,122580.91,969,0.07,22.67,62,50
+P000423,PulseTech Cameras 0423,Electronics,Cameras,PulseTech,530824.8,170860.82,463,0.07,32.19,63,51
+P000723,Nexora Laptops 0723,Electronics,Laptops,Nexora,515505.34,129286.78,546,0.07,25.08,64,52
+P000703,Orbit Laptops 0703,Electronics,Laptops,Orbit,512493.38,91226.73,724,0.07,17.8,65,53
+P000227,PulseTech Phones 0227,Electronics,Phones,PulseTech,511309.53,145399.41,879,0.07,28.44,66,54
+P000551,Kiva Furniture 0551,Home & Kitchen,Furniture,Kiva,508245.37,185052.43,742,0.06,36.41,67,13
+P000474,Nexora Laptops 0474,Electronics,Laptops,Nexora,492769.54,139061.17,489,0.07,28.22,68,55
+P000047,Elm & Co Furniture 0047,Home & Kitchen,Furniture,Elm & Co,490249.14,230052.58,1768,0.07,46.93,69,14
+P000368,VoltFit Cycling 0368,Sports,Cycling,VoltFit,477099.2,238605.34,814,0.07,50.01,70,1
+P000205,Orbit Cameras 0205,Electronics,Cameras,Orbit,470041.37,164540.09,434,0.07,35.01,71,56
+P000273,Aster Cameras 0273,Electronics,Cameras,Aster,467256.32,75671.27,673,0.07,16.19,72,57
+P000513,Orbit Laptops 0513,Electronics,Laptops,Orbit,466850.08,120171.56,458,0.07,25.74,73,58
+P000510,Aster Phones 0510,Electronics,Phones,Aster,461692.41,125300.31,726,0.07,27.14,74,59
+P000217,ZenByte Cameras 0217,Electronics,Cameras,ZenByte,457295.26,93945.46,990,0.07,20.54,75,60
+P000098,ZenByte Cameras 0098,Electronics,Cameras,ZenByte,445765.89,142237.56,861,0.07,31.91,76,61
+P000744,Nexora Cameras 0744,Electronics,Cameras,Nexora,445080.19,161057.39,508,0.07,36.19,77,62
+P000332,Walkway Footwear 0332,Fashion,Footwear,Walkway,442611.82,235225.72,2358,0.08,53.14,78,1
+P000204,ZenByte Phones 0204,Electronics,Phones,ZenByte,432490.79,72550.23,532,0.07,16.77,79,63
+P000794,PulseTech Phones 0794,Electronics,Phones,PulseTech,424277.51,136090.07,456,0.07,32.08,80,64
+P000389,ZenByte Cameras 0389,Electronics,Cameras,ZenByte,421921.52,90325.3,1226,0.08,21.41,81,65
+P000362,ZenByte Cameras 0362,Electronics,Cameras,ZenByte,418682.99,127864.43,768,0.07,30.54,82,66
+P000595,Aster Laptops 0595,Electronics,Laptops,Aster,417995.02,158713.06,476,0.07,37.97,83,67
+P000731,Walkway Bags 0731,Fashion,Bags,Walkway,412929.44,217830.94,2050,0.08,52.75,84,2
+P000155,Nexora Phones 0155,Electronics,Phones,Nexora,410983.51,100980.08,437,0.08,24.57,85,68
+P000588,Walkway Bags 0588,Fashion,Bags,Walkway,410609.9,190961.16,2242,0.09,46.51,86,3
+P000451,ZenByte Laptops 0451,Electronics,Laptops,ZenByte,401737.25,84775.01,606,0.07,21.1,87,69
+P000519,PulseTech Cameras 0519,Electronics,Cameras,PulseTech,398732.65,109243.15,450,0.07,27.4,88,70
+P000486,BrightNest Furniture 0486,Home & Kitchen,Furniture,BrightNest,390855.1,120572.66,452,0.07,30.85,89,15
+P000028,ZenByte Phones 0028,Electronics,Phones,ZenByte,390300.76,107237.2,421,0.07,27.48,90,71
+P000249,BrightNest Furniture 0249,Home & Kitchen,Furniture,BrightNest,389244.69,186674.49,828,0.07,47.96,91,16
+P000313,Luma Bags 0313,Fashion,Bags,Luma,388340.4,179091.36,4004,0.08,46.12,92,4
+P000109,PulseTech Phones 0109,Electronics,Phones,PulseTech,377563.47,100941.71,608,0.07,26.74,93,72
+P000385,Kiva Appliances 0385,Home & Kitchen,Appliances,Kiva,375431.33,103635.73,713,0.07,27.6,94,17
+P000112,Walkway Bags 0112,Fashion,Bags,Walkway,371124.51,193948.39,1433,0.09,52.26,95,5
+P000180,MotionLab Cycling 0180,Sports,Cycling,MotionLab,366553.08,159901.53,597,0.07,43.62,96,2
+P000678,BrightNest Appliances 0678,Home & Kitchen,Appliances,BrightNest,366198.21,111955.12,1333,0.06,30.57,97,18
+P000027,Kiva Furniture 0027,Home & Kitchen,Furniture,Kiva,362164.92,152887.46,631,0.07,42.21,98,19
+P000193,ZenByte Audio 0193,Electronics,Audio,ZenByte,344716.84,81467.91,1129,0.07,23.63,99,73
+P000392,Nexora Phones 0392,Electronics,Phones,Nexora,339175.86,111552.06,779,0.07,32.89,100,74
+P000740,Homely Furniture 0740,Home & Kitchen,Furniture,Homely,337650.84,162056.24,778,0.07,48.0,101,20
+P000616,Stride Cycling 0616,Sports,Cycling,Stride,337562.57,104329.1,669,0.07,30.91,102,3
+P000115,Luma Bags 0115,Fashion,Bags,Luma,330918.73,163339.85,1652,0.09,49.36,103,6
+P000469,Nexora Laptops 0469,Electronics,Laptops,Nexora,330547.3,74007.78,272,0.07,22.39,104,75
+P000150,Nexora Audio 0150,Electronics,Audio,Nexora,317151.55,54835.2,1013,0.07,17.29,105,76
+P000057,BrightNest Furniture 0057,Home & Kitchen,Furniture,BrightNest,312419.39,146857.07,867,0.07,47.01,106,21
+P000331,ArenaPro Cycling 0331,Sports,Cycling,ArenaPro,309762.88,150319.95,1019,0.07,48.53,107,4
+P000609,MotionLab Cycling 0609,Sports,Cycling,MotionLab,306650.08,116826.02,874,0.07,38.1,108,5
+P000231,Aster Cameras 0231,Electronics,Cameras,Aster,300900.61,72192.97,329,0.07,23.99,109,77
+P000533,CraftHaus Appliances 0533,Home & Kitchen,Appliances,CraftHaus,300027.73,153115.79,1607,0.07,51.03,110,22
+P000610,CraftHaus Furniture 0610,Home & Kitchen,Furniture,CraftHaus,299183.66,142146.78,728,0.07,47.51,111,23
+P000031,TrailPeak Fitness 0031,Sports,Fitness,TrailPeak,292980.19,140119.99,1070,0.07,47.83,112,6
+P000384,Elm & Co Furniture 0384,Home & Kitchen,Furniture,Elm & Co,292351.25,158070.21,316,0.08,54.07,113,24
+P000531,MotionLab Cycling 0531,Sports,Cycling,MotionLab,291508.17,130072.57,554,0.06,44.62,114,7
+P000140,PulseTech Audio 0140,Electronics,Audio,PulseTech,290981.34,106087.39,1201,0.07,36.46,115,78
+P000292,Aster Cameras 0292,Electronics,Cameras,Private Label,290709.69,51415.39,334,0.07,17.69,116,79
+P000261,Orbit Phones 0261,Electronics,Phones,Orbit,286902.07,82932.64,569,0.07,28.91,117,80
+P000443,TrailPeak Cycling 0443,Sports,Cycling,TrailPeak,283351.83,147594.61,911,0.07,52.09,118,8
+P000062,BrightNest Furniture 0062,Home & Kitchen,Furniture,BrightNest,263600.6,71242.07,819,0.07,27.03,119,25
+P000111,Elm & Co Cookware 0111,Home & Kitchen,Cookware,Elm & Co,262672.23,136739.03,2680,0.07,52.06,120,26
+P000619,PulseTech Phones 0619,Electronics,Phones,PulseTech,261126.05,75417.67,286,0.06,28.88,121,81
+P000264,Aster Laptops 0264,Electronics,Laptops,Aster,260923.45,94927.62,299,0.07,36.38,122,82
+P000276,Kiva Furniture 0276,Home & Kitchen,Furniture,Kiva,260195.63,128301.43,569,0.07,49.31,123,27
+P000522,Elm & Co Cookware 0522,Home & Kitchen,Cookware,Elm & Co,259339.83,89122.23,2235,0.07,34.37,124,28
+P000745,CraftHaus Furniture 0745,Home & Kitchen,Furniture,CraftHaus,250736.85,63727.89,664,0.07,25.42,125,29
+P000077,Walkway Bags 0077,Fashion,Bags,Walkway,250650.88,112785.88,2020,0.09,45.0,126,7
+P000355,Elm & Co Cookware 0355,Home & Kitchen,Cookware,Elm & Co,250640.29,88740.69,2540,0.07,35.41,127,30
+P000523,Nexora Cameras 0523,Electronics,Cameras,Nexora,247761.91,71800.75,421,0.08,28.98,128,83
+P000653,Stride Cycling 0653,Sports,Cycling,Stride,247472.48,86777.0,506,0.07,35.07,129,9
+P000742,PulseTech Phones 0742,Electronics,Phones,PulseTech,240675.26,83858.76,475,0.07,34.84,130,84
+P000359,Elm & Co Appliances 0359,Home & Kitchen,Appliances,Elm & Co,240129.77,112396.97,598,0.07,46.81,131,31
+P000565,VoltFit Fitness 0565,Sports,Fitness,VoltFit,233004.53,66792.23,905,0.07,28.67,132,10
+P000141,Homely Furniture 0141,Home & Kitchen,Furniture,Homely,232942.25,63826.82,643,0.07,27.4,133,32
+P000373,Kiva Appliances 0373,Home & Kitchen,Appliances,Kiva,231808.85,85768.55,630,0.07,37.0,134,33
+P000525,Nexora Cameras 0525,Electronics,Cameras,Nexora,231804.66,68831.85,469,0.08,29.69,135,85
+P000748,Elm & Co Furniture 0748,Home & Kitchen,Furniture,Elm & Co,229577.12,95556.41,321,0.07,41.62,136,34
+P000069,ZenByte Cameras 0069,Electronics,Cameras,ZenByte,222954.78,38615.08,387,0.07,17.32,137,86
+P000183,BrightNest Appliances 0183,Home & Kitchen,Appliances,BrightNest,222889.95,94872.15,906,0.07,42.56,138,35
+P000108,UrbanThread Footwear 0108,Fashion,Footwear,UrbanThread,219479.72,123973.3,1301,0.09,56.49,139,8
+P000015,BrightNest Furniture 0015,Home & Kitchen,Furniture,BrightNest,219309.28,113917.84,462,0.07,51.94,140,36
+P000300,ArenaPro Outdoor 0300,Sports,Outdoor,ArenaPro,217425.97,71730.51,502,0.07,32.99,141,11
+P000084,Modeva Bags 0084,Fashion,Bags,Modeva,216738.0,125634.75,1295,0.08,57.97,142,9
+P000650,Aster Cameras 0650,Electronics,Cameras,Aster,215360.54,78386.89,337,0.07,36.4,143,87
+P000797,Aster Phones 0797,Electronics,Phones,Aster,213872.01,71057.16,435,0.07,33.22,144,88
+P000649,TrailPeak Cycling 0649,Sports,Cycling,TrailPeak,212468.65,103772.71,393,0.07,48.84,145,12
+P000318,TrailPeak Outdoor 0318,Sports,Outdoor,TrailPeak,210393.8,64958.21,549,0.06,30.87,146,13
+P000258,PulseTech Audio 0258,Electronics,Audio,PulseTech,209414.73,40634.73,1000,0.07,19.4,147,89
+P000664,Nexora Audio 0664,Electronics,Audio,Nexora,208815.06,74728.89,717,0.07,35.79,148,90
+P000240,Orbit Phones 0240,Electronics,Phones,Orbit,205141.23,70058.44,479,0.06,34.15,149,91
+P000721,Kiva Cookware 0721,Home & Kitchen,Cookware,Kiva,204915.51,106303.01,1150,0.07,51.88,150,37
+P000718,ZenByte Phones 0718,Electronics,Phones,ZenByte,204032.0,36572.18,487,0.07,17.92,151,92
+P000738,Luma Women Apparel 0738,Fashion,Women Apparel,Luma,201319.94,82246.02,1568,0.09,40.85,152,10
+P000283,Modeva Women Apparel 0283,Fashion,Women Apparel,Modeva,200443.24,69605.44,1497,0.09,34.73,153,11
+P000648,Elm & Co Furniture 0648,Home & Kitchen,Furniture,Elm & Co,199020.69,63590.23,586,0.07,31.95,154,38
+P000560,Homely Furniture 0560,Home & Kitchen,Furniture,Homely,192030.76,49822.39,423,0.07,25.95,155,39
+P000175,UrbanThread Footwear 0175,Fashion,Footwear,UrbanThread,189297.54,98921.94,1176,0.08,52.26,156,12
+P000268,Aster Cameras 0268,Electronics,Cameras,Aster,186655.65,38580.81,239,0.06,20.67,157,93
+P000501,Stride Cycling 0501,Sports,Cycling,Stride,180972.16,73064.85,349,0.07,40.37,158,14
+P000526,Homely Cookware 0526,Home & Kitchen,Cookware,Homely,178293.56,65742.44,1188,0.07,36.87,159,40
+P000424,PulseTech Accessories 0424,Electronics,Accessories,PulseTech,178180.21,49507.47,1486,0.07,27.79,160,94
+P000161,Nexora Audio 0161,Electronics,Audio,Nexora,177309.47,49740.52,995,0.07,28.05,161,95
+P000136,Aster Audio 0136,Electronics,Audio,Aster,173341.64,47163.28,781,0.07,27.21,162,96
+P000581,BrightNest Furniture 0581,Home & Kitchen,Furniture,BrightNest,171567.11,77699.51,345,0.06,45.29,163,41
+P000395,Orbit Phones 0395,Electronics,Phones,Orbit,171523.33,41364.33,365,0.07,24.12,164,97
+P000022,BrightNest Appliances 0022,Home & Kitchen,Appliances,BrightNest,171435.84,47494.88,1144,0.07,27.7,165,42
+P000333,MotionLab Cycling 0333,Sports,Cycling,MotionLab,164368.88,62396.1,559,0.07,37.96,166,15
+P000446,MotionLab Cycling 0446,Sports,Cycling,MotionLab,163791.13,52024.93,534,0.07,31.76,167,16
+P000172,Homely Appliances 0172,Home & Kitchen,Appliances,Homely,163394.11,55902.67,1526,0.07,34.21,168,43
+P000087,MotionLab Cycling 0087,Sports,Cycling,MotionLab,159909.35,41607.53,329,0.07,26.02,169,17
+P000593,Walkway Women Apparel 0593,Fashion,Women Apparel,Walkway,158674.88,92217.58,1090,0.09,58.12,170,13
+P000705,NorthStitch Footwear 0705,Fashion,Footwear,NorthStitch,157978.55,76462.43,1113,0.08,48.4,171,14
+P000081,VoltFit Cycling 0081,Sports,Cycling,VoltFit,153537.3,54012.26,328,0.07,35.18,172,18
+P000250,Kiva Appliances 0250,Home & Kitchen,Appliances,Kiva,153102.49,71464.42,669,0.07,46.68,173,44
+P000263,Modeva Footwear 0263,Fashion,Footwear,Modeva,151690.32,80486.87,1205,0.08,53.06,174,15
+P000243,Modeva Bags 0243,Fashion,Bags,Modeva,151216.33,86880.83,1115,0.08,57.45,175,16
+P000290,Nexora Phones 0290,Electronics,Phones,Nexora,149727.68,29310.98,435,0.06,19.58,176,98
+P000438,BrightNest Appliances 0438,Home & Kitchen,Appliances,BrightNest,149414.67,55033.5,813,0.07,36.83,177,45
+P000576,Homely Decor 0576,Home & Kitchen,Decor,Homely,149220.31,41601.19,1141,0.07,27.88,178,46
+P000394,TrailPeak Fitness 0394,Sports,Fitness,TrailPeak,146839.95,64030.89,633,0.07,43.61,179,19
+P000596,NorthStitch Bags 0596,Fashion,Bags,NorthStitch,145992.62,83074.46,1268,0.09,56.9,180,17
+P000514,UrbanThread Bags 0514,Fashion,Bags,UrbanThread,145791.09,86869.59,1650,0.09,59.58,181,18
+P000658,Walkway Women Apparel 0658,Fashion,Women Apparel,Walkway,144637.41,87596.25,948,0.08,60.56,182,19
+P000043,VoltFit Outdoor 0043,Sports,Outdoor,VoltFit,144562.62,54185.13,399,0.07,37.48,183,20
+P000156,Stride Cycling 0156,Sports,Cycling,Stride,144555.36,36970.28,614,0.07,25.58,184,21
+P000416,UrbanThread Bags 0416,Fashion,Bags,UrbanThread,144017.45,65240.75,1110,0.09,45.3,185,20
+P000158,TrailPeak Cycling 0158,Sports,Cycling,TrailPeak,143817.91,53621.62,423,0.07,37.28,186,22
+P000319,Modeva Men Apparel 0319,Fashion,Men Apparel,Modeva,143666.32,82824.88,1656,0.08,57.65,187,21
+P000074,NorthStitch Accessories 0074,Fashion,Accessories,NorthStitch,142707.39,56864.49,2277,0.08,39.85,188,22
+P000737,UrbanThread Women Apparel 0737,Fashion,Women Apparel,UrbanThread,142167.43,75221.31,1121,0.09,52.91,189,23
+P000255,Luma Footwear 0255,Fashion,Footwear,Luma,141911.04,54143.88,762,0.09,38.15,190,24
+P000726,Orbit Audio 0726,Electronics,Audio,Orbit,139869.73,31210.83,595,0.07,22.31,191,99
+P000534,MotionLab Outdoor 0534,Sports,Outdoor,MotionLab,139424.21,42684.71,533,0.07,30.61,192,23
+P000634,Elm & Co Appliances 0634,Home & Kitchen,Appliances,Elm & Co,138957.73,54168.93,394,0.07,38.98,193,47
+P000200,Luma Men Apparel 0200,Fashion,Men Apparel,Luma,137915.16,68927.15,1613,0.09,49.98,194,25
+P000039,Luma Bags 0039,Fashion,Bags,Luma,137162.44,82046.16,556,0.08,59.82,195,26
+P000398,Walkway Bags 0398,Fashion,Bags,Walkway,136692.16,81539.46,1181,0.09,59.65,196,27
+P000558,Elm & Co Appliances 0558,Home & Kitchen,Appliances,Elm & Co,136357.21,53765.19,371,0.06,39.43,197,48
+P000747,UrbanThread Women Apparel 0747,Fashion,Women Apparel,UrbanThread,136087.97,68652.89,1219,0.09,50.45,198,28
+P000352,Walkway Men Apparel 0352,Fashion,Men Apparel,Walkway,136033.57,43599.81,1156,0.09,32.05,199,29
+P000467,TrailPeak Outdoor 0467,Sports,Outdoor,TrailPeak,135180.01,69765.53,472,0.06,51.61,200,24
+P000326,MotionLab Outdoor 0326,Sports,Outdoor,MotionLab,134711.75,55960.1,445,0.07,41.54,201,25
+P000665,Walkway Footwear 0665,Fashion,Footwear,Walkway,134570.48,49653.7,611,0.08,36.9,202,30
+P000734,Homely Storage 0734,Home & Kitchen,Storage,Homely,133895.92,49866.52,1482,0.07,37.24,203,49
+P000061,Stride Cycling 0061,Sports,Cycling,Stride,133328.77,42750.73,238,0.08,32.06,204,26
+P000119,BrightNest Furniture 0119,Home & Kitchen,Furniture,BrightNest,133313.52,71026.02,550,0.07,53.28,205,50
+P000337,PulseTech Phones 0337,Electronics,Phones,PulseTech,129184.58,42448.42,344,0.07,32.86,206,100
+P000159,VoltFit Outdoor 0159,Sports,Outdoor,VoltFit,128943.93,63115.77,684,0.07,48.95,207,27
+P000799,ArenaPro Fitness 0799,Sports,Fitness,ArenaPro,127921.38,48769.7,992,0.07,38.12,208,28
+P000716,NorthStitch Bags 0716,Fashion,Bags,NorthStitch,127266.38,48117.17,1127,0.09,37.81,209,31
+P000169,Luma Footwear 0169,Fashion,Footwear,Luma,125864.36,55399.46,655,0.09,44.02,210,32
+P000448,Auren Skincare 0448,Beauty,Skincare,Auren,125851.01,47929.97,1788,0.08,38.08,211,1
+P000701,Modeva Men Apparel 0701,Fashion,Men Apparel,Modeva,125331.13,71995.93,939,0.08,57.44,212,33
+P000163,Modeva Bags 0163,Fashion,Bags,Modeva,124733.3,60665.52,1087,0.08,48.64,213,34
+P000125,Nexora Audio 0125,Electronics,Audio,Nexora,124050.56,32239.68,476,0.08,25.99,214,101
+P000445,Luma Footwear 0445,Fashion,Footwear,Luma,123417.68,57638.36,642,0.09,46.7,215,35
+P000272,Modeva Footwear 0272,Fashion,Footwear,Modeva,123404.35,68228.47,731,0.09,55.29,216,36
+P000516,UrbanThread Men Apparel 0516,Fashion,Men Apparel,UrbanThread,123004.92,45188.42,1030,0.09,36.74,217,37
+P000223,MotionLab Fitness 0223,Sports,Fitness,MotionLab,121708.66,40172.77,1201,0.07,33.01,218,29
+P000419,Modeva Footwear 0419,Fashion,Footwear,Modeva,121281.88,39365.47,1049,0.09,32.46,219,38
+P000437,Nexora Audio 0437,Electronics,Audio,Nexora,121107.08,32130.2,972,0.07,26.53,220,102
+P000270,Nexora Audio 0270,Electronics,Audio,Nexora,120995.48,34422.65,659,0.07,28.45,221,103
+P000546,Elm & Co Cookware 0546,Home & Kitchen,Cookware,Elm & Co,120987.34,42178.47,1141,0.07,34.86,222,51
+P000556,Walkway Men Apparel 0556,Fashion,Men Apparel,Walkway,120672.14,53621.1,1048,0.08,44.44,223,39
+P000473,Aster Accessories 0473,Electronics,Accessories,Aster,120569.07,21646.27,892,0.06,17.95,224,104
+P000702,Luma Footwear 0702,Fashion,Footwear,Luma,120184.36,51276.08,1142,0.08,42.66,225,40
+P000211,Stride Fitness 0211,Sports,Fitness,Stride,119943.68,64471.38,710,0.07,53.75,226,30
+P000366,Homely Cookware 0366,Home & Kitchen,Cookware,Homely,116432.79,54488.27,1012,0.07,46.8,227,52
+P000335,Aster Accessories 0335,Electronics,Accessories,Aster,116043.57,27204.45,1182,0.07,23.44,228,105
+P000429,ZenByte Audio 0429,Electronics,Audio,ZenByte,115794.39,34578.23,776,0.07,29.86,229,106
+P000792,Elm & Co Decor 0792,Home & Kitchen,Decor,Elm & Co,115221.74,61785.74,1200,0.07,53.62,230,53
+P000093,BrightNest Appliances 0093,Home & Kitchen,Appliances,BrightNest,114869.91,40971.51,410,0.07,35.67,231,54
+P000196,UrbanThread Bags 0196,Fashion,Bags,UrbanThread,114522.88,60754.86,653,0.08,53.05,232,41
+P000798,UrbanThread Bags 0798,Fashion,Bags,UrbanThread,113495.48,46988.91,767,0.08,41.4,233,42
+P000126,Kiva Decor 0126,Home & Kitchen,Decor,Kiva,113390.56,49947.7,1497,0.07,44.05,234,55
+P000287,Nexora Cameras 0287,Electronics,Cameras,Nexora,112871.67,38416.77,390,0.07,34.04,235,107
+P000221,Walkway Women Apparel 0221,Fashion,Women Apparel,Walkway,111464.98,62778.86,1106,0.09,56.32,236,43
+P000612,ArenaPro Team Sports 0612,Sports,Team Sports,ArenaPro,111295.19,46595.75,1157,0.07,41.87,237,31
+P000251,VoltFit Outdoor 0251,Sports,Outdoor,VoltFit,111073.16,51071.68,506,0.07,45.98,238,32
+P000736,ArenaPro Outdoor 0736,Sports,Outdoor,ArenaPro,110226.52,57062.92,420,0.06,51.77,239,33
+P000771,Modeva Women Apparel 0771,Fashion,Women Apparel,Modeva,110087.5,45058.76,1513,0.08,40.93,240,44
+P000691,Walkway Bags 0691,Fashion,Bags,Walkway,109578.67,67260.01,823,0.08,61.38,241,45
+P000415,ZenByte Audio 0415,Electronics,Audio,ZenByte,109171.36,17301.84,328,0.07,15.85,242,108
+P000208,MotionLab Cycling 0208,Sports,Cycling,MotionLab,108992.76,47279.94,298,0.07,43.38,243,34
+P000680,CraftHaus Decor 0680,Home & Kitchen,Decor,CraftHaus,108790.65,58170.15,1607,0.07,53.47,244,56
+P000092,Stride Fitness 0092,Sports,Fitness,Stride,107979.92,48676.32,471,0.07,45.08,245,35
+P000488,Luma Footwear 0488,Fashion,Footwear,Luma,107955.73,63703.09,948,0.09,59.01,246,46
+P000103,UrbanThread Bags 0103,Fashion,Bags,UrbanThread,107642.68,34650.52,879,0.09,32.19,247,47
+P000304,CraftHaus Cookware 0304,Home & Kitchen,Cookware,CraftHaus,106411.72,46382.73,791,0.07,43.59,248,57
+P000732,PulseTech Accessories 0732,Electronics,Accessories,PulseTech,106357.57,28992.31,1266,0.07,27.26,249,109
+P000094,CraftHaus Appliances 0094,Home & Kitchen,Appliances,CraftHaus,106346.43,28460.1,519,0.08,26.76,250,58
+P000651,CraftHaus Appliances 0651,Home & Kitchen,Appliances,CraftHaus,106062.12,31288.52,290,0.07,29.5,251,59
+P000656,Luma Footwear 0656,Fashion,Footwear,Luma,104633.51,43755.42,931,0.09,41.82,252,48
+P000254,Luma Men Apparel 0254,Fashion,Men Apparel,Luma,103685.39,45041.39,648,0.09,43.44,253,49
+P000439,VoltFit Outdoor 0439,Sports,Outdoor,VoltFit,102485.94,47660.04,254,0.08,46.5,254,36
+P000071,Walkway Women Apparel 0071,Fashion,Women Apparel,Walkway,102300.28,49182.38,946,0.08,48.08,255,50
+P000192,Luma Women Apparel 0192,Fashion,Women Apparel,Luma,101937.82,60367.9,576,0.09,59.22,256,51
+P000719,MotionLab Cycling 0719,Sports,Cycling,MotionLab,101709.95,51126.97,322,0.06,50.27,257,37
+P000157,NorthStitch Women Apparel 0157,Fashion,Women Apparel,NorthStitch,100597.09,33709.5,1043,0.08,33.51,258,52
+P000497,Homely Cookware 0497,Home & Kitchen,Cookware,Homely,100384.85,25979.33,1332,0.07,25.88,259,60
+P000232,Kiva Storage 0232,Home & Kitchen,Storage,Kiva,99539.08,35874.08,1750,0.07,36.04,260,61
+P000312,CraftHaus Decor 0312,Home & Kitchen,Decor,CraftHaus,99505.96,32405.75,817,0.07,32.57,261,62
+P000044,Walkway Footwear 0044,Fashion,Footwear,Walkway,98927.12,50274.2,1026,0.08,50.82,262,53
+P000670,Kiva Decor 0670,Home & Kitchen,Decor,Kiva,97857.64,48910.28,1918,0.07,49.98,263,63
+P000315,Homely Decor 0315,Home & Kitchen,Decor,Homely,97225.06,32413.48,687,0.07,33.34,264,64
+P000099,PulseTech Audio 0099,Electronics,Audio,PulseTech,96810.9,32383.7,536,0.06,33.45,265,110
+P000573,Homely Furniture 0573,Home & Kitchen,Furniture,Homely,96685.96,37367.79,257,0.06,38.65,266,65
+P000536,Modeva Women Apparel 0536,Fashion,Women Apparel,Modeva,95589.44,50928.46,926,0.08,53.28,267,54
+P000134,Walkway Women Apparel 0134,Fashion,Women Apparel,Walkway,94978.47,43018.21,919,0.09,45.29,268,55
+P000281,ZenByte Phones 0281,Electronics,Phones,ZenByte,94113.9,25622.58,246,0.07,27.23,269,111
+P000697,VoltFit Outdoor 0697,Sports,Outdoor,VoltFit,93309.0,47112.48,732,0.07,50.49,270,38
+P000288,Kiva Storage 0288,Home & Kitchen,Storage,Kiva,92584.18,45235.06,1084,0.06,48.86,271,66
+P000267,Luma Women Apparel 0267,Fashion,Women Apparel,Luma,91974.5,32024.5,1250,0.09,34.82,272,56
+P000698,Citrine Fragrance 0698,Beauty,Fragrance,Citrine,91344.97,40118.41,1008,0.08,43.92,273,2
+P000218,ZenByte Accessories 0218,Electronics,Accessories,ZenByte,91123.69,15981.19,750,0.07,17.54,274,112
+P000676,Kiva Appliances 0676,Home & Kitchen,Appliances,Kiva,91031.68,44086.88,332,0.07,48.43,275,67
+P000694,UrbanThread Footwear 0694,Fashion,Footwear,UrbanThread,91020.31,53864.61,1138,0.08,59.18,276,57
+P000746,Kiva Cookware 0746,Home & Kitchen,Cookware,Kiva,90762.9,49611.3,828,0.07,54.66,277,68
+P000604,TrailPeak Fitness 0604,Sports,Fitness,TrailPeak,90715.52,28137.68,372,0.07,31.02,278,39
+P000164,PulseTech Accessories 0164,Electronics,Accessories,PulseTech,90424.13,21194.13,1204,0.07,23.44,279,113
+P000654,NorthStitch Footwear 0654,Fashion,Footwear,NorthStitch,90050.6,31244.7,649,0.09,34.7,280,58
+P000492,Stride Team Sports 0492,Sports,Team Sports,Stride,89642.97,48162.27,606,0.07,53.73,281,40
+P000179,PuzzleWorks STEM Toys 0179,Toys,STEM Toys,PuzzleWorks,89361.51,43276.44,1041,0.08,48.43,282,1
+P000760,Kiva Cookware 0760,Home & Kitchen,Cookware,Kiva,88994.74,41161.18,828,0.08,46.25,283,69
+P000253,Elm & Co Cookware 0253,Home & Kitchen,Cookware,Private Label,87823.23,31196.11,916,0.07,35.52,284,70
+P000256,MotionLab Outdoor 0256,Sports,Outdoor,MotionLab,87775.84,47640.5,826,0.07,54.28,285,41
+P000054,MotionLab Outdoor 0054,Sports,Outdoor,MotionLab,87660.52,36962.97,355,0.06,42.17,286,42
+P000545,PulseTech Accessories 0545,Electronics,Accessories,PulseTech,87442.63,19685.08,1373,0.07,22.51,287,114
+P000010,CraftHaus Cookware 0010,Home & Kitchen,Cookware,CraftHaus,86440.73,40719.25,577,0.07,47.11,288,71
+P000729,Homely Cookware 0729,Home & Kitchen,Cookware,Homely,86376.83,45740.03,1245,0.07,52.95,289,72
+P000379,Kiva Furniture 0379,Home & Kitchen,Furniture,Kiva,85788.82,34630.02,308,0.07,40.37,290,73
+P000637,VoltFit Outdoor 0637,Sports,Outdoor,VoltFit,85693.22,22242.46,307,0.07,25.96,291,43
+P000454,UrbanThread Accessories 0454,Fashion,Accessories,UrbanThread,85506.29,46158.41,2293,0.08,53.98,292,59
+P000601,BrightNest Decor 0601,Home & Kitchen,Decor,BrightNest,84957.77,34833.41,897,0.07,41.0,293,74
+P000078,ArenaPro Fitness 0078,Sports,Fitness,ArenaPro,83861.5,22996.9,562,0.07,27.42,294,44
+P000089,Modeva Men Apparel 0089,Fashion,Men Apparel,Modeva,83606.86,41782.22,572,0.08,49.97,295,60
+P000317,BrightNest Cookware 0317,Home & Kitchen,Cookware,BrightNest,83151.64,29620.6,916,0.07,35.62,296,75
+P000282,Modeva Men Apparel 0282,Fashion,Men Apparel,Modeva,82008.67,39346.91,1528,0.09,47.98,297,61
+P000761,TrailPeak Fitness 0761,Sports,Fitness,TrailPeak,81451.1,28795.59,1081,0.07,35.35,298,45
+P000127,Modeva Footwear 0127,Fashion,Footwear,Modeva,81255.53,32290.37,942,0.08,39.74,299,62
+P000562,Modeva Women Apparel 0562,Fashion,Women Apparel,Modeva,81074.64,40943.64,588,0.08,50.5,300,63
+P000051,NorthStitch Footwear 0051,Fashion,Footwear,NorthStitch,80128.86,43599.15,883,0.09,54.41,301,64
+P000436,Walkway Men Apparel 0436,Fashion,Men Apparel,Walkway,78987.09,25652.1,787,0.08,32.48,302,65
+P000628,Orbit Audio 0628,Electronics,Audio,Orbit,78193.38,19441.26,644,0.07,24.86,303,115
+P000407,Walkway Bags 0407,Fashion,Bags,Walkway,77746.32,33263.58,643,0.08,42.78,304,66
+P000365,MotionLab Cycling 0365,Sports,Cycling,MotionLab,77444.99,35258.53,722,0.07,45.53,305,46
+P000187,Kiva Decor 0187,Home & Kitchen,Decor,Kiva,77437.14,26907.06,1592,0.07,34.75,306,76
+P000017,Glowery Makeup 0017,Beauty,Makeup,Glowery,76779.92,43488.93,1031,0.08,56.64,307,3
+P000730,BrightNest Appliances 0730,Home & Kitchen,Appliances,BrightNest,76589.65,27792.07,438,0.07,36.29,308,77
+P000102,Stride Fitness 0102,Sports,Fitness,Stride,76486.38,24137.13,939,0.07,31.56,309,47
+P000391,BareBloom Haircare 0391,Beauty,Haircare,BareBloom,76024.77,30646.37,866,0.08,40.31,310,4
+P000517,UrbanThread Men Apparel 0517,Fashion,Men Apparel,UrbanThread,75997.9,45724.3,2544,0.08,60.17,311,67
+P000617,ArenaPro Fitness 0617,Sports,Fitness,ArenaPro,75613.2,17847.6,339,0.08,23.6,312,48
+P000131,NorthStitch Men Apparel 0131,Fashion,Men Apparel,NorthStitch,74748.87,26812.95,1054,0.09,35.87,313,68
+P000011,Kiva Storage 0011,Home & Kitchen,Storage,Kiva,74575.31,31841.31,1150,0.07,42.7,314,78
+P000666,MotionLab Fitness 0666,Sports,Fitness,MotionLab,73626.65,32259.27,431,0.07,43.81,315,49
+P000207,Orbit Accessories 0207,Electronics,Accessories,Orbit,72256.67,16237.07,494,0.07,22.47,316,116
+P000411,VoltFit Fitness 0411,Sports,Fitness,VoltFit,72177.54,31956.32,481,0.07,44.27,317,50
+P000369,Walkway Footwear 0369,Fashion,Footwear,Walkway,71416.63,34815.23,635,0.08,48.75,318,69
+P000767,Modeva Bags 0767,Fashion,Bags,Modeva,70625.55,23601.55,800,0.09,33.42,319,70
+P000284,Luma Footwear 0284,Fashion,Footwear,Luma,70507.56,37743.96,760,0.09,53.53,320,71
+P000739,CraftHaus Decor 0739,Home & Kitchen,Decor,CraftHaus,70407.11,18314.41,710,0.07,26.01,321,79
+P000663,Walkway Women Apparel 0663,Fashion,Women Apparel,Walkway,70393.19,23777.26,703,0.09,33.78,322,72
+P000013,ArenaPro Outdoor 0013,Sports,Outdoor,ArenaPro,69164.42,28928.96,151,0.07,41.83,323,51
+P000076,Modeva Men Apparel 0076,Fashion,Men Apparel,Modeva,69043.23,35398.23,500,0.08,51.27,324,73
+P000399,BrightNest Decor 0399,Home & Kitchen,Decor,BrightNest,68929.86,31855.35,657,0.07,46.21,325,80
+P000060,PulseTech Accessories 0060,Electronics,Accessories,PulseTech,68348.59,22934.59,841,0.07,33.56,326,117
+P000458,CraftHaus Decor 0458,Home & Kitchen,Decor,CraftHaus,68156.34,34221.96,867,0.07,50.21,327,81
+P000210,Homely Storage 0210,Home & Kitchen,Storage,Homely,68139.55,28341.55,804,0.07,41.59,328,82
+P000228,Glowery Fragrance 0228,Beauty,Fragrance,Glowery,68073.29,37374.73,776,0.09,54.9,329,5
+P000035,Homely Cookware 0035,Home & Kitchen,Cookware,Homely,68047.5,17705.01,723,0.07,26.02,330,83
+P000781,Modeva Men Apparel 0781,Fashion,Men Apparel,Modeva,67691.44,21777.01,1293,0.09,32.17,331,74
+P000482,Modeva Footwear 0482,Fashion,Footwear,Modeva,66615.82,37279.26,629,0.09,55.96,332,75
+P000222,CraftHaus Storage 0222,Home & Kitchen,Storage,CraftHaus,66303.36,23189.16,905,0.06,34.97,333,84
+P000269,Nexora Audio 0269,Electronics,Audio,Nexora,65786.74,11108.5,432,0.08,16.89,334,118
+P000751,Luma Women Apparel 0751,Fashion,Women Apparel,Luma,64917.62,27581.37,1255,0.09,42.49,335,76
+P000537,BareBloom Fragrance 0537,Beauty,Fragrance,BareBloom,64680.35,26621.48,489,0.09,41.16,336,6
+P000040,VoltFit Outdoor 0040,Sports,Outdoor,VoltFit,64420.16,24862.16,347,0.07,38.59,337,52
+P000425,BareBloom Skincare 0425,Beauty,Skincare,BareBloom,64322.31,32579.77,811,0.08,50.65,338,7
+P000727,Walkway Women Apparel 0727,Fashion,Women Apparel,Walkway,64255.52,27825.56,434,0.09,43.3,339,77
+P000542,Glowery Fragrance 0542,Beauty,Fragrance,Glowery,63924.71,25892.88,503,0.08,40.51,340,8
+P000066,Auren Haircare 0066,Beauty,Haircare,Auren,63693.88,39395.32,1144,0.08,61.85,341,9
+P000456,Modeva Men Apparel 0456,Fashion,Men Apparel,Modeva,63630.18,31293.72,507,0.09,49.18,342,78
+P000190,UrbanThread Footwear 0190,Fashion,Footwear,UrbanThread,63625.37,32871.05,762,0.08,51.66,343,79
+P000641,MotionLab Team Sports 0641,Sports,Team Sports,MotionLab,63137.78,28058.12,462,0.07,44.44,344,53
+P000036,Walkway Women Apparel 0036,Fashion,Women Apparel,Walkway,63087.33,36646.89,663,0.09,58.09,345,80
+P000550,BrightNest Decor 0550,Home & Kitchen,Decor,BrightNest,62977.96,23539.06,729,0.07,37.38,346,85
+P000444,UrbanThread Bags 0444,Fashion,Bags,UrbanThread,62921.92,24621.67,669,0.09,39.13,347,81
+P000088,Kiva Decor 0088,Home & Kitchen,Decor,Kiva,62893.03,22761.65,1082,0.07,36.19,348,86
+P000611,Glowery Fragrance 0611,Beauty,Fragrance,Glowery,62321.91,22074.73,787,0.09,35.42,349,10
+P000700,Modeva Footwear 0700,Fashion,Footwear,Modeva,62111.69,30381.75,466,0.09,48.91,350,82
+P000476,Modeva Accessories 0476,Fashion,Accessories,Modeva,61682.51,36705.92,1257,0.09,59.51,351,83
+P000122,VoltFit Outdoor 0122,Sports,Outdoor,VoltFit,61020.9,17386.96,454,0.07,28.49,352,54
+P000216,MotionLab Fitness 0216,Sports,Fitness,MotionLab,60959.3,23525.15,243,0.07,38.59,353,55
+P000554,Kidora Outdoor Toys 0554,Toys,Outdoor Toys,Kidora,60372.55,20205.01,497,0.09,33.47,354,2
+P000618,NorthStitch Men Apparel 0618,Fashion,Men Apparel,NorthStitch,60338.75,23719.09,539,0.09,39.31,355,84
+P000629,BareBloom Haircare 0629,Beauty,Haircare,BareBloom,60023.17,32716.75,969,0.09,54.51,356,11
+P000592,Elm & Co Decor 0592,Home & Kitchen,Decor,Elm & Co,59902.09,21958.09,720,0.07,36.66,357,87
+P000260,Citrine Skincare 0260,Beauty,Skincare,Citrine,59655.96,21479.22,574,0.08,36.01,358,12
+P000030,VoltFit Cycling 0030,Sports,Cycling,VoltFit,59348.2,20248.3,258,0.07,34.12,359,56
+P000400,CraftHaus Decor 0400,Home & Kitchen,Decor,CraftHaus,58829.37,22949.37,500,0.07,39.01,360,88
+P000286,BrightNest Decor 0286,Home & Kitchen,Decor,BrightNest,58168.6,17185.84,1053,0.07,29.54,361,89
+P000638,TrailPeak Fitness 0638,Sports,Fitness,TrailPeak,57826.45,29171.45,550,0.07,50.45,362,57
+P000699,Stride Team Sports 0699,Sports,Team Sports,Stride,57319.28,14653.28,1300,0.07,25.56,363,58
+P000002,BrightNest Cookware 0002,Home & Kitchen,Cookware,BrightNest,57091.75,28672.63,1062,0.08,50.22,364,90
+P000577,PuzzleWorks Outdoor Toys 0577,Toys,Outdoor Toys,PuzzleWorks,57017.37,19868.41,632,0.09,34.85,365,3
+P000548,Aster Audio 0548,Electronics,Audio,Aster,56952.73,14794.93,422,0.07,25.98,366,119
+P000220,BrightNest Decor 0220,Home & Kitchen,Decor,BrightNest,56759.62,24898.9,408,0.07,43.87,367,91
+P000494,Walkway Bags 0494,Fashion,Bags,Walkway,56307.55,31685.61,443,0.09,56.27,368,85
+P000775,Nexora Accessories 0775,Electronics,Accessories,Nexora,56246.42,18923.42,754,0.07,33.64,369,120
+P000049,MotionLab Fitness 0049,Sports,Fitness,MotionLab,56088.58,18949.14,533,0.07,33.78,370,59
+P000669,UrbanThread Bags 0669,Fashion,Bags,UrbanThread,55666.7,28745.66,552,0.09,51.64,371,86
+P000048,Luma Men Apparel 0048,Fashion,Men Apparel,Luma,55642.59,27444.26,1051,0.09,49.32,372,87
+P000710,BrightNest Decor 0710,Home & Kitchen,Decor,BrightNest,55285.12,19022.08,816,0.07,34.41,373,92
+P000735,Nexora Audio 0735,Electronics,Audio,Nexora,54618.09,19218.62,211,0.07,35.19,374,121
+P000275,Stride Team Sports 0275,Sports,Team Sports,Stride,54360.37,23389.57,1229,0.07,43.03,375,60
+P000450,Citrine Fragrance 0450,Beauty,Fragrance,Citrine,53633.65,31776.43,498,0.08,59.25,376,13
+P000401,Luma Women Apparel 0401,Fashion,Women Apparel,Luma,53585.01,17750.02,593,0.09,33.12,377,88
+P000417,Aster Audio 0417,Electronics,Audio,Aster,52637.66,8167.02,323,0.08,15.52,378,122
+P000189,MotionLab Team Sports 0189,Sports,Team Sports,MotionLab,52266.97,25385.77,540,0.07,48.57,379,61
+P000515,Walkway Footwear 0515,Fashion,Footwear,Walkway,52166.69,21253.7,543,0.08,40.74,380,89
+P000316,Walkway Men Apparel 0316,Fashion,Men Apparel,Walkway,52071.68,24010.67,501,0.08,46.11,381,90
+P000314,Kiva Decor 0314,Home & Kitchen,Decor,Kiva,52034.17,25021.17,908,0.07,48.09,382,93
+P000016,Luma Bags 0016,Fashion,Bags,Luma,51966.65,21434.41,424,0.09,41.25,383,91
+P000095,Luma Accessories 0095,Fashion,Accessories,Luma,51851.95,17252.19,884,0.08,33.27,384,92
+P000068,NorthStitch Women Apparel 0068,Fashion,Women Apparel,NorthStitch,51802.71,29559.06,915,0.09,57.06,385,93
+P000589,Walkway Bags 0589,Fashion,Bags,Walkway,51563.85,30999.79,422,0.09,60.12,386,94
+P000005,Orbit Audio 0005,Electronics,Audio,Orbit,51364.31,17774.3,237,0.07,34.6,387,123
+P000780,BrightPlay Dolls 0780,Toys,Dolls,BrightPlay,51085.81,21772.05,784,0.08,42.62,388,4
+P000364,PulseTech Accessories 0364,Electronics,Accessories,PulseTech,50997.74,10667.74,925,0.07,20.92,389,124
+P000138,Elm & Co Cookware 0138,Home & Kitchen,Cookware,Elm & Co,50875.2,21845.43,497,0.07,42.94,390,94
+P000309,NorthStitch Bags 0309,Fashion,Bags,NorthStitch,50874.71,26258.64,841,0.08,51.61,391,95
+P000325,Kidora STEM Toys 0325,Toys,STEM Toys,Kidora,50557.96,17738.8,564,0.08,35.09,392,5
+P000421,Stride Team Sports 0421,Sports,Team Sports,Stride,50182.07,19719.11,726,0.07,39.3,393,62
+P000755,TrailPeak Fitness 0755,Sports,Fitness,TrailPeak,50161.57,21786.37,210,0.07,43.43,394,63
+P000484,Modeva Women Apparel 0484,Fashion,Women Apparel,Modeva,50125.23,19565.23,500,0.08,39.03,395,96
+P000113,NorthStitch Women Apparel 0113,Fashion,Women Apparel,NorthStitch,49952.81,30186.57,559,0.08,60.43,396,97
+P000434,BrightPlay Outdoor Toys 0434,Toys,Outdoor Toys,BrightPlay,49702.33,24948.73,480,0.09,50.2,397,6
+P000674,Stride Fitness 0674,Sports,Fitness,Stride,49262.74,16933.96,438,0.07,34.37,398,64
+P000206,Walkway Accessories 0206,Fashion,Accessories,Walkway,49179.94,22574.27,1183,0.08,45.9,399,98
+P000547,BrightNest Decor 0547,Home & Kitchen,Decor,BrightNest,49107.21,12372.33,464,0.07,25.19,400,95
+P000097,BrightNest Cookware 0097,Home & Kitchen,Cookware,BrightNest,48574.2,23288.28,528,0.06,47.94,401,96
+P000349,Glowery Fragrance 0349,Beauty,Fragrance,Glowery,48431.73,25242.96,531,0.09,52.12,402,14
+P000145,Homely Decor 0145,Home & Kitchen,Decor,Homely,47768.11,23146.67,496,0.07,48.46,403,97
+P000553,Walkway Men Apparel 0553,Fashion,Men Apparel,Walkway,47767.66,25624.12,1086,0.09,53.64,404,99
+P000124,Homely Cookware 0124,Home & Kitchen,Cookware,Homely,47252.79,15423.54,555,0.07,32.64,405,98
+P000597,MotionLab Fitness 0597,Sports,Fitness,MotionLab,47031.13,14857.55,359,0.07,31.59,406,65
+P000507,NorthStitch Accessories 0507,Fashion,Accessories,NorthStitch,46878.38,28547.84,718,0.09,60.9,407,100
+P000356,Citrine Haircare 0356,Beauty,Haircare,Citrine,46617.96,26030.07,573,0.08,55.84,408,15
+P000203,Elm & Co Cookware 0203,Home & Kitchen,Cookware,Elm & Co,46312.28,13237.1,954,0.07,28.58,409,99
+P000661,UrbanThread Footwear 0661,Fashion,Footwear,UrbanThread,46275.17,19735.09,664,0.09,42.65,410,101
+P000363,Aster Audio 0363,Electronics,Audio,Aster,46211.52,8973.93,351,0.07,19.42,411,125
+P000142,Kiva Storage 0142,Home & Kitchen,Storage,Kiva,46039.09,12912.04,1181,0.07,28.05,412,100
+P000289,Citrine Makeup 0289,Beauty,Makeup,Citrine,45848.7,16956.0,738,0.08,36.98,413,16
+P000530,UrbanThread Women Apparel 0530,Fashion,Women Apparel,UrbanThread,45725.12,27329.96,359,0.08,59.77,414,102
+P000480,CraftHaus Appliances 0480,Home & Kitchen,Appliances,CraftHaus,45603.16,17586.82,187,0.07,38.56,415,101
+P000237,CraftHaus Decor 0237,Home & Kitchen,Decor,CraftHaus,45296.49,23149.47,434,0.07,51.11,416,102
+P000504,Elm & Co Storage 0504,Home & Kitchen,Storage,Elm & Co,45103.28,23765.6,364,0.07,52.69,417,103
+P000778,Luma Women Apparel 0778,Fashion,Women Apparel,Luma,45078.35,27352.33,863,0.08,60.68,418,103
+P000184,UrbanThread Men Apparel 0184,Fashion,Men Apparel,UrbanThread,45005.08,16689.88,408,0.08,37.08,419,104
+P000571,NorthStitch Accessories 0571,Fashion,Accessories,NorthStitch,44372.68,25869.52,1227,0.08,58.3,420,105
+P000412,MotionLab Cycling 0412,Sports,Cycling,MotionLab,44271.3,13645.58,236,0.07,30.82,421,66
+P000461,Silka Skincare 0461,Beauty,Skincare,Silka,43867.33,16267.26,461,0.08,37.08,422,17
+P000686,Luma Women Apparel 0686,Fashion,Women Apparel,Luma,43602.76,21315.76,380,0.09,48.89,423,106
+P000213,Modeva Accessories 0213,Fashion,Accessories,Modeva,43592.1,14831.61,1089,0.08,34.02,424,107
+P000622,CraftHaus Decor 0622,Home & Kitchen,Decor,CraftHaus,43465.05,13360.95,558,0.07,30.74,425,104
+P000344,Auren Makeup 0344,Beauty,Makeup,Auren,43183.91,14456.09,1089,0.08,33.48,426,18
+P000791,Luma Women Apparel 0791,Fashion,Women Apparel,Luma,43171.32,17518.2,372,0.09,40.58,427,108
+P000374,Luma Accessories 0374,Fashion,Accessories,Luma,43139.05,22714.9,1107,0.09,52.66,428,109
+P000675,Glowery Haircare 0675,Beauty,Haircare,Glowery,43114.86,14329.86,505,0.08,33.24,429,19
+P000427,Modeva Bags 0427,Fashion,Bags,Modeva,42950.42,21605.84,841,0.08,50.3,430,110
+P000338,MotionLab Outdoor 0338,Sports,Outdoor,MotionLab,42461.32,20516.14,134,0.06,48.32,431,67
+P000753,Walkway Footwear 0753,Fashion,Footwear,Walkway,42387.05,23399.25,545,0.09,55.2,432,111
+P000620,PulseTech Audio 0620,Electronics,Audio,PulseTech,41840.35,13865.65,390,0.07,33.14,433,126
+P000375,PulseTech Accessories 0375,Electronics,Accessories,PulseTech,41830.88,13665.08,628,0.07,32.67,434,127
+P000182,Kidora STEM Toys 0182,Toys,STEM Toys,Kidora,39566.07,14042.34,369,0.09,35.49,435,7
+P000578,Silka Haircare 0578,Beauty,Haircare,Silka,39217.9,24053.08,666,0.08,61.33,436,20
+P000481,CraftHaus Decor 0481,Home & Kitchen,Decor,CraftHaus,38994.5,17159.46,1142,0.07,44.0,437,105
+P000453,VoltFit Outdoor 0453,Sports,Outdoor,VoltFit,38953.18,16344.7,222,0.08,41.96,438,68
+P000538,Luma Accessories 0538,Fashion,Accessories,Luma,38596.16,17802.2,1068,0.08,46.12,439,112
+P000496,Glowery Haircare 0496,Beauty,Haircare,Glowery,38378.75,15158.41,506,0.08,39.5,440,21
+P000557,NorthStitch Accessories 0557,Fashion,Accessories,NorthStitch,38231.91,18569.91,1160,0.08,48.57,441,113
+P000470,BrightNest Decor 0470,Home & Kitchen,Decor,BrightNest,37587.97,19393.05,788,0.07,51.59,442,106
+P000351,BareBloom Skincare 0351,Beauty,Skincare,BareBloom,37370.76,17623.56,440,0.08,47.16,443,22
+P000034,BrightNest Decor 0034,Home & Kitchen,Decor,BrightNest,37066.37,17537.67,487,0.06,47.31,444,107
+P000339,Orbit Accessories 0339,Electronics,Accessories,Orbit,36746.45,7669.1,447,0.07,20.87,445,128
+P000763,Nexora Accessories 0763,Electronics,Accessories,Nexora,36569.54,9320.5,494,0.07,25.49,446,129
+P000600,Auren Makeup 0600,Beauty,Makeup,Auren,35748.6,12140.91,499,0.08,33.96,447,23
+P000598,Citrine Haircare 0598,Beauty,Haircare,Citrine,35483.24,20544.44,633,0.09,57.9,448,24
+P000147,UrbanThread Footwear 0147,Fashion,Footwear,UrbanThread,35286.24,12726.24,470,0.09,36.07,449,114
+P000615,NorthStitch Accessories 0615,Fashion,Accessories,NorthStitch,35240.17,18752.65,588,0.08,53.21,450,115
+P000082,Kiva Storage 0082,Home & Kitchen,Storage,Kiva,34947.9,15682.05,1809,0.07,44.87,451,108
+P000682,Modeva Bags 0682,Fashion,Bags,Modeva,34862.58,15475.94,364,0.09,44.39,452,116
+P000296,BrightPlay Outdoor Toys 0296,Toys,Outdoor Toys,BrightPlay,34771.07,13479.59,441,0.08,38.77,453,8
+P000348,NorthStitch Women Apparel 0348,Fashion,Women Apparel,NorthStitch,34736.41,12050.49,568,0.07,34.69,454,117
+P000278,Elm & Co Storage 0278,Home & Kitchen,Storage,Elm & Co,34253.75,11724.5,475,0.07,34.23,455,109
+P000499,CraftHaus Storage 0499,Home & Kitchen,Storage,CraftHaus,34226.99,11299.91,1452,0.07,33.01,456,110
+P000712,Stride Team Sports 0712,Sports,Team Sports,Stride,34204.26,13852.26,300,0.07,40.5,457,69
+P000072,Elm & Co Storage 0072,Home & Kitchen,Storage,Elm & Co,34147.46,16931.36,666,0.07,49.58,458,111
+P000757,Walkway Men Apparel 0757,Fashion,Men Apparel,Walkway,33723.35,20733.8,445,0.09,61.48,459,118
+P000353,BareBloom Fragrance 0353,Beauty,Fragrance,BareBloom,33660.24,18282.4,536,0.09,54.31,460,25
+P000587,NorthStitch Women Apparel 0587,Fashion,Women Apparel,NorthStitch,33394.14,14506.15,899,0.08,43.44,461,119
+P000186,VoltFit Fitness 0186,Sports,Fitness,VoltFit,33217.25,13688.81,218,0.07,41.21,462,70
+P000783,Kiva Cookware 0783,Home & Kitchen,Cookware,Kiva,33115.36,10039.86,266,0.05,30.32,463,112
+P000330,Walkway Accessories 0330,Fashion,Accessories,Walkway,32913.51,19488.03,558,0.09,59.21,464,120
+P000433,VoltFit Team Sports 0433,Sports,Team Sports,VoltFit,32646.36,16489.8,354,0.08,50.51,465,71
+P000311,Elm & Co Decor 0311,Home & Kitchen,Decor,Elm & Co,32451.26,10427.19,1014,0.07,32.13,466,113
+P000215,VoltFit Outdoor 0215,Sports,Outdoor,VoltFit,32410.83,15963.96,333,0.07,49.26,467,72
+P000245,Auren Haircare 0245,Beauty,Haircare,Auren,32322.76,19381.06,537,0.08,59.96,468,26
+P000796,UrbanThread Accessories 0796,Fashion,Accessories,UrbanThread,32319.83,11763.84,637,0.08,36.4,469,121
+P000750,Kidora Board Games 0750,Toys,Board Games,Kidora,32087.7,14877.55,492,0.09,46.37,470,9
+P000608,Orbit Accessories 0608,Electronics,Accessories,Orbit,32013.99,5513.79,580,0.07,17.22,471,130
+P000118,Stride Team Sports 0118,Sports,Team Sports,Stride,31998.31,16000.35,706,0.07,50.0,472,73
+P000310,Orbit Accessories 0310,Electronics,Accessories,Orbit,31749.1,9350.64,1151,0.07,29.45,473,131
+P000455,Nexora Accessories 0455,Electronics,Accessories,Nexora,31714.22,6073.7,438,0.07,19.15,474,132
+P000788,Luma Men Apparel 0788,Fashion,Men Apparel,Luma,31537.38,12943.35,637,0.08,41.04,475,122
+P000132,GreenFarm Snacks 0132,Grocery,Snacks,GreenFarm,31449.59,15428.06,1323,0.07,49.06,476,1
+P000121,Glowery Skincare 0121,Beauty,Skincare,Glowery,31256.23,11646.73,510,0.09,37.26,477,27
+P000372,NorthStitch Women Apparel 0372,Fashion,Women Apparel,NorthStitch,31161.38,17381.38,520,0.09,55.78,478,123
+P000079,Auren Makeup 0079,Beauty,Makeup,Auren,31085.4,16075.44,642,0.09,51.71,479,28
+P000033,Modeva Women Apparel 0033,Fashion,Women Apparel,Modeva,31031.49,17315.97,471,0.09,55.8,480,124
+P000026,Luma Accessories 0026,Fashion,Accessories,Luma,30688.75,16175.17,867,0.08,52.71,481,125
+P000266,Walkway Men Apparel 0266,Fashion,Men Apparel,Walkway,30611.86,17302.54,563,0.09,56.52,482,126
+P000176,Orbit Accessories 0176,Electronics,Accessories,Orbit,30571.2,7883.23,449,0.07,25.79,483,133
+P000687,Kiva Cookware 0687,Home & Kitchen,Cookware,Kiva,30570.42,12998.01,333,0.07,42.52,484,114
+P000717,Citrine Skincare 0717,Beauty,Skincare,Citrine,30502.49,17527.49,375,0.08,57.46,485,29
+P000041,Homely Decor 0041,Home & Kitchen,Decor,Homely,30406.91,11077.94,257,0.07,36.43,486,115
+P000085,Nexora Accessories 0085,Electronics,Accessories,Nexora,30111.4,9473.2,660,0.07,31.46,487,134
+P000752,Walkway Men Apparel 0752,Fashion,Men Apparel,Walkway,29989.15,13947.95,337,0.1,46.51,488,127
+P000305,PuzzleWorks Dolls 0305,Toys,Dolls,PuzzleWorks,29902.62,13494.61,397,0.08,45.13,489,10
+P000460,Citrine Makeup 0460,Beauty,Makeup,Citrine,29797.4,9867.47,976,0.08,33.12,490,30
+P000479,Silka Fragrance 0479,Beauty,Fragrance,Silka,29768.41,17092.11,245,0.09,57.42,491,31
+P000733,ZenByte Accessories 0733,Electronics,Accessories,ZenByte,29712.27,4920.77,554,0.07,16.56,492,135
+P000387,Stride Fitness 0387,Sports,Fitness,Stride,29630.41,10866.25,174,0.07,36.67,493,74
+P000212,Glowery Makeup 0212,Beauty,Makeup,Glowery,29565.04,9770.92,1054,0.08,33.05,494,32
+P000152,Kidora Board Games 0152,Toys,Board Games,Kidora,29507.08,8183.56,1234,0.09,27.73,495,11
+P000058,Glowery Fragrance 0058,Beauty,Fragrance,Glowery,29490.1,10268.65,635,0.09,34.82,496,33
+P000569,CraftHaus Storage 0569,Home & Kitchen,Storage,CraftHaus,29456.6,7857.36,1138,0.07,26.67,497,116
+P000693,Modeva Men Apparel 0693,Fashion,Men Apparel,Modeva,29104.52,13556.78,403,0.08,46.58,498,128
+P000070,CraftHaus Storage 0070,Home & Kitchen,Storage,CraftHaus,29052.45,11887.86,367,0.07,40.92,499,117
+P000277,UrbanThread Men Apparel 0277,Fashion,Men Apparel,UrbanThread,28915.53,13797.42,399,0.08,47.72,500,129
+P000177,CraftHaus Cookware 0177,Home & Kitchen,Cookware,CraftHaus,28907.87,9023.67,490,0.07,31.22,501,118
+P000279,PuzzleWorks STEM Toys 0279,Toys,STEM Toys,PuzzleWorks,28744.82,12154.04,549,0.08,42.28,502,12
+P000329,BareBloom Fragrance 0329,Beauty,Fragrance,BareBloom,28615.8,14924.96,244,0.08,52.16,503,34
+P000491,ArenaPro Team Sports 0491,Sports,Team Sports,ArenaPro,28524.27,9172.77,266,0.07,32.16,504,75
+P000073,Kidora STEM Toys 0073,Toys,STEM Toys,Kidora,28087.24,14724.09,335,0.09,52.42,505,13
+P000234,Silka Makeup 0234,Beauty,Makeup,Silka,27751.87,9337.15,556,0.08,33.65,506,35
+P000711,DailyBite Organic 0711,Grocery,Organic,DailyBite,27712.83,10487.37,1323,0.07,37.84,507,2
+P000795,PulseTech Accessories 0795,Electronics,Accessories,PulseTech,27650.02,10073.17,555,0.07,36.43,508,136
+P000055,VoltFit Outdoor 0055,Sports,Outdoor,VoltFit,27612.24,7294.53,217,0.07,26.42,509,76
+P000153,ZenByte Accessories 0153,Electronics,Accessories,ZenByte,27423.59,7263.59,240,0.07,26.49,510,137
+P000490,Auren Skincare 0490,Beauty,Skincare,Auren,27327.52,9849.22,410,0.09,36.04,511,36
+P000511,PulseTech Accessories 0511,Electronics,Accessories,PulseTech,27293.55,5247.27,404,0.08,19.23,512,138
+P000024,BrightPlay STEM Toys 0024,Toys,STEM Toys,BrightPlay,27287.3,14515.7,367,0.09,53.2,513,14
+P000709,Homely Storage 0709,Home & Kitchen,Storage,Homely,27280.59,9363.45,402,0.06,34.32,514,119
+P000468,GreenFarm Beverages 0468,Grocery,Beverages,GreenFarm,27087.06,13436.08,694,0.07,49.6,515,3
+P000096,Silka Skincare 0096,Beauty,Skincare,Silka,27008.59,10619.14,385,0.09,39.32,516,37
+P000563,PuzzleWorks Outdoor Toys 0563,Toys,Outdoor Toys,PuzzleWorks,26982.02,13691.34,244,0.08,50.74,517,15
+P000607,PuzzleWorks Dolls 0607,Toys,Dolls,PuzzleWorks,26909.48,7498.88,346,0.08,27.87,518,16
+P000475,NorthStitch Bags 0475,Fashion,Bags,NorthStitch,26484.58,9321.98,287,0.09,35.2,519,130
+P000793,Luma Men Apparel 0793,Fashion,Men Apparel,Luma,26465.34,16267.22,386,0.09,61.47,520,131
+P000770,Silka Haircare 0770,Beauty,Haircare,Silka,26243.04,8878.29,845,0.09,33.83,521,38
+P000714,BrightPlay Dolls 0714,Toys,Dolls,BrightPlay,26014.04,12345.5,282,0.08,47.46,522,17
+P000776,BrightPlay Dolls 0776,Toys,Dolls,BrightPlay,25807.72,12872.56,522,0.09,49.88,523,18
+P000383,PageMint Business 0383,Books,Business,PageMint,25755.25,14036.35,522,0.07,54.5,524,1
+P000722,BrightNest Storage 0722,Home & Kitchen,Storage,BrightNest,25430.65,9672.17,562,0.07,38.03,525,120
+P000683,Nexora Accessories 0683,Electronics,Accessories,Nexora,25297.18,5326.26,731,0.07,21.05,526,139
+P000181,BrightPlay STEM Toys 0181,Toys,STEM Toys,BrightPlay,24927.88,9811.24,308,0.09,39.36,527,19
+P000431,HarvestLane Organic 0431,Grocery,Organic,HarvestLane,24845.86,9362.96,535,0.07,37.68,528,4
+P000381,BareBloom Fragrance 0381,Beauty,Fragrance,BareBloom,24832.95,12347.15,326,0.09,49.72,529,39
+P000532,VoltFit Team Sports 0532,Sports,Team Sports,VoltFit,24799.27,6283.62,235,0.06,25.34,530,77
+P000166,CraftHaus Cookware 0166,Home & Kitchen,Cookware,CraftHaus,24412.37,12241.25,498,0.07,50.14,531,121
+P000285,BareBloom Skincare 0285,Beauty,Skincare,BareBloom,24302.5,8158.32,806,0.09,33.57,532,40
+P000199,Luma Men Apparel 0199,Fashion,Men Apparel,Luma,24131.14,11070.88,477,0.09,45.88,533,132
+P000786,CraftHaus Decor 0786,Home & Kitchen,Decor,CraftHaus,24123.89,12841.13,674,0.07,53.23,534,122
+P000380,ArenaPro Team Sports 0380,Sports,Team Sports,ArenaPro,24018.06,12844.88,358,0.07,53.48,535,78
+P000063,BareBloom Haircare 0063,Beauty,Haircare,BareBloom,24003.16,12379.24,1221,0.09,51.57,536,41
+P000773,Glowery Skincare 0773,Beauty,Skincare,Glowery,23870.84,12950.84,375,0.08,54.25,537,42
+P000743,WonderBox Board Games 0743,Toys,Board Games,WonderBox,23841.38,8466.64,398,0.08,35.51,538,20
+P000020,Citrine Haircare 0020,Beauty,Haircare,Citrine,23743.47,11018.72,575,0.09,46.41,539,43
+P000393,Auren Haircare 0393,Beauty,Haircare,Auren,23605.79,9597.29,283,0.08,40.66,540,44
+P000652,BrightPlay STEM Toys 0652,Toys,STEM Toys,BrightPlay,23404.41,6961.65,263,0.08,29.75,541,21
+P000464,Luma Men Apparel 0464,Fashion,Men Apparel,Luma,23387.78,10596.34,508,0.08,45.31,542,133
+P000684,CraftHaus Storage 0684,Home & Kitchen,Storage,CraftHaus,23302.95,9832.32,433,0.07,42.19,543,123
+P000386,GreenFarm Pantry 0386,Grocery,Pantry,GreenFarm,23282.44,12228.04,1120,0.07,52.52,544,5
+P000657,PuzzleWorks STEM Toys 0657,Toys,STEM Toys,PuzzleWorks,23009.24,11305.08,208,0.08,49.13,545,22
+P000582,BareBloom Fragrance 0582,Beauty,Fragrance,BareBloom,22830.68,11623.26,277,0.08,50.91,546,45
+P000106,VoltFit Team Sports 0106,Sports,Team Sports,VoltFit,22791.71,7197.56,429,0.06,31.58,547,79
+P000754,CraftHaus Decor 0754,Home & Kitchen,Decor,CraftHaus,22783.36,9463.56,260,0.07,41.54,548,124
+P000120,Glowery Skincare 0120,Beauty,Skincare,Glowery,22763.26,8893.56,470,0.08,39.07,549,46
+P000660,BrightNest Decor 0660,Home & Kitchen,Decor,BrightNest,22599.8,11531.05,385,0.06,51.02,550,125
+P000756,NorthStitch Men Apparel 0756,Fashion,Men Apparel,NorthStitch,22310.46,12473.1,312,0.09,55.91,551,134
+P000128,Aster Accessories 0128,Electronics,Accessories,Aster,22310.16,7525.28,583,0.07,33.73,552,140
+P000322,Homely Cookware 0322,Home & Kitchen,Cookware,Homely,21915.43,11486.48,415,0.07,52.41,553,126
+P000505,BareBloom Makeup 0505,Beauty,Makeup,BareBloom,21649.93,11139.37,811,0.08,51.45,554,47
+P000247,Citrine Skincare 0247,Beauty,Skincare,Citrine,21638.54,8126.6,442,0.09,37.56,555,48
+P000323,Luma Men Apparel 0323,Fashion,Men Apparel,Luma,21536.25,12500.1,535,0.08,58.04,556,135
+P000477,Homely Decor 0477,Home & Kitchen,Decor,Homely,21270.69,9431.39,229,0.08,44.34,557,127
+P000655,BrightPlay Dolls 0655,Toys,Dolls,BrightPlay,21266.11,10989.46,557,0.09,51.68,558,23
+P000471,Elm & Co Storage 0471,Home & Kitchen,Storage,Elm & Co,21263.53,6023.29,366,0.07,28.33,559,128
+P000149,CraftHaus Decor 0149,Home & Kitchen,Decor,CraftHaus,21080.35,7769.51,356,0.06,36.86,560,129
+P000130,Citrine Haircare 0130,Beauty,Haircare,Citrine,20675.24,8786.12,744,0.08,42.5,561,49
+P000498,Silka Skincare 0498,Beauty,Skincare,Silka,20634.31,10914.81,350,0.08,52.9,562,50
+P000414,PuzzleWorks STEM Toys 0414,Toys,STEM Toys,PuzzleWorks,20459.44,6132.49,457,0.09,29.97,563,24
+P000225,UrbanThread Accessories 0225,Fashion,Accessories,UrbanThread,20456.46,9500.06,520,0.09,46.44,564,136
+P000390,PuzzleWorks STEM Toys 0390,Toys,STEM Toys,PuzzleWorks,20410.03,7864.91,368,0.08,38.53,565,25
+P000508,BrightPlay Outdoor Toys 0508,Toys,Outdoor Toys,BrightPlay,20265.07,10418.84,289,0.09,51.41,566,26
+P000262,Northstar Press Technology 0262,Books,Technology,Northstar Press,20214.76,5360.8,484,0.07,26.52,567,2
+P000045,WonderBox Outdoor Toys 0045,Toys,Outdoor Toys,WonderBox,20214.18,6205.86,192,0.08,30.7,568,27
+P000165,Auren Makeup 0165,Beauty,Makeup,Auren,20085.03,10366.86,601,0.08,51.61,569,51
+P000800,VoltFit Team Sports 0800,Sports,Team Sports,VoltFit,20066.69,5272.97,366,0.07,26.28,570,80
+P000357,Inkline Business 0357,Books,Business,Inkline,20055.8,9151.35,467,0.07,45.63,571,3
+P000135,Citrine Makeup 0135,Beauty,Makeup,Citrine,20033.12,12180.89,387,0.09,60.8,572,52
+P000146,UrbanThread Accessories 0146,Fashion,Accessories,UrbanThread,19941.47,9864.59,726,0.08,49.47,573,137
+P000009,Orbit Accessories 0009,Electronics,Accessories,Orbit,19911.02,4993.6,839,0.07,25.08,574,141
+P000633,Orbit Accessories 0633,Electronics,Accessories,Orbit,19830.37,5845.0,711,0.07,29.47,575,142
+P000280,PuzzleWorks STEM Toys 0280,Toys,STEM Toys,PuzzleWorks,19690.8,6069.48,471,0.1,30.82,576,28
+P000585,DailyBite Pantry 0585,Grocery,Pantry,DailyBite,19682.76,9111.61,565,0.07,46.29,577,6
+P000432,PageMint Business 0432,Books,Business,PageMint,19191.12,8506.52,410,0.07,44.33,578,4
+P000765,GreenFarm Pantry 0765,Grocery,Pantry,GreenFarm,19145.2,7723.21,537,0.08,40.34,579,7
+P000566,MotionLab Team Sports 0566,Sports,Team Sports,MotionLab,19110.68,9278.0,191,0.07,48.55,580,81
+P000452,PuzzleWorks Dolls 0452,Toys,Dolls,PuzzleWorks,19109.87,5258.3,361,0.09,27.52,581,29
+P000543,BrightPlay STEM Toys 0543,Toys,STEM Toys,BrightPlay,18968.32,6567.22,270,0.08,34.62,582,30
+P000570,Citrine Haircare 0570,Beauty,Haircare,Citrine,18493.56,7912.92,376,0.09,42.79,583,53
+P000067,Citrine Haircare 0067,Beauty,Haircare,Citrine,18340.77,11010.77,500,0.08,60.03,584,54
+P000370,BrightPlay Board Games 0370,Toys,Board Games,BrightPlay,18288.2,4740.37,331,0.1,25.92,585,31
+P000259,Aster Accessories 0259,Electronics,Accessories,Aster,18175.92,3593.85,333,0.08,19.77,586,143
+P000308,BareBloom Makeup 0308,Beauty,Makeup,BareBloom,17897.65,8037.55,345,0.09,44.91,587,55
+P000493,MotionLab Fitness 0493,Sports,Fitness,MotionLab,17777.32,5253.24,178,0.06,29.55,588,82
+P000766,Aster Accessories 0766,Electronics,Accessories,Aster,17413.57,5084.83,459,0.07,29.2,589,144
+P000667,Inkline Technology 0667,Books,Technology,Inkline,17324.35,4256.62,351,0.07,24.57,590,5
+P000001,Inkline Business 0001,Books,Business,Inkline,17255.6,4879.64,683,0.07,28.28,591,6
+P000114,Silka Makeup 0114,Beauty,Makeup,Silka,17113.39,6673.24,489,0.08,38.99,592,56
+P000564,Silka Fragrance 0564,Beauty,Fragrance,Silka,16997.19,8344.14,123,0.1,49.09,593,57
+P000713,Northstar Press Technology 0713,Books,Technology,Northstar Press,16966.47,8055.26,781,0.07,47.48,594,7
+P000643,ZenByte Accessories 0643,Electronics,Accessories,ZenByte,16955.73,4988.49,372,0.07,29.42,595,145
+P000171,Modeva Accessories 0171,Fashion,Accessories,Modeva,16880.96,7660.76,254,0.08,45.38,596,138
+P000405,Freshly Beverages 0405,Grocery,Beverages,Freshly,16733.44,7074.44,743,0.07,42.28,597,8
+P000246,WonderBox Board Games 0246,Toys,Board Games,WonderBox,16682.79,5198.61,306,0.08,31.16,598,32
+P000466,Stride Fitness 0466,Sports,Fitness,Stride,16640.74,6530.24,277,0.07,39.24,599,83
+P000396,Elm & Co Decor 0396,Home & Kitchen,Decor,Elm & Co,16546.0,5629.04,284,0.07,34.02,600,130
+P000782,Freshly Pantry 0782,Grocery,Pantry,Freshly,16505.78,5906.62,572,0.07,35.79,601,9
+P000447,GreenFarm Pantry 0447,Grocery,Pantry,GreenFarm,16483.19,4737.47,553,0.06,28.74,602,10
+P000154,Citrine Skincare 0154,Beauty,Skincare,Citrine,16200.1,8070.0,778,0.08,49.81,603,58
+P000334,Kidora Board Games 0334,Toys,Board Games,Kidora,16170.98,5660.1,358,0.08,35.0,604,33
+P000774,WonderBox Outdoor Toys 0774,Toys,Outdoor Toys,WonderBox,16098.56,7045.54,326,0.09,43.77,605,34
+P000023,GreenFarm Organic 0023,Grocery,Organic,GreenFarm,15982.63,8262.12,371,0.07,51.69,606,11
+P000244,BareBloom Makeup 0244,Beauty,Makeup,BareBloom,15981.3,9246.9,488,0.08,57.86,607,59
+P000148,BareBloom Skincare 0148,Beauty,Skincare,BareBloom,15958.87,9562.33,362,0.09,59.92,608,60
+P000483,BareBloom Haircare 0483,Beauty,Haircare,BareBloom,15823.8,7832.88,294,0.1,49.5,609,61
+P000728,Nexora Accessories 0728,Electronics,Accessories,Nexora,15801.62,3830.84,393,0.08,24.24,610,146
+P000274,Glowery Fragrance 0274,Beauty,Fragrance,Glowery,15408.68,7254.12,272,0.07,47.08,611,62
+P000749,Inkline Business 0749,Books,Business,Inkline,15274.9,6102.04,289,0.08,39.95,612,8
+P000100,GreenFarm Organic 0100,Grocery,Organic,GreenFarm,15070.67,7487.57,322,0.08,49.68,613,12
+P000567,BlueLeaf Technology 0567,Books,Technology,BlueLeaf,15067.55,8106.19,401,0.07,53.8,614,9
+P000465,Silka Makeup 0465,Beauty,Makeup,Silka,14982.55,6627.56,833,0.08,44.24,615,63
+P000004,Stride Fitness 0004,Sports,Fitness,Stride,14901.98,8080.22,646,0.07,54.22,616,84
+P000110,Kidora Board Games 0110,Toys,Board Games,Kidora,14885.12,3571.7,314,0.08,24.0,617,35
+P000579,PuzzleWorks STEM Toys 0579,Toys,STEM Toys,PuzzleWorks,14603.08,4453.08,232,0.08,30.49,618,36
+P000644,Luma Footwear 0644,Fashion,Footwear,Luma,14587.02,7722.48,382,0.08,52.94,619,139
+P000133,BareBloom Haircare 0133,Beauty,Haircare,BareBloom,14478.18,7709.54,256,0.09,53.25,620,64
+P000614,Freshly Beverages 0614,Grocery,Beverages,Freshly,14427.97,4623.37,468,0.07,32.04,621,13
+P000367,PageMint Technology 0367,Books,Technology,PageMint,14400.47,5305.87,740,0.08,36.85,622,10
+P000235,HarvestLane Organic 0235,Grocery,Organic,HarvestLane,14398.52,4382.92,511,0.07,30.44,623,14
+P000690,Auren Haircare 0690,Beauty,Haircare,Auren,14362.49,8672.08,179,0.09,60.38,624,65
+P000324,Citrine Haircare 0324,Beauty,Haircare,Citrine,14335.55,5520.17,278,0.09,38.51,625,66
+P000428,BrightPlay Dolls 0428,Toys,Dolls,BrightPlay,14333.44,6982.96,246,0.09,48.72,626,37
+P000238,PageMint Business 0238,Books,Business,PageMint,14231.74,4602.1,414,0.07,32.34,627,11
+P000662,WonderBox STEM Toys 0662,Toys,STEM Toys,WonderBox,14131.03,4581.27,352,0.09,32.42,628,38
+P000586,Silka Haircare 0586,Beauty,Haircare,Silka,13921.1,7528.75,865,0.09,54.08,629,67
+P000236,Inkline Business 0236,Books,Business,Inkline,13906.35,5719.95,360,0.07,41.13,630,12
+P000303,Glowery Skincare 0303,Beauty,Skincare,Private Label,13826.46,4971.18,294,0.08,35.95,631,68
+P000397,BlueLeaf Technology 0397,Books,Technology,BlueLeaf,13601.96,7093.73,541,0.07,52.15,632,13
+P000021,Inkline Fiction 0021,Books,Fiction,Inkline,13564.64,4251.63,571,0.07,31.34,633,14
+P000580,Modeva Men Apparel 0580,Fashion,Men Apparel,Modeva,13521.85,6339.13,516,0.08,46.88,634,140
+P000632,BlueLeaf Fiction 0632,Books,Fiction,BlueLeaf,13467.17,6723.17,480,0.07,49.92,635,15
+P000056,Northstar Press Fiction 0056,Books,Fiction,Northstar Press,13291.33,6678.57,418,0.07,50.25,636,16
+P000704,Kidora Board Games 0704,Toys,Board Games,Kidora,13254.64,6596.56,264,0.08,49.77,637,39
+P000430,Northstar Press Business 0430,Books,Business,Northstar Press,13170.6,5373.94,349,0.07,40.8,638,17
+P000101,BrightPlay Board Games 0101,Toys,Board Games,BrightPlay,13111.77,3837.57,390,0.09,29.27,639,40
+P000116,WonderBox Board Games 0116,Toys,Board Games,WonderBox,13090.84,3993.76,246,0.07,30.51,640,41
+P000645,Auren Skincare 0645,Beauty,Skincare,Auren,13055.96,7015.48,304,0.08,53.73,641,69
+P000160,PageMint Children 0160,Books,Children,PageMint,12932.48,4825.55,533,0.07,37.31,642,18
+P000502,WonderBox STEM Toys 0502,Toys,STEM Toys,WonderBox,12692.24,5611.74,238,0.09,44.21,643,42
+P000685,Citrine Makeup 0685,Beauty,Makeup,Citrine,12684.56,4916.24,384,0.1,38.76,644,70
+P000006,GreenFarm Organic 0006,Grocery,Organic,GreenFarm,12676.98,4956.6,261,0.07,39.1,645,15
+P000301,BlueLeaf Children 0301,Books,Children,BlueLeaf,12542.6,5558.5,422,0.07,44.32,646,19
+P000413,Orbit Accessories 0413,Electronics,Accessories,Orbit,12409.89,3018.71,499,0.07,24.33,647,147
+P000219,HarvestLane Pantry 0219,Grocery,Pantry,HarvestLane,12317.37,5949.45,1256,0.07,48.3,648,16
+P000382,Freshly Pantry 0382,Grocery,Pantry,Freshly,12291.72,3392.22,425,0.06,27.6,649,17
+P000174,GreenFarm Pantry 0174,Grocery,Pantry,GreenFarm,12177.24,4963.8,624,0.07,40.76,650,18
+P000440,Glowery Makeup 0440,Beauty,Makeup,Glowery,12147.4,6591.85,555,0.09,54.27,651,71
+P000291,WonderBox Dolls 0291,Toys,Dolls,WonderBox,12121.56,3648.82,226,0.09,30.1,652,43
+P000105,Inkline Business 0105,Books,Business,Inkline,12091.68,3053.63,245,0.06,25.25,653,20
+P000518,Stride Team Sports 0518,Sports,Team Sports,Stride,11976.39,4537.44,183,0.08,37.89,654,85
+P000406,Kidora Dolls 0406,Toys,Dolls,Kidora,11943.96,6362.84,326,0.08,53.27,655,44
+P000463,GreenFarm Pantry 0463,Grocery,Pantry,GreenFarm,11902.17,5587.71,551,0.07,46.95,656,19
+P000328,Silka Makeup 0328,Beauty,Makeup,Silka,11827.61,6821.27,381,0.08,57.67,657,72
+P000503,DailyBite Snacks 0503,Grocery,Snacks,DailyBite,11775.9,4278.9,850,0.07,36.34,658,20
+P000478,Silka Haircare 0478,Beauty,Haircare,Silka,11747.22,4001.48,482,0.08,34.06,659,73
+P000241,Northstar Press Business 0241,Books,Business,Northstar Press,11615.26,3297.34,372,0.07,28.39,660,21
+P000167,Inkline Technology 0167,Books,Technology,Inkline,11484.84,5607.56,337,0.06,48.83,661,22
+P000137,HarvestLane Organic 0137,Grocery,Organic,HarvestLane,11401.31,3611.31,410,0.07,31.67,662,21
+P000008,Inkline Business 0008,Books,Business,Inkline,11330.31,3901.67,464,0.07,34.44,663,23
+P000090,Kiva Decor 0090,Home & Kitchen,Decor,Kiva,11300.52,4861.37,445,0.07,43.02,664,131
+P000361,DailyBite Pantry 0361,Grocery,Pantry,DailyBite,11282.37,4781.33,494,0.07,42.38,665,22
+P000242,BlueLeaf Technology 0242,Books,Technology,BlueLeaf,11276.37,5576.53,244,0.07,49.45,666,24
+P000426,Inkline Business 0426,Books,Business,Inkline,11134.34,5496.12,206,0.07,49.36,667,25
+P000779,Inkline Business 0779,Books,Business,Inkline,11103.79,3255.46,281,0.07,29.32,668,26
+P000252,WonderBox Outdoor Toys 0252,Toys,Outdoor Toys,WonderBox,11031.34,3423.28,193,0.08,31.03,669,45
+P000520,Inkline Fiction 0520,Books,Fiction,Inkline,10961.52,5531.3,317,0.07,50.46,670,27
+P000342,DailyBite Organic 0342,Grocery,Organic,DailyBite,10935.26,5729.26,274,0.07,52.39,671,23
+P000202,HarvestLane Beverages 0202,Grocery,Beverages,HarvestLane,10579.63,4854.87,668,0.07,45.89,672,24
+P000229,Silka Haircare 0229,Beauty,Haircare,Silka,10397.41,3420.16,525,0.08,32.89,673,74
+P000777,Silka Haircare 0777,Beauty,Haircare,Silka,10385.94,5078.82,126,0.09,48.9,674,75
+P000257,Northstar Press Technology 0257,Books,Technology,Northstar Press,10365.71,4410.21,277,0.07,42.55,675,28
+P000336,Silka Haircare 0336,Beauty,Haircare,Silka,10315.32,5029.92,460,0.08,48.76,676,76
+P000630,Inkline Technology 0630,Books,Technology,Inkline,10300.79,4095.57,349,0.06,39.76,677,29
+P000599,HarvestLane Snacks 0599,Grocery,Snacks,HarvestLane,10257.81,5345.21,406,0.07,52.11,678,25
+P000621,BlueLeaf Business 0621,Books,Business,BlueLeaf,10251.75,4350.72,379,0.08,42.44,679,30
+P000327,Northstar Press Technology 0327,Books,Technology,Northstar Press,10145.69,5065.51,277,0.07,49.93,680,31
+P000575,WonderBox Outdoor Toys 0575,Toys,Outdoor Toys,WonderBox,10063.45,2615.45,112,0.08,25.99,681,46
+P000758,GreenFarm Organic 0758,Grocery,Organic,GreenFarm,9892.67,3325.91,222,0.07,33.62,682,26
+P000347,GreenFarm Beverages 0347,Grocery,Beverages,GreenFarm,9836.29,5300.92,313,0.07,53.89,683,27
+P000659,Silka Skincare 0659,Beauty,Skincare,Silka,9795.64,4190.14,222,0.08,42.78,684,77
+P000594,Citrine Skincare 0594,Beauty,Skincare,Citrine,9591.78,3584.87,533,0.08,37.37,685,78
+P000198,PuzzleWorks Outdoor Toys 0198,Toys,Outdoor Toys,PuzzleWorks,9423.76,4929.46,213,0.08,52.31,686,47
+P000065,Silka Haircare 0065,Beauty,Haircare,Silka,9410.68,3233.08,288,0.09,34.36,687,79
+P000226,DailyBite Pantry 0226,Grocery,Pantry,DailyBite,9296.75,2332.07,508,0.07,25.08,688,28
+P000527,Freshly Organic 0527,Grocery,Organic,Freshly,9269.83,2691.59,244,0.08,29.04,689,29
+P000500,Homely Storage 0500,Home & Kitchen,Storage,Homely,9212.95,3008.22,647,0.07,32.65,690,132
+P000524,Auren Makeup 0524,Beauty,Makeup,Auren,9203.85,4797.63,234,0.09,52.13,691,80
+P000646,WonderBox Dolls 0646,Toys,Dolls,WonderBox,9202.08,3530.72,296,0.08,38.37,692,48
+P000320,GreenFarm Beverages 0320,Grocery,Beverages,GreenFarm,9021.15,2440.85,230,0.07,27.06,693,30
+P000512,BrightPlay Board Games 0512,Toys,Board Games,BrightPlay,8984.19,2956.78,241,0.09,32.91,694,49
+P000642,Northstar Press Technology 0642,Books,Technology,Northstar Press,8965.63,2966.56,343,0.06,33.09,695,32
+P000224,Freshly Snacks 0224,Grocery,Snacks,Freshly,8953.39,4374.01,342,0.08,48.85,696,31
+P000104,Freshly Beverages 0104,Grocery,Beverages,Freshly,8940.24,3762.53,607,0.07,42.09,697,32
+P000360,BareBloom Skincare 0360,Beauty,Skincare,BareBloom,8865.62,4012.1,162,0.09,45.25,698,81
+P000790,Glowery Skincare 0790,Beauty,Skincare,Glowery,8754.38,3889.32,349,0.08,44.43,699,82
+P000606,Northstar Press Fiction 0606,Books,Fiction,Northstar Press,8713.64,2531.24,640,0.07,29.05,700,33
+P000591,Freshly Beverages 0591,Grocery,Beverages,Freshly,8635.8,2779.32,336,0.07,32.18,701,33
+P000377,Freshly Beverages 0377,Grocery,Beverages,Freshly,8537.83,3030.96,379,0.07,35.5,702,34
+P000117,Northstar Press Fiction 0117,Books,Fiction,Northstar Press,8516.84,4285.24,298,0.07,50.31,703,34
+P000692,BrightPlay Board Games 0692,Toys,Board Games,BrightPlay,8310.56,3985.56,346,0.08,47.96,704,50
+P000528,Freshly Pantry 0528,Grocery,Pantry,Freshly,8286.54,4530.84,702,0.07,54.68,705,35
+P000521,PuzzleWorks Dolls 0521,Toys,Dolls,PuzzleWorks,8278.56,3322.2,412,0.08,40.13,706,51
+P000299,Inkline Business 0299,Books,Business,Inkline,8193.9,4020.15,265,0.07,49.06,707,35
+P000673,HarvestLane Organic 0673,Grocery,Organic,HarvestLane,8086.12,3389.72,236,0.06,41.92,708,36
+P000539,NorthStitch Accessories 0539,Fashion,Accessories,NorthStitch,8062.79,4402.31,372,0.09,54.6,709,141
+P000457,HarvestLane Snacks 0457,Grocery,Snacks,HarvestLane,8056.92,3358.17,537,0.08,41.68,710,37
+P000541,Freshly Snacks 0541,Grocery,Snacks,Freshly,8022.28,2547.04,804,0.07,31.75,711,38
+P000695,Kidora Board Games 0695,Toys,Board Games,Kidora,7887.61,2964.25,234,0.09,37.58,712,52
+P000173,NorthStitch Accessories 0173,Fashion,Accessories,NorthStitch,7590.04,3024.25,523,0.09,39.84,713,142
+P000295,Kidora STEM Toys 0295,Toys,STEM Toys,Kidora,7344.54,3782.94,160,0.08,51.51,714,53
+P000201,Northstar Press Children 0201,Books,Children,Northstar Press,7297.06,1906.77,837,0.06,26.13,715,36
+P000197,Citrine Haircare 0197,Beauty,Haircare,Citrine,7222.7,2503.9,376,0.08,34.67,716,83
+P000265,GreenFarm Organic 0265,Grocery,Organic,GreenFarm,7117.28,2159.75,257,0.06,30.35,717,39
+P000345,Northstar Press Technology 0345,Books,Technology,Northstar Press,7092.73,3451.19,266,0.06,48.66,718,37
+P000403,Northstar Press Technology 0403,Books,Technology,Northstar Press,6910.17,3441.57,282,0.08,49.8,719,38
+P000605,HarvestLane Organic 0605,Grocery,Organic,HarvestLane,6835.61,3195.82,163,0.07,46.75,720,40
+P000672,Glowery Makeup 0672,Beauty,Makeup,Glowery,6811.15,3079.18,473,0.09,45.21,721,84
+P000191,Freshly Pantry 0191,Grocery,Pantry,Freshly,6740.3,2847.74,196,0.08,42.25,722,41
+P000151,PageMint Technology 0151,Books,Technology,PageMint,6600.48,3394.69,287,0.07,51.43,723,39
+P000529,PageMint Fiction 0529,Books,Fiction,PageMint,6596.45,1673.29,268,0.07,25.37,724,40
+P000214,BlueLeaf Children 0214,Books,Children,BlueLeaf,6489.38,3461.21,523,0.07,53.34,725,41
+P000540,Kidora Outdoor Toys 0540,Toys,Outdoor Toys,Kidora,6459.93,1586.29,178,0.1,24.56,726,54
+P000631,GreenFarm Pantry 0631,Grocery,Pantry,GreenFarm,6446.44,1856.44,375,0.07,28.8,727,42
+P000139,Northstar Press Children 0139,Books,Children,Northstar Press,6443.32,2970.12,380,0.06,46.1,728,42
+P000689,Northstar Press Business 0689,Books,Business,Northstar Press,6419.29,2748.61,338,0.07,42.82,729,43
+P000354,BareBloom Haircare 0354,Beauty,Haircare,BareBloom,6212.71,2065.01,118,0.07,33.24,730,85
+P000064,BlueLeaf Fiction 0064,Books,Fiction,BlueLeaf,6202.85,1972.19,294,0.08,31.79,731,44
+P000572,BrightPlay Board Games 0572,Toys,Board Games,BrightPlay,6200.5,1765.52,209,0.09,28.47,732,55
+P000627,Inkline Technology 0627,Books,Technology,Inkline,6174.16,1955.68,189,0.06,31.68,733,45
+P000162,DailyBite Snacks 0162,Grocery,Snacks,DailyBite,6172.53,1622.13,240,0.08,26.28,734,43
+P000549,Northstar Press Business 0549,Books,Business,Northstar Press,6045.73,3224.11,186,0.07,53.33,735,46
+P000340,HarvestLane Snacks 0340,Grocery,Snacks,HarvestLane,5973.36,2155.92,396,0.07,36.09,736,44
+P000707,PageMint Children 0707,Books,Children,PageMint,5972.68,1488.68,295,0.07,24.92,737,47
+P000025,BlueLeaf Fiction 0025,Books,Fiction,BlueLeaf,5810.71,1908.21,350,0.08,32.84,738,48
+P000194,WonderBox Board Games 0194,Toys,Board Games,WonderBox,5758.34,3067.06,153,0.08,53.26,739,56
+P000358,Northstar Press Children 0358,Books,Children,Northstar Press,5729.41,1425.51,193,0.07,24.88,740,49
+P000506,Northstar Press Fiction 0506,Books,Fiction,Northstar Press,5710.11,1798.77,438,0.07,31.5,741,50
+P000007,Inkline Fiction 0007,Books,Fiction,Inkline,5691.86,3010.86,383,0.08,52.9,742,51
+P000046,PageMint Fiction 0046,Books,Fiction,PageMint,5643.04,2883.4,183,0.07,51.1,743,52
+P000459,Northstar Press Children 0459,Books,Children,Northstar Press,5550.53,2351.45,318,0.07,42.36,744,53
+P000042,Kidora Board Games 0042,Toys,Board Games,Kidora,5406.04,2511.28,204,0.08,46.45,745,57
+P000772,Silka Haircare 0772,Beauty,Haircare,Silka,5372.21,2330.57,119,0.08,43.38,746,86
+P000789,Inkline Fiction 0789,Books,Fiction,Inkline,5361.3,2781.82,236,0.07,51.89,747,54
+P000298,BlueLeaf Children 0298,Books,Children,BlueLeaf,5344.22,1719.06,428,0.08,32.17,748,55
+P000410,HarvestLane Pantry 0410,Grocery,Pantry,HarvestLane,5273.14,1957.94,259,0.07,37.13,749,45
+P000559,BareBloom Makeup 0559,Beauty,Makeup,BareBloom,5271.91,3006.79,312,0.09,57.03,750,87
+P000696,BareBloom Makeup 0696,Beauty,Makeup,BareBloom,5220.65,1782.41,377,0.09,34.14,751,88
+P000639,BlueLeaf Fiction 0639,Books,Fiction,BlueLeaf,5204.89,2062.17,368,0.07,39.62,752,56
+P000408,BrightPlay Outdoor Toys 0408,Toys,Outdoor Toys,BrightPlay,5173.36,2445.13,211,0.08,47.26,753,58
+P000625,HarvestLane Beverages 0625,Grocery,Beverages,HarvestLane,5172.63,1951.83,220,0.06,37.73,754,46
+P000388,HarvestLane Beverages 0388,Grocery,Beverages,HarvestLane,5046.21,2535.28,193,0.07,50.24,755,47
+P000544,GreenFarm Beverages 0544,Grocery,Beverages,GreenFarm,5038.01,1571.75,147,0.08,31.2,756,48
+P000080,Northstar Press Technology 0080,Books,Technology,Northstar Press,5015.46,2582.26,140,0.06,51.49,757,57
+P000489,Auren Makeup 0489,Beauty,Makeup,Auren,4996.3,1993.0,213,0.08,39.89,758,89
+P000706,Glowery Makeup 0706,Beauty,Makeup,Glowery,4916.68,1802.32,164,0.08,36.66,759,90
+P000787,BlueLeaf Children 0787,Books,Children,BlueLeaf,4896.25,1245.85,360,0.07,25.44,760,58
+P000603,Kidora Board Games 0603,Toys,Board Games,Kidora,4811.31,1644.44,161,0.08,34.18,761,59
+P000012,DailyBite Snacks 0012,Grocery,Snacks,DailyBite,4791.59,1736.59,250,0.09,36.24,762,49
+P000420,HarvestLane Beverages 0420,Grocery,Beverages,HarvestLane,4720.4,2510.72,341,0.07,53.19,763,50
+P000724,Freshly Snacks 0724,Grocery,Snacks,Freshly,4639.59,1609.35,321,0.08,34.69,764,51
+P000720,Freshly Organic 0720,Grocery,Organic,Freshly,4626.32,1262.34,206,0.07,27.29,765,52
+P000143,HarvestLane Pantry 0143,Grocery,Pantry,HarvestLane,4566.53,1192.53,241,0.07,26.11,766,53
+P000170,DailyBite Pantry 0170,Grocery,Pantry,DailyBite,4456.17,1231.81,541,0.06,27.64,767,54
+P000668,HarvestLane Pantry 0668,Grocery,Pantry,HarvestLane,4452.22,1649.24,521,0.07,37.04,768,55
+P000144,Glowery Makeup 0144,Beauty,Makeup,Glowery,4412.93,2008.29,152,0.07,45.51,769,91
+P000178,HarvestLane Pantry 0178,Grocery,Pantry,HarvestLane,4379.27,1117.72,215,0.07,25.52,770,56
+P000168,Inkline Children 0168,Books,Children,Inkline,4190.49,1989.41,196,0.07,47.47,771,59
+P000708,PageMint Technology 0708,Books,Technology,PageMint,4144.67,1427.93,162,0.07,34.45,772,60
+P000715,BlueLeaf Fiction 0715,Books,Fiction,BlueLeaf,4132.81,1937.26,315,0.06,46.88,773,61
+P000784,Glowery Makeup 0784,Beauty,Makeup,Glowery,4130.19,1812.63,534,0.08,43.89,774,92
+P000418,PageMint Fiction 0418,Books,Fiction,PageMint,4108.7,1217.66,228,0.07,29.64,775,62
+P000343,Inkline Business 0343,Books,Business,Inkline,4071.26,1102.47,137,0.06,27.08,776,63
+P000441,WonderBox Board Games 0441,Toys,Board Games,WonderBox,4044.04,1859.2,238,0.08,45.97,777,60
+P000602,BlueLeaf Technology 0602,Books,Technology,BlueLeaf,4038.58,2028.88,231,0.07,50.24,778,64
+P000371,PageMint Fiction 0371,Books,Fiction,PageMint,4033.06,1120.31,305,0.07,27.78,779,65
+P000053,BlueLeaf Fiction 0053,Books,Fiction,BlueLeaf,3937.91,1550.07,208,0.07,39.36,780,66
+P000613,HarvestLane Pantry 0613,Grocery,Pantry,HarvestLane,3919.53,1211.6,289,0.06,30.91,781,57
+P000297,DailyBite Organic 0297,Grocery,Organic,DailyBite,3907.23,1189.93,145,0.08,30.45,782,58
+P000688,DailyBite Organic 0688,Grocery,Organic,DailyBite,3882.33,2023.88,155,0.06,52.13,783,59
+P000032,Freshly Pantry 0032,Grocery,Pantry,Freshly,3880.95,1097.07,148,0.07,28.27,784,60
+P000321,HarvestLane Snacks 0321,Grocery,Snacks,HarvestLane,3436.49,1654.22,369,0.08,48.14,785,61
+P000623,GreenFarm Beverages 0623,Grocery,Beverages,GreenFarm,3289.39,1226.27,296,0.07,37.28,786,62
+P000293,DailyBite Pantry 0293,Grocery,Pantry,DailyBite,3253.43,918.07,178,0.08,28.22,787,63
+P000185,Northstar Press Fiction 0185,Books,Fiction,Northstar Press,3035.09,861.45,196,0.08,28.38,788,67
+P000495,Northstar Press Children 0495,Books,Children,Northstar Press,2896.35,1391.09,146,0.08,48.03,789,68
+P000785,HarvestLane Beverages 0785,Grocery,Beverages,HarvestLane,2712.99,1339.89,199,0.07,49.39,790,64
+P000233,GreenFarm Pantry 0233,Grocery,Pantry,GreenFarm,2693.67,1188.32,119,0.09,44.12,791,65
+P000019,PageMint Fiction 0019,Books,Fiction,PageMint,2687.68,905.63,145,0.06,33.7,792,69
+P000003,Kidora Dolls 0003,Toys,Dolls,Kidora,2473.54,966.94,81,0.09,39.09,793,61
+P000574,PageMint Children 0574,Books,Children,PageMint,2312.35,893.01,206,0.07,38.62,794,70
+P000677,GreenFarm Snacks 0677,Grocery,Snacks,Private Label,2310.7,1104.42,117,0.08,47.8,795,66
+P000402,DailyBite Beverages 0402,Grocery,Beverages,DailyBite,2171.17,646.37,160,0.05,29.77,796,67
+P000640,PuzzleWorks Dolls 0640,Toys,Dolls,PuzzleWorks,2072.54,764.34,155,0.08,36.88,797,62
+P000083,PageMint Children 0083,Books,Children,PageMint,1859.66,560.18,84,0.06,30.12,798,71
+P000346,PageMint Fiction 0346,Books,Fiction,PageMint,1829.34,754.42,308,0.08,41.24,799,72
+P000014,Inkline Children 0014,Books,Children,Inkline,1181.87,358.62,185,0.07,30.34,800,73

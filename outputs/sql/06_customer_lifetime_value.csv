@@ -1,0 +1,1001 @@
+customer_id,customer_name,city,state,country,order_count,lifetime_revenue,first_purchase_date,last_purchase_date,days_since_last_purchase,customer_aov,lifecycle_status,customer_revenue_rank
+C0047700,Priya Smith,Los Angeles,California,United States,25,33215.58,2024-08-18,2025-12-28,4,1328.62,Loyal Active,1
+C0020481,Ethan Kim,Austin,Texas,United States,28,31175.11,2024-09-20,2025-12-04,28,1113.4,Loyal Active,2
+C0032618,Sofia Khan,Austin,Texas,United States,27,30816.55,2025-10-02,2025-12-28,4,1141.35,Loyal Active,3
+C0018560,Kai Gupta,Chicago,Illinois,United States,26,30027.62,2023-06-15,2025-12-07,25,1154.91,Loyal Active,4
+C0031896,Aisha Martinez,Denver,Colorado,United States,29,29893.85,2024-10-20,2025-12-10,22,1030.82,Loyal Active,5
+C0021672,Fatima Wilson,Seattle,Washington,United States,23,29028.33,2024-10-20,2025-12-23,9,1262.1,Loyal Active,6
+C0014694,Noah Anderson,Dallas,Texas,United States,26,28507.81,2023-08-14,2025-12-16,16,1096.45,Loyal Active,7
+C0049934,Benjamin Sharma,Phoenix,Arizona,United States,27,28362.31,2024-09-22,2025-12-24,8,1050.46,Loyal Active,8
+C0031405,Maya Garcia,Denver,Colorado,United States,28,27999.7,2023-12-14,2025-12-30,2,999.99,Loyal Active,9
+C0049737,Grace Martinez,Austin,Texas,United States,27,27065.8,2023-04-28,2025-12-18,14,1002.44,Loyal Active,10
+C0044912,Benjamin Taylor,Melbourne,Victoria,Australia,28,27057.17,2023-08-08,2025-12-07,25,966.33,Loyal Active,11
+C0041305,Fatima Martinez,New Delhi,Delhi,India,26,26544.88,2025-05-19,2025-12-24,8,1020.96,Loyal Active,12
+C0003702,Zara Sharma,San Francisco,California,United States,28,26466.84,2024-12-09,2025-12-21,11,945.24,Loyal Active,13
+C0029490,Hannah Anderson,Toronto,Ontario,Canada,24,26228.05,2024-08-16,2025-12-06,26,1092.84,Loyal Active,14
+C0004703,Liam Garcia,Atlanta,Georgia,United States,27,26169.54,2023-07-26,2025-10-14,79,969.24,Loyal Active,15
+C0010484,Isabella Patel,Toronto,Ontario,Canada,27,25969.75,2023-10-29,2025-11-14,48,961.84,Loyal Active,16
+C0025911,Priya Robinson,Austin,Texas,United States,23,25964.14,2023-01-07,2025-12-23,9,1128.88,Loyal Active,17
+C0000707,Kai Singh,Toronto,Ontario,Canada,28,25945.05,2024-03-03,2025-12-12,20,926.61,Loyal Active,18
+C0036396,Amelia Smith,New York,New York,United States,28,25920.24,2024-03-07,2025-12-27,5,925.72,Loyal Active,19
+C0007239,Theo Kim,Bengaluru,Karnataka,India,21,25308.4,2025-05-01,2025-12-30,2,1205.16,Loyal Active,20
+C0003943,Fatima Singh,Miami,Florida,United States,27,25249.71,2024-09-22,2025-12-27,5,935.17,Loyal Active,21
+C0015936,Daniel Lee,Phoenix,Arizona,United States,20,25195.62,2024-07-11,2025-12-28,4,1259.78,Loyal Active,22
+C0042587,Noah Miller,Miami,Florida,United States,25,25086.21,2025-09-01,2025-12-23,9,1003.45,Loyal Active,23
+C0029642,Camila Kim,Phoenix,Arizona,United States,23,25032.96,2024-05-30,2025-11-14,48,1088.39,Loyal Active,24
+C0011181,Noah Patel,Toronto,Ontario,Canada,23,24818.73,2023-01-25,2025-12-20,12,1079.08,Loyal Active,25
+C0040168,Aisha Brown,New York,New York,United States,27,24716.3,2025-07-01,2025-12-30,2,915.42,Loyal Active,26
+C0045402,Aisha Robinson,New York,New York,United States,21,24684.68,2024-11-06,2025-12-21,11,1175.46,Loyal Active,27
+C0012595,Ravi Robinson,Boston,Massachusetts,United States,24,24593.97,2024-09-05,2025-12-26,6,1024.75,Loyal Active,28
+C0009099,Noah Khan,Toronto,Ontario,Canada,21,24539.1,2024-05-14,2025-12-31,1,1168.53,Loyal Active,29
+C0015064,Aisha Patel,Seattle,Washington,United States,26,24468.95,2024-06-24,2025-12-17,15,941.11,Loyal Active,30
+C0011259,Hannah Lee,Miami,Florida,United States,27,24418.33,2025-02-15,2025-12-30,2,904.38,Loyal Active,31
+C0032879,Hannah Gupta,Sydney,New South Wales,Australia,21,24258.3,2023-02-21,2025-11-17,45,1155.16,Loyal Active,32
+C0012990,Sofia Chen,Miami,Florida,United States,22,24079.53,2023-02-02,2025-11-22,40,1094.52,Loyal Active,33
+C0048143,Daniel Thomas,Atlanta,Georgia,United States,28,23982.49,2024-04-13,2025-12-07,25,856.52,Loyal Active,34
+C0047797,Fatima Robinson,Dallas,Texas,United States,23,23935.9,2024-08-08,2025-12-25,7,1040.69,Loyal Active,35
+C0041204,Alex Kim,Bengaluru,Karnataka,India,23,23862.24,2023-08-18,2025-12-21,11,1037.49,Loyal Active,36
+C0048045,Ethan Sharma,New Delhi,Delhi,India,25,23828.86,2023-08-13,2025-12-09,23,953.15,Loyal Active,37
+C0004052,Ravi Wilson,London,England,United Kingdom,25,23825.39,2025-01-22,2025-12-09,23,953.02,Loyal Active,38
+C0049712,Daniel Davis,Bengaluru,Karnataka,India,12,23786.62,2023-09-26,2025-11-04,58,1982.22,Loyal Active,39
+C0007447,Kai Sharma,Los Angeles,California,United States,25,23776.84,2023-10-11,2025-12-09,23,951.07,Loyal Active,40
+C0012315,Aisha Martinez,San Francisco,California,United States,28,23689.75,2025-06-14,2025-12-17,15,846.06,Loyal Active,41
+C0011298,Benjamin Taylor,Los Angeles,California,United States,25,23641.21,2023-06-12,2025-12-30,2,945.65,Loyal Active,42
+C0035275,Sofia Wilson,Miami,Florida,United States,27,23633.38,2025-06-07,2025-12-30,2,875.31,Loyal Active,43
+C0000974,Olivia Lee,Melbourne,Victoria,Australia,24,23632.36,2025-02-22,2025-12-28,4,984.68,Loyal Active,44
+C0024005,Noah Davis,Chicago,Illinois,United States,24,23479.67,2025-08-17,2025-12-27,5,978.32,Loyal Active,45
+C0036215,Benjamin Smith,New Delhi,Delhi,India,27,23459.84,2023-07-26,2025-12-27,5,868.88,Loyal Active,46
+C0013648,Grace Johnson,Dallas,Texas,United States,26,23447.72,2025-04-18,2025-12-28,4,901.84,Loyal Active,47
+C0018310,Sofia Smith,Austin,Texas,United States,25,23366.09,2025-01-01,2025-12-29,3,934.64,Loyal Active,48
+C0025598,Grace Gupta,Miami,Florida,United States,17,23361.51,2023-05-26,2025-11-26,36,1374.21,Loyal Active,49
+C0029682,Mia Wilson,New York,New York,United States,28,23300.2,2025-07-08,2025-12-28,4,832.15,Loyal Active,50
+C0003965,Camila Thomas,Denver,Colorado,United States,24,23280.1,2023-11-23,2025-12-25,7,970.0,Loyal Active,51
+C0047480,Noah Garcia,New Delhi,Delhi,India,26,22995.53,2024-11-14,2025-12-22,10,884.44,Loyal Active,52
+C0004798,James Sharma,London,England,United Kingdom,23,22988.56,2023-05-11,2025-11-24,38,999.5,Loyal Active,53
+C0005175,Aarav Taylor,Denver,Colorado,United States,23,22977.81,2025-02-22,2025-12-28,4,999.04,Loyal Active,54
+C0002884,Priya Lee,Phoenix,Arizona,United States,23,22952.77,2024-03-07,2025-12-20,12,997.95,Loyal Active,55
+C0012513,Alex Thomas,Toronto,Ontario,Canada,20,22720.71,2025-05-03,2025-12-25,7,1136.04,Loyal Active,56
+C0009747,Aarav Lee,Dallas,Texas,United States,25,22708.21,2023-11-01,2025-11-24,38,908.33,Loyal Active,57
+C0014682,Liam Gupta,New Delhi,Delhi,India,26,22700.31,2024-09-28,2025-12-29,3,873.09,Loyal Active,58
+C0046594,Maya Anderson,Manchester,England,United Kingdom,28,22684.85,2025-10-28,2025-12-31,1,810.17,Loyal Active,59
+C0002090,Camila Brown,Sydney,New South Wales,Australia,30,22667.63,2024-04-21,2025-12-22,10,755.59,Loyal Active,60
+C0043292,Kai Anderson,Seattle,Washington,United States,24,22656.69,2025-06-30,2025-12-27,5,944.03,Loyal Active,61
+C0036175,Aria Taylor,Toronto,Ontario,Canada,25,22578.43,2024-03-18,2025-11-26,36,903.14,Loyal Active,62
+C0017784,Priya Khan,Mumbai,Maharashtra,India,26,22560.63,2025-08-13,2025-12-16,16,867.72,Loyal Active,63
+C0038800,Fatima Thomas,Atlanta,Georgia,United States,30,22518.77,2025-10-08,2025-12-29,3,750.63,Loyal Active,64
+C0041107,Zara Gupta,Toronto,Ontario,Canada,26,22516.16,2024-06-10,2025-12-23,9,866.01,Loyal Active,65
+C0022537,Zara Wilson,New Delhi,Delhi,India,22,22478.99,2024-07-29,2025-12-14,18,1021.77,Loyal Active,66
+C0010357,Kai Smith,London,England,United Kingdom,22,22339.07,2025-10-03,2025-12-31,1,1015.41,Loyal Active,67
+C0027344,Isabella Gupta,Austin,Texas,United States,23,22289.6,2024-04-11,2025-12-16,16,969.11,Loyal Active,68
+C0044704,Daniel Garcia,Phoenix,Arizona,United States,24,22276.38,2024-03-28,2025-10-19,74,928.18,Loyal Active,69
+C0047813,Alex Johnson,Phoenix,Arizona,United States,24,22246.21,2024-02-07,2025-12-18,14,926.93,Loyal Active,70
+C0038198,Liam Martinez,Mumbai,Maharashtra,India,23,22225.04,2024-01-06,2025-11-06,56,966.31,Loyal Active,71
+C0049578,Fatima Kim,Boston,Massachusetts,United States,18,22211.58,2024-05-19,2025-12-20,12,1233.98,Loyal Active,72
+C0003629,Isabella Singh,Denver,Colorado,United States,27,22161.13,2023-09-08,2025-12-30,2,820.78,Loyal Active,73
+C0013876,Liam Patel,Atlanta,Georgia,United States,27,22136.5,2025-08-09,2025-12-28,4,819.87,Loyal Active,74
+C0017800,Ethan Chen,Mumbai,Maharashtra,India,28,22113.95,2024-10-03,2025-12-18,14,789.78,Loyal Active,75
+C0044581,Mia Khan,Seattle,Washington,United States,22,22049.42,2024-12-03,2025-12-23,9,1002.25,Loyal Active,76
+C0014442,Fatima Kim,New Delhi,Delhi,India,25,22030.57,2024-08-09,2025-12-22,10,881.22,Loyal Active,77
+C0045908,Aisha Kim,Bengaluru,Karnataka,India,27,21987.17,2025-04-02,2025-12-25,7,814.34,Loyal Active,78
+C0046134,Olivia Garcia,Atlanta,Georgia,United States,26,21953.46,2024-10-18,2025-12-28,4,844.36,Loyal Active,79
+C0005600,Amelia Miller,Mumbai,Maharashtra,India,28,21939.57,2025-08-01,2025-12-31,1,783.56,Loyal Active,80
+C0023216,James Miller,Bengaluru,Karnataka,India,29,21917.41,2025-02-20,2025-12-29,3,755.77,Loyal Active,81
+C0014897,Grace Taylor,Melbourne,Victoria,Australia,27,21828.81,2024-09-02,2025-12-12,20,808.47,Loyal Active,82
+C0015923,Fatima Khan,Manchester,England,United Kingdom,17,21794.02,2025-07-09,2025-12-26,6,1282.0,Loyal Active,83
+C0020433,James Taylor,Sydney,New South Wales,Australia,19,21791.23,2024-10-12,2025-12-22,10,1146.91,Loyal Active,84
+C0031505,Aarav Johnson,Bengaluru,Karnataka,India,26,21750.71,2025-11-16,2025-12-30,2,836.57,Loyal Active,85
+C0001599,James Smith,New Delhi,Delhi,India,24,21742.63,2023-03-20,2025-10-08,85,905.94,Loyal Active,86
+C0012440,Mia Anderson,Denver,Colorado,United States,26,21661.57,2023-01-11,2025-12-10,22,833.14,Loyal Active,87
+C0024864,Benjamin Smith,Atlanta,Georgia,United States,18,21646.55,2024-08-04,2025-12-20,12,1202.59,Loyal Active,88
+C0026635,Alex Singh,Los Angeles,California,United States,22,21626.08,2023-05-20,2025-12-12,20,983.0,Loyal Active,89
+C0037055,Olivia Johnson,New York,New York,United States,23,21582.59,2023-06-19,2025-12-16,16,938.37,Loyal Active,90
+C0009610,Olivia Davis,Los Angeles,California,United States,25,21565.38,2025-06-15,2025-12-25,7,862.62,Loyal Active,91
+C0043073,Olivia Garcia,New York,New York,United States,26,21542.81,2025-11-13,2025-12-31,1,828.57,Loyal Active,92
+C0011850,Alex Robinson,Bengaluru,Karnataka,India,29,21510.69,2024-07-16,2025-11-17,45,741.75,Loyal Active,93
+C0041552,Amelia Brown,Boston,Massachusetts,United States,22,21492.62,2023-12-28,2025-12-28,4,976.94,Loyal Active,94
+C0004948,Kai Smith,Melbourne,Victoria,Australia,28,21491.83,2025-06-03,2025-12-29,3,767.57,Loyal Active,95
+C0000227,Liam Miller,Vancouver,British Columbia,Canada,25,21363.33,2025-05-21,2025-12-24,8,854.53,Loyal Active,96
+C0039262,Grace Khan,Seattle,Washington,United States,30,21318.4,2025-04-01,2025-12-25,7,710.61,Loyal Active,97
+C0003984,Mia Garcia,Boston,Massachusetts,United States,21,21293.19,2023-08-23,2025-12-23,9,1013.96,Loyal Active,98
+C0000792,Grace Smith,Unknown,Colorado,United States,26,21278.42,2024-07-08,2025-12-18,14,818.4,Loyal Active,99
+C0020543,Theo Kim,Chicago,Illinois,United States,30,21271.81,2025-06-02,2025-12-21,11,709.06,Loyal Active,100
+C0005524,Kai Brown,Boston,Massachusetts,United States,20,21261.36,2023-01-21,2025-12-11,21,1063.07,Loyal Active,101
+C0001343,Hannah Robinson,Chicago,Illinois,United States,18,21238.87,2024-04-05,2025-12-29,3,1179.94,Loyal Active,102
+C0032438,Priya Sharma,Manchester,England,United Kingdom,26,21207.53,2023-12-12,2025-12-23,9,815.67,Loyal Active,103
+C0042808,Noah Robinson,Dallas,Texas,United States,20,21203.29,2024-03-09,2025-12-27,5,1060.16,Loyal Active,104
+C0047459,Alex Miller,Boston,Massachusetts,United States,28,21150.42,2023-05-07,2025-12-12,20,755.37,Loyal Active,105
+C0049150,Ethan Robinson,Toronto,Ontario,Canada,26,21125.49,2025-09-09,2025-12-31,1,812.52,Loyal Active,106
+C0030108,Mia Brown,Austin,Texas,United States,21,21121.87,2024-12-19,2025-12-30,2,1005.8,Loyal Active,107
+C0004493,Camila Martinez,London,England,United Kingdom,17,21086.21,2024-01-10,2025-12-07,25,1240.37,Loyal Active,108
+C0019263,Camila Garcia,Dallas,Texas,United States,28,21084.11,2024-06-17,2025-12-20,12,753.0,Loyal Active,109
+C0030486,Mia Taylor,Austin,Texas,United States,28,21077.19,2023-09-24,2025-12-28,4,752.76,Loyal Active,110
+C0044134,Ethan Chen,Seattle,Washington,United States,24,21075.12,2023-06-25,2025-11-28,34,878.13,Loyal Active,111
+C0040675,Liam Davis,Los Angeles,California,United States,25,21039.54,2023-05-05,2025-12-31,1,841.58,Loyal Active,112
+C0026653,Aria Robinson,Seattle,Washington,United States,27,21031.53,2024-10-11,2025-12-27,5,778.95,Loyal Active,113
+C0027111,Maya Patel,Bengaluru,Karnataka,India,25,21025.47,2024-12-31,2025-12-24,8,841.02,Loyal Active,114
+C0029896,Benjamin Miller,Chicago,Illinois,United States,28,21024.35,2024-12-15,2025-12-28,4,750.87,Loyal Active,115
+C0014571,Olivia Singh,Sydney,New South Wales,Australia,26,20966.24,2023-04-01,2025-12-02,30,806.39,Loyal Active,116
+C0019953,Amelia Chen,Dallas,Texas,United States,27,20956.19,2024-11-20,2025-12-31,1,776.16,Loyal Active,117
+C0019715,Theo Robinson,Miami,Florida,United States,27,20951.57,2024-04-30,2025-12-17,15,775.98,Loyal Active,118
+C0044005,Sofia Patel,Atlanta,Georgia,United States,20,20910.6,2024-08-31,2025-12-24,8,1045.53,Loyal Active,119
+C0034468,Grace Taylor,Toronto,Ontario,Canada,14,20899.87,2024-03-30,2025-12-28,4,1492.85,Loyal Active,120
+C0008710,James Patel,Atlanta,Georgia,United States,25,20883.26,2025-08-28,2025-12-17,15,835.33,Loyal Active,121
+C0047282,Isabella Garcia,Atlanta,Georgia,United States,27,20839.35,2023-12-14,2025-11-25,37,771.83,Loyal Active,122
+C0023075,Noah Smith,Phoenix,Arizona,United States,26,20802.11,2025-08-06,2025-12-30,2,800.08,Loyal Active,123
+C0029506,Sofia Patel,Dallas,Texas,United States,27,20761.64,2024-10-11,2025-12-14,18,768.95,Loyal Active,124
+C0043058,Benjamin Thomas,New Delhi,Delhi,India,24,20752.91,2024-12-18,2025-12-31,1,864.7,Loyal Active,125
+C0002183,Aarav Brown,Los Angeles,California,United States,13,20702.85,2023-04-24,2025-12-15,17,1592.53,Loyal Active,126
+C0026874,Isabella Kim,Sydney,New South Wales,Australia,27,20689.08,2023-07-15,2025-12-19,13,766.26,Loyal Active,127
+C0005223,Grace Brown,Bengaluru,Karnataka,India,27,20674.05,2025-02-10,2025-12-21,11,765.71,Loyal Active,128
+C0036755,Aisha Lee,Boston,Massachusetts,United States,26,20662.06,2024-12-06,2025-12-06,26,794.69,Loyal Active,129
+C0008745,Camila Martinez,Bengaluru,Karnataka,India,23,20655.98,2024-07-12,2025-12-18,14,898.09,Loyal Active,130
+C0000102,Theo Garcia,Toronto,Ontario,Canada,26,20615.47,2023-07-22,2025-12-29,3,792.9,Loyal Active,131
+C0021527,Fatima Davis,Austin,Texas,United States,12,20571.25,2024-09-26,2025-12-24,8,1714.27,Loyal Active,132
+C0008369,James Robinson,Dallas,Texas,United States,27,20569.21,2024-02-12,2025-12-31,1,761.82,Loyal Active,133
+C0030469,Zara Robinson,Bengaluru,Karnataka,India,25,20566.73,2023-03-17,2025-11-24,38,822.67,Loyal Active,134
+C0031893,Kai Thomas,Miami,Florida,United States,29,20545.3,2023-03-21,2025-12-26,6,708.46,Loyal Active,135
+C0001483,Aarav Garcia,Dallas,Texas,United States,25,20543.52,2025-04-20,2025-12-31,1,821.74,Loyal Active,136
+C0010439,Noah Singh,New Delhi,Delhi,India,16,20521.53,2024-09-15,2025-12-26,6,1282.6,Loyal Active,137
+C0009360,Mia Miller,Mumbai,Maharashtra,India,27,20510.44,2025-09-18,2025-12-31,1,759.65,Loyal Active,138
+C0035339,Fatima Anderson,Denver,Colorado,United States,29,20480.67,2024-11-01,2025-12-17,15,706.23,Loyal Active,139
+C0015719,Olivia Garcia,New York,New York,United States,25,20460.69,2025-01-19,2025-12-17,15,818.43,Loyal Active,140
+C0039221,Grace Patel,London,England,United Kingdom,24,20450.5,2024-05-11,2025-12-28,4,852.1,Loyal Active,141
+C0015900,Grace Lee,New Delhi,Delhi,India,18,20433.98,2023-06-11,2025-12-18,14,1135.22,Loyal Active,142
+C0028620,Camila Chen,Atlanta,Georgia,United States,29,20430.83,2025-10-24,2025-12-30,2,704.51,Loyal Active,143
+C0014645,Sofia Martinez,Austin,Texas,United States,28,20425.66,2024-10-02,2025-12-28,4,729.49,Loyal Active,144
+C0002802,Mia Gupta,Boston,Massachusetts,United States,24,20322.22,2023-02-15,2025-11-24,38,846.76,Loyal Active,145
+C0029914,Grace Chen,Miami,Florida,United States,23,20291.06,2024-06-19,2025-12-31,1,882.22,Loyal Active,146
+C0000508,James Smith,San Francisco,California,United States,26,20288.74,2023-12-17,2025-12-16,16,780.34,Loyal Active,147
+C0027573,Grace Davis,Boston,Massachusetts,United States,26,20194.16,2024-11-20,2025-12-17,15,776.7,Loyal Active,148
+C0009832,Camila Robinson,Mumbai,Maharashtra,India,22,20190.98,2024-09-24,2025-12-22,10,917.77,Loyal Active,149
+C0000294,Aarav Kim,Austin,Texas,United States,7,20094.21,2024-09-22,2025-11-13,49,2870.6,Loyal Active,150
+C0045096,Mia Wilson,Bengaluru,Karnataka,India,27,20088.1,2024-03-21,2025-12-14,18,744.0,Loyal Active,151
+C0014925,Ravi Lee,New York,New York,United States,21,20085.72,2024-09-10,2025-11-26,36,956.46,Loyal Active,152
+C0007707,Sofia Anderson,Miami,Florida,United States,13,20085.06,2025-09-18,2025-12-20,12,1545.0,Loyal Active,153
+C0037015,Aria Brown,New York,New York,United States,19,20020.69,2024-08-21,2025-12-28,4,1053.72,Loyal Active,154
+C0010343,Fatima Anderson,London,England,United Kingdom,21,19994.1,2023-02-13,2025-12-13,19,952.1,Loyal Active,155
+C0026258,Fatima Johnson,Vancouver,British Columbia,Canada,28,19993.14,2025-07-07,2025-12-25,7,714.04,Loyal Active,156
+C0025780,Olivia Patel,Atlanta,Georgia,United States,28,19986.13,2025-01-13,2025-12-26,6,713.79,Loyal Active,157
+C0048745,Daniel Davis,Vancouver,British Columbia,Canada,24,19966.05,2023-08-03,2025-12-12,20,831.92,Loyal Active,158
+C0026637,Zara Johnson,Sydney,New South Wales,Australia,27,19965.42,2025-04-12,2025-12-23,9,739.46,Loyal Active,159
+C0021609,Mia Robinson,Los Angeles,California,United States,28,19924.88,2023-03-10,2025-12-20,12,711.6,Loyal Active,160
+C0030251,Alex Garcia,Toronto,Ontario,Canada,26,19921.5,2025-02-14,2025-12-22,10,766.21,Loyal Active,161
+C0028835,Ethan Garcia,Miami,Florida,United States,26,19903.91,2023-04-25,2025-12-03,29,765.53,Loyal Active,162
+C0014274,Ravi Martinez,Austin,Texas,United States,20,19867.22,2023-05-25,2025-11-26,36,993.36,Loyal Active,163
+C0042358,Ethan Thomas,Melbourne,Victoria,Australia,20,19856.04,2023-03-13,2025-12-26,6,992.8,Loyal Active,164
+C0021397,Sofia Johnson,Dallas,Texas,United States,23,19836.44,2024-09-04,2025-12-28,4,862.45,Loyal Active,165
+C0028481,Isabella Patel,Toronto,Ontario,Canada,27,19830.93,2024-08-01,2025-12-31,1,734.48,Loyal Active,166
+C0018937,James Singh,New Delhi,Delhi,India,20,19830.29,2023-10-13,2025-12-10,22,991.51,Loyal Active,167
+C0007168,Olivia Singh,Denver,Colorado,United States,29,19824.51,2025-01-19,2025-12-28,4,683.6,Loyal Active,168
+C0045357,Theo Brown,Sydney,New South Wales,Australia,22,19782.57,2023-01-12,2025-12-23,9,899.21,Loyal Active,169
+C0002492,Maya Davis,Miami,Florida,United States,13,19732.07,2024-05-09,2025-10-11,82,1517.85,Loyal Active,170
+C0047929,Aria Sharma,San Francisco,California,United States,28,19705.86,2023-08-01,2025-12-11,21,703.78,Loyal Active,171
+C0033117,Maya Lee,Bengaluru,Karnataka,India,24,19705.16,2025-11-22,2025-12-30,2,821.05,Loyal Active,172
+C0016370,Liam Garcia,Boston,Massachusetts,United States,23,19684.91,2025-07-26,2025-12-29,3,855.87,Loyal Active,173
+C0023377,Ravi Robinson,Vancouver,British Columbia,Canada,26,19684.86,2023-12-10,2025-12-28,4,757.11,Loyal Active,174
+C0024538,Priya Gupta,Vancouver,British Columbia,Canada,19,19677.56,2024-11-01,2025-12-28,4,1035.66,Loyal Active,175
+C0019290,Benjamin Anderson,Austin,Texas,United States,25,19666.61,2025-03-24,2025-12-24,8,786.66,Loyal Active,176
+C0032718,Daniel Smith,Seattle,Washington,United States,27,19662.43,2023-06-16,2025-12-16,16,728.24,Loyal Active,177
+C0027976,Camila Wilson,Sydney,New South Wales,Australia,10,19659.74,2024-05-15,2025-12-24,8,1965.97,Loyal Active,178
+C0000339,Liam Chen,Miami,Florida,United States,24,19623.49,2025-06-12,2025-12-30,2,817.65,Loyal Active,179
+C0037207,Fatima Garcia,Atlanta,Georgia,United States,24,19612.67,2023-02-04,2025-12-31,1,817.19,Loyal Active,180
+C0021705,Sofia Miller,Los Angeles,California,United States,13,19484.6,2023-05-26,2025-12-17,15,1498.82,Loyal Active,181
+C0012988,Grace Thomas,Los Angeles,California,United States,25,19431.91,2025-11-28,2025-12-30,2,777.28,Loyal Active,182
+C0049701,Mia Taylor,Manchester,England,United Kingdom,11,19421.14,2023-11-21,2025-08-31,123,1765.56,Repeat Active,183
+C0023806,Ravi Martinez,Miami,Florida,United States,15,19379.71,2023-01-15,2025-12-04,28,1291.98,Loyal Active,184
+C0024533,Fatima Patel,San Francisco,California,United States,27,19312.66,2025-02-18,2025-12-31,1,715.28,Loyal Active,185
+C0002849,Theo Sharma,Atlanta,Georgia,United States,23,19301.56,2023-04-14,2025-12-15,17,839.2,Loyal Active,186
+C0011307,Isabella Wilson,Melbourne,Victoria,Australia,26,19288.33,2025-03-17,2025-12-28,4,741.86,Loyal Active,187
+C0049028,James Miller,Dallas,Texas,United States,27,19278.01,2023-11-01,2025-11-29,33,714.0,Loyal Active,188
+C0032471,Ravi Wilson,New York,New York,United States,15,19274.38,2024-08-16,2025-12-24,8,1284.96,Loyal Active,189
+C0040751,Priya Johnson,Denver,Colorado,United States,22,19252.61,2023-05-15,2025-12-05,27,875.12,Loyal Active,190
+C0000799,Ravi Robinson,Manchester,England,United Kingdom,27,19213.8,2025-06-29,2025-12-29,3,711.62,Loyal Active,191
+C0010921,Fatima Brown,New Delhi,Delhi,India,20,19207.63,2024-11-05,2025-12-11,21,960.38,Loyal Active,192
+C0000552,Aisha Khan,Miami,Florida,United States,28,19205.97,2023-07-04,2025-12-31,1,685.93,Loyal Active,193
+C0012264,Alex Singh,London,England,United Kingdom,24,19204.2,2023-03-15,2025-12-05,27,800.18,Loyal Active,194
+C0003954,Noah Garcia,Bengaluru,Karnataka,India,24,19134.0,2024-09-16,2025-12-14,18,797.25,Loyal Active,195
+C0010676,James Brown,Seattle,Washington,United States,22,19124.09,2024-07-30,2025-12-05,27,869.28,Loyal Active,196
+C0033668,Isabella Khan,Chicago,Illinois,United States,21,19102.39,2024-12-10,2025-12-25,7,909.64,Loyal Active,197
+C0018083,Isabella Gupta,San Francisco,California,United States,24,19076.15,2024-07-14,2025-12-19,13,794.84,Loyal Active,198
+C0046697,Kai Robinson,Dallas,Texas,United States,25,19040.53,2023-10-02,2025-12-21,11,761.62,Loyal Active,199
+C0027744,Sofia Singh,Atlanta,Georgia,United States,28,19034.32,2023-05-27,2025-12-16,16,679.8,Loyal Active,200
+C0048108,Mia Khan,Toronto,Ontario,Canada,21,18993.55,2024-12-30,2025-12-13,19,904.45,Loyal Active,201
+C0036620,Maya Singh,Chicago,Illinois,United States,23,18967.63,2023-06-13,2025-12-11,21,824.68,Loyal Active,202
+C0003347,Liam Khan,Atlanta,Georgia,United States,23,18953.21,2023-06-23,2025-10-25,68,824.05,Loyal Active,203
+C0048156,Alex Chen,Toronto,Ontario,Canada,26,18944.27,2024-11-04,2025-12-09,23,728.63,Loyal Active,204
+C0033935,Sofia Wilson,San Francisco,California,United States,15,18938.73,2024-05-28,2025-12-31,1,1262.58,Loyal Active,205
+C0029155,Theo Sharma,London,England,United Kingdom,19,18932.34,2025-03-30,2025-12-23,9,996.44,Loyal Active,206
+C0031804,Fatima Khan,London,England,United Kingdom,28,18927.26,2024-03-02,2025-12-27,5,675.97,Loyal Active,207
+C0017406,Mia Gupta,London,England,United Kingdom,26,18920.98,2024-01-08,2025-12-28,4,727.73,Loyal Active,208
+C0025823,James Davis,Dallas,Texas,United States,22,18902.05,2024-12-06,2025-12-26,6,859.18,Loyal Active,209
+C0048538,Benjamin Davis,Los Angeles,California,United States,22,18897.94,2023-01-07,2025-12-25,7,859.0,Loyal Active,210
+C0036363,Aria Brown,New York,New York,United States,22,18895.36,2024-10-04,2025-12-31,1,858.88,Loyal Active,211
+C0027949,Priya Smith,Atlanta,Georgia,United States,23,18892.71,2024-10-14,2025-12-29,3,821.42,Loyal Active,212
+C0022129,Maya Anderson,Vancouver,British Columbia,Canada,18,18844.78,2024-06-08,2025-10-29,64,1046.93,Loyal Active,213
+C0022544,Noah Patel,Sydney,New South Wales,Australia,26,18823.05,2024-04-25,2025-12-31,1,723.96,Loyal Active,214
+C0024440,Kai Chen,Chicago,Illinois,United States,19,18809.8,2024-11-06,2025-12-31,1,989.99,Loyal Active,215
+C0006186,Priya Wilson,Manchester,England,United Kingdom,25,18787.35,2025-03-30,2025-12-28,4,751.49,Loyal Active,216
+C0002623,Zara Taylor,London,England,United Kingdom,24,18774.26,2024-02-07,2025-12-22,10,782.26,Loyal Active,217
+C0018660,Isabella Miller,Austin,Texas,United States,24,18726.04,2025-08-27,2025-12-31,1,780.25,Loyal Active,218
+C0011949,Maya Lee,Los Angeles,California,United States,15,18713.66,2023-05-31,2025-11-30,32,1247.58,Loyal Active,219
+C0028019,Liam Garcia,Los Angeles,California,United States,24,18710.11,2024-03-01,2025-12-25,7,779.59,Loyal Active,220
+C0005980,Aisha Gupta,Austin,Texas,United States,23,18689.99,2025-05-25,2025-12-19,13,812.61,Loyal Active,221
+C0036052,Aria Chen,New Delhi,Delhi,India,23,18670.46,2025-01-31,2025-12-16,16,811.76,Loyal Active,222
+C0003315,Olivia Kim,Bengaluru,Karnataka,India,25,18644.86,2023-06-24,2025-12-04,28,745.79,Loyal Active,223
+C0027859,Olivia Martinez,New York,New York,United States,29,18642.22,2024-09-15,2025-12-23,9,642.84,Loyal Active,224
+C0001008,Hannah Kim,Miami,Florida,United States,24,18636.34,2025-11-09,2025-12-31,1,776.51,Loyal Active,225
+C0018116,Kai Davis,Los Angeles,California,United States,25,18618.8,2023-01-28,2025-12-14,18,744.75,Loyal Active,226
+C0006339,Hannah Khan,Phoenix,Arizona,United States,22,18609.7,2024-11-26,2025-12-26,6,845.9,Loyal Active,227
+C0037213,Kai Miller,Atlanta,Georgia,United States,22,18605.23,2025-04-30,2025-12-29,3,845.69,Loyal Active,228
+C0005131,Theo Sharma,Austin,Texas,United States,25,18597.29,2023-02-14,2025-10-14,79,743.89,Loyal Active,229
+C0009859,Mia Johnson,Phoenix,Arizona,United States,21,18556.78,2024-11-22,2025-12-16,16,883.66,Loyal Active,230
+C0007722,Liam Taylor,Phoenix,Arizona,United States,26,18524.39,2023-08-15,2025-10-17,76,712.48,Loyal Active,231
+C0017811,Alex Chen,Los Angeles,California,United States,12,18522.6,2023-03-28,2025-11-04,58,1543.55,Loyal Active,232
+C0003254,Noah Chen,Los Angeles,California,United States,17,18521.24,2025-04-25,2025-12-25,7,1089.48,Loyal Active,233
+C0001578,Amelia Garcia,Boston,Massachusetts,United States,22,18509.16,2025-05-09,2025-12-28,4,841.33,Loyal Active,234
+C0033823,Olivia Patel,London,England,United Kingdom,27,18508.93,2023-06-25,2025-11-14,48,685.52,Loyal Active,235
+C0044964,James Anderson,Atlanta,Georgia,United States,17,18494.6,2024-10-29,2025-12-26,6,1087.92,Loyal Active,236
+C0011011,Ravi Thomas,Sydney,New South Wales,Australia,23,18493.87,2023-01-25,2025-12-18,14,804.08,Loyal Active,237
+C0015523,Theo Chen,New York,New York,United States,21,18493.02,2023-05-04,2025-10-21,72,880.62,Loyal Active,238
+C0008458,Theo Singh,Miami,Florida,United States,24,18489.16,2024-08-03,2025-12-28,4,770.38,Loyal Active,239
+C0024078,Isabella Anderson,Boston,Massachusetts,United States,22,18483.18,2023-08-02,2025-12-30,2,840.14,Loyal Active,240
+C0000892,Hannah Gupta,Phoenix,Arizona,United States,28,18478.72,2025-02-17,2025-12-20,12,659.95,Loyal Active,241
+C0001130,Aria Brown,Manchester,England,United Kingdom,21,18474.96,2025-05-09,2025-12-30,2,879.76,Loyal Active,242
+C0034064,Priya Martinez,San Francisco,California,United States,26,18461.33,2024-09-20,2025-12-31,1,710.05,Loyal Active,243
+C0014511,Olivia Johnson,San Francisco,California,United States,14,18448.25,2024-09-26,2025-12-21,11,1317.73,Loyal Active,244
+C0027243,Noah Khan,San Francisco,California,United States,26,18444.0,2025-07-21,2025-12-25,7,709.38,Loyal Active,245
+C0049384,Ethan Gupta,Chicago,Illinois,United States,24,18433.77,2024-07-09,2025-12-27,5,768.07,Loyal Active,246
+C0028224,Theo Garcia,Phoenix,Arizona,United States,24,18411.33,2024-02-06,2025-11-30,32,767.14,Loyal Active,247
+C0014000,Sofia Lee,London,England,United Kingdom,28,18407.23,2023-08-23,2025-12-14,18,657.4,Loyal Active,248
+C0031001,Maya Patel,Miami,Florida,United States,24,18403.02,2024-05-06,2025-12-21,11,766.79,Loyal Active,249
+C0019899,Ravi Brown,Mumbai,Maharashtra,India,21,18351.87,2025-06-29,2025-12-26,6,873.9,Loyal Active,250
+C0046323,Aria Chen,Dallas,Texas,United States,25,18338.95,2023-09-15,2025-12-28,4,733.56,Loyal Active,251
+C0016569,Liam Davis,Dallas,Texas,United States,16,18334.67,2023-06-18,2025-12-30,2,1145.92,Loyal Active,252
+C0011247,Sofia Davis,Phoenix,Arizona,United States,24,18334.01,2025-05-13,2025-12-28,4,763.92,Loyal Active,253
+C0017972,Mia Miller,New York,New York,United States,24,18316.68,2024-04-22,2025-12-30,2,763.2,Loyal Active,254
+C0042745,Theo Anderson,Denver,Colorado,United States,26,18289.36,2024-06-26,2025-12-23,9,703.44,Loyal Active,255
+C0029513,Daniel Patel,Los Angeles,California,United States,29,18285.4,2024-12-12,2025-12-29,3,630.53,Loyal Active,256
+C0026247,Maya Anderson,Sydney,New South Wales,Australia,21,18269.21,2023-03-12,2025-12-09,23,869.96,Loyal Active,257
+C0001408,Fatima Miller,New Delhi,Delhi,India,25,18264.57,2024-05-06,2025-12-22,10,730.58,Loyal Active,258
+C0000198,Mia Wilson,New Delhi,Delhi,India,11,18253.46,2024-01-29,2025-12-17,15,1659.41,Loyal Active,259
+C0008653,Ravi Patel,Austin,Texas,United States,21,18239.22,2024-02-13,2025-12-13,19,868.53,Loyal Active,260
+C0004239,Hannah Wilson,Bengaluru,Karnataka,India,27,18228.73,2023-07-30,2025-12-26,6,675.14,Loyal Active,261
+C0016038,Kai Garcia,Toronto,Ontario,Canada,25,18223.86,2025-11-02,2025-12-30,2,728.95,Loyal Active,262
+C0009138,Mia Davis,Los Angeles,California,United States,29,18219.24,2025-08-10,2025-12-27,5,628.25,Loyal Active,263
+C0015325,Aisha Robinson,New York,New York,United States,17,18216.95,2024-07-10,2025-11-08,54,1071.59,Loyal Active,264
+C0024120,Grace Martinez,Los Angeles,California,United States,22,18208.29,2023-03-17,2025-10-28,65,827.65,Loyal Active,265
+C0033587,Olivia Taylor,Toronto,Ontario,Canada,20,18198.82,2024-03-12,2025-12-23,9,909.94,Loyal Active,266
+C0026448,Camila Davis,Boston,Massachusetts,United States,24,18167.81,2023-01-20,2025-12-23,9,756.99,Loyal Active,267
+C0037292,Zara Patel,Toronto,Ontario,Canada,29,18156.64,2025-08-13,2025-12-28,4,626.09,Loyal Active,268
+C0015556,Ethan Thomas,Miami,Florida,United States,24,18098.74,2025-03-20,2025-12-23,9,754.11,Loyal Active,269
+C0020409,Aria Sharma,Dallas,Texas,United States,21,18095.0,2024-08-04,2025-12-31,1,861.67,Loyal Active,270
+C0002709,Olivia Johnson,Los Angeles,California,United States,27,18091.61,2024-04-26,2025-12-31,1,670.06,Loyal Active,271
+C0018422,Noah Anderson,Austin,Texas,United States,21,18088.88,2025-10-08,2025-12-31,1,861.38,Loyal Active,272
+C0010371,Amelia Gupta,Dallas,Texas,United States,20,18070.64,2025-04-08,2025-12-19,13,903.53,Loyal Active,273
+C0000172,Theo Smith,Los Angeles,California,United States,29,18070.0,2023-01-26,2025-12-27,5,623.1,Loyal Active,274
+C0007958,Sofia Anderson,Austin,Texas,United States,20,18036.37,2024-05-30,2025-12-18,14,901.82,Loyal Active,275
+C0026253,Olivia Johnson,Miami,Florida,United States,27,18023.91,2023-01-01,2025-12-04,28,667.55,Loyal Active,276
+C0018757,Aria Smith,Seattle,Washington,United States,26,18007.81,2023-10-07,2025-12-24,8,692.61,Loyal Active,277
+C0016825,Noah Khan,Mumbai,Maharashtra,India,25,18005.69,2023-03-29,2025-12-08,24,720.23,Loyal Active,278
+C0048924,Aria Johnson,Dallas,Texas,United States,14,17980.57,2024-08-08,2025-12-24,8,1284.33,Loyal Active,279
+C0001403,Zara Wilson,Toronto,Ontario,Canada,28,17960.25,2025-06-10,2025-12-29,3,641.44,Loyal Active,280
+C0010251,Hannah Khan,Phoenix,Arizona,United States,14,17958.77,2023-12-31,2025-12-15,17,1282.77,Loyal Active,281
+C0014393,Aisha Johnson,Toronto,Ontario,Canada,24,17946.3,2025-09-02,2025-12-31,1,747.76,Loyal Active,282
+C0018603,Hannah Smith,New York,New York,United States,21,17944.67,2023-07-03,2025-12-18,14,854.51,Loyal Active,283
+C0021260,Hannah Robinson,New Delhi,Delhi,India,12,17937.2,2025-04-28,2025-12-29,3,1494.77,Loyal Active,284
+C0036771,Camila Martinez,San Francisco,California,United States,15,17936.63,2023-09-02,2025-12-06,26,1195.78,Loyal Active,285
+C0011683,Priya Brown,Bengaluru,Karnataka,India,20,17931.64,2024-08-26,2025-12-26,6,896.58,Loyal Active,286
+C0011453,Aisha Robinson,Bengaluru,Karnataka,India,26,17930.7,2025-09-23,2025-12-29,3,689.64,Loyal Active,287
+C0047319,Aarav Garcia,London,England,United Kingdom,27,17926.75,2024-03-07,2025-12-16,16,663.95,Loyal Active,288
+C0001313,Grace Brown,Denver,Colorado,United States,20,17922.34,2025-09-05,2025-12-27,5,896.12,Loyal Active,289
+C0025710,Olivia Robinson,Seattle,Washington,United States,27,17920.26,2025-11-07,2025-12-31,1,663.71,Loyal Active,290
+C0043606,Ravi Patel,Sydney,New South Wales,Australia,26,17897.58,2023-07-04,2025-12-27,5,688.37,Loyal Active,291
+C0036227,Zara Patel,Toronto,Ontario,Canada,23,17883.54,2023-03-02,2025-11-02,60,777.55,Loyal Active,292
+C0027535,Liam Smith,New York,New York,United States,25,17880.03,2023-08-16,2025-12-08,24,715.2,Loyal Active,293
+C0047853,Liam Smith,Dallas,Texas,United States,12,17870.5,2023-07-11,2025-10-15,78,1489.21,Loyal Active,294
+C0005860,Zara Wilson,Dallas,Texas,United States,19,17869.79,2024-05-21,2025-11-19,43,940.52,Loyal Active,295
+C0017112,Grace Kim,Los Angeles,California,United States,23,17869.08,2024-05-25,2025-12-24,8,776.92,Loyal Active,296
+C0015821,Ethan Kim,Toronto,Ontario,Canada,22,17868.99,2025-05-02,2025-12-16,16,812.23,Loyal Active,297
+C0018323,Mia Khan,Los Angeles,California,United States,26,17867.9,2025-07-23,2025-12-26,6,687.23,Loyal Active,298
+C0036845,Alex Smith,San Francisco,California,United States,12,17859.27,2023-02-26,2025-10-29,64,1488.27,Loyal Active,299
+C0045131,Olivia Taylor,Miami,Florida,United States,23,17851.76,2024-03-25,2025-12-05,27,776.16,Loyal Active,300
+C0002251,Kai Anderson,Chicago,Illinois,United States,24,17845.57,2023-02-21,2025-11-19,43,743.57,Loyal Active,301
+C0025087,Grace Lee,Austin,Texas,United States,24,17813.52,2023-09-03,2025-10-27,66,742.23,Loyal Active,302
+C0026216,Aarav Singh,Miami,Florida,United States,27,17813.24,2025-02-03,2025-12-28,4,659.75,Loyal Active,303
+C0012132,Theo Robinson,Mumbai,Maharashtra,India,27,17813.2,2024-09-27,2025-12-17,15,659.75,Loyal Active,304
+C0021569,Isabella Smith,Chicago,Illinois,United States,24,17811.27,2024-04-04,2025-11-28,34,742.14,Loyal Active,305
+C0023172,Liam Singh,Austin,Texas,United States,19,17797.31,2025-08-15,2025-12-30,2,936.7,Loyal Active,306
+C0041322,Ethan Sharma,Sydney,New South Wales,Australia,13,17777.89,2025-07-09,2025-12-30,2,1367.53,Loyal Active,307
+C0035807,Aarav Smith,Mumbai,Maharashtra,India,24,17776.67,2023-09-25,2025-12-27,5,740.69,Loyal Active,308
+C0040061,Aarav Davis,Seattle,Washington,United States,26,17775.35,2025-01-17,2025-12-28,4,683.67,Loyal Active,309
+C0034992,Benjamin Kim,Sydney,New South Wales,Australia,13,17768.17,2024-05-28,2025-12-04,28,1366.78,Loyal Active,310
+C0049408,Maya Martinez,Bengaluru,Karnataka,India,19,17744.15,2025-03-03,2025-12-04,28,933.9,Loyal Active,311
+C0037414,Kai Patel,London,England,United Kingdom,19,17712.13,2024-10-12,2025-12-27,5,932.22,Loyal Active,312
+C0040976,Kai Kim,Sydney,New South Wales,Australia,17,17679.77,2023-03-23,2025-12-18,14,1039.99,Loyal Active,313
+C0049001,Noah Brown,New York,New York,United States,17,17661.56,2023-03-08,2025-10-23,70,1038.92,Loyal Active,314
+C0045776,Olivia Khan,Mumbai,Maharashtra,India,26,17651.37,2023-01-07,2025-12-14,18,678.9,Loyal Active,315
+C0025844,Mia Singh,Atlanta,Georgia,United States,22,17639.32,2023-05-07,2025-12-08,24,801.79,Loyal Active,316
+C0041191,Maya Martinez,Mumbai,Maharashtra,India,20,17636.94,2024-09-22,2025-12-16,16,881.85,Loyal Active,317
+C0019221,Sofia Patel,Bengaluru,Karnataka,India,24,17615.21,2025-08-12,2025-12-30,2,733.97,Loyal Active,318
+C0006018,Aarav Chen,Mumbai,Maharashtra,India,21,17611.31,2023-04-06,2025-11-17,45,838.63,Loyal Active,319
+C0027901,James Miller,Miami,Florida,United States,22,17596.31,2024-10-29,2025-12-29,3,799.83,Loyal Active,320
+C0014663,Theo Garcia,New York,New York,United States,26,17594.27,2023-02-08,2025-10-18,75,676.7,Loyal Active,321
+C0003500,Zara Kim,Bengaluru,Karnataka,India,16,17567.43,2024-06-23,2025-12-04,28,1097.96,Loyal Active,322
+C0008451,Grace Anderson,San Francisco,California,United States,22,17565.38,2024-08-11,2025-12-21,11,798.43,Loyal Active,323
+C0032099,Theo Patel,London,England,United Kingdom,17,17545.01,2025-07-06,2025-12-27,5,1032.06,Loyal Active,324
+C0028493,Aisha Anderson,Chicago,Illinois,United States,25,17543.6,2025-11-04,2025-12-30,2,701.74,Loyal Active,325
+C0044135,Camila Thomas,Manchester,England,United Kingdom,22,17516.69,2024-03-22,2025-10-11,82,796.21,Loyal Active,326
+C0019822,Maya Gupta,Mumbai,Maharashtra,India,21,17509.39,2025-07-21,2025-12-30,2,833.78,Loyal Active,327
+C0039143,Noah Johnson,Atlanta,Georgia,United States,24,17476.71,2023-12-03,2025-12-03,29,728.2,Loyal Active,328
+C0006753,Aisha Miller,Boston,Massachusetts,United States,26,17451.28,2023-12-16,2025-12-17,15,671.2,Loyal Active,329
+C0032061,Ravi Patel,San Francisco,California,United States,16,17446.09,2023-10-25,2025-11-24,38,1090.38,Loyal Active,330
+C0016392,Amelia Singh,Manchester,England,United Kingdom,25,17441.28,2024-08-01,2025-12-30,2,697.65,Loyal Active,331
+C0046623,Maya Patel,Toronto,Ontario,Canada,22,17436.68,2024-09-17,2025-12-21,11,792.58,Loyal Active,332
+C0015374,Aria Gupta,Austin,Texas,United States,21,17434.3,2023-01-06,2025-12-25,7,830.2,Loyal Active,333
+C0049968,Isabella Anderson,Seattle,Washington,United States,22,17431.22,2025-03-24,2025-12-29,3,792.33,Loyal Active,334
+C0008637,Noah Khan,Chicago,Illinois,United States,22,17401.75,2024-05-12,2025-12-27,5,790.99,Loyal Active,335
+C0003884,Kai Khan,Bengaluru,Karnataka,India,27,17398.18,2024-09-25,2025-12-25,7,644.38,Loyal Active,336
+C0043092,Mia Miller,Toronto,Ontario,Canada,12,17386.67,2023-04-04,2025-12-03,29,1448.89,Loyal Active,337
+C0009417,Liam Davis,Chicago,Illinois,United States,24,17377.18,2025-03-02,2025-12-17,15,724.05,Loyal Active,338
+C0032991,Amelia Anderson,Chicago,Illinois,United States,26,17356.86,2024-06-17,2025-12-15,17,667.57,Loyal Active,339
+C0029135,Sofia Thomas,Dallas,Texas,United States,16,17351.49,2023-12-15,2025-12-07,25,1084.47,Loyal Active,340
+C0001137,Liam Wilson,Dallas,Texas,United States,21,17346.07,2025-09-01,2025-12-27,5,826.0,Loyal Active,341
+C0025787,Maya Khan,Bengaluru,Karnataka,India,19,17316.02,2023-03-25,2025-12-18,14,911.37,Loyal Active,342
+C0014987,Zara Miller,Dallas,Texas,United States,21,17314.65,2023-05-03,2025-11-01,61,824.51,Loyal Active,343
+C0035359,Daniel Gupta,Los Angeles,California,United States,22,17312.54,2025-02-28,2025-12-27,5,786.93,Loyal Active,344
+C0046572,James Sharma,New York,New York,United States,21,17306.17,2024-08-18,2025-12-29,3,824.1,Loyal Active,345
+C0049212,Liam Miller,Manchester,England,United Kingdom,25,17300.35,2025-08-08,2025-12-30,2,692.01,Loyal Active,346
+C0020180,Aria Sharma,Boston,Massachusetts,United States,25,17260.67,2023-03-12,2025-08-18,136,690.43,Repeat Active,347
+C0015792,Aria Johnson,Melbourne,Victoria,Australia,24,17242.49,2023-03-30,2025-12-22,10,718.44,Loyal Active,348
+C0043875,Grace Anderson,San Francisco,California,United States,26,17240.22,2023-06-15,2025-11-16,46,663.09,Loyal Active,349
+C0046601,Benjamin Taylor,Chicago,Illinois,United States,15,17213.16,2023-09-26,2025-12-24,8,1147.54,Loyal Active,350
+C0019896,Aarav Garcia,Sydney,New South Wales,Australia,24,17198.93,2023-06-23,2025-11-24,38,716.62,Loyal Active,351
+C0023469,Zara Thomas,Manchester,England,United Kingdom,22,17187.42,2023-12-20,2025-11-30,32,781.25,Loyal Active,352
+C0004227,Benjamin Thomas,Miami,Florida,United States,26,17178.1,2023-02-27,2025-12-26,6,660.7,Loyal Active,353
+C0045394,Alex Smith,Chicago,Illinois,United States,26,17166.69,2023-05-17,2025-10-05,88,660.26,Loyal Active,354
+C0045743,Priya Wilson,Mumbai,Maharashtra,India,24,17153.85,2024-08-26,2025-12-10,22,714.74,Loyal Active,355
+C0003156,Maya Gupta,Sydney,New South Wales,Australia,22,17151.51,2024-04-20,2025-12-31,1,779.61,Loyal Active,356
+C0017713,Camila Kim,Phoenix,Arizona,United States,14,17145.17,2025-04-21,2025-12-14,18,1224.65,Loyal Active,357
+C0037823,Camila Davis,New York,New York,United States,26,17124.29,2025-06-29,2025-12-31,1,658.63,Loyal Active,358
+C0025264,Amelia Johnson,Vancouver,British Columbia,Canada,22,17096.79,2023-12-01,2025-11-26,36,777.13,Loyal Active,359
+C0036000,Grace Singh,New York,New York,United States,11,17096.19,2024-12-29,2025-12-22,10,1554.2,Loyal Active,360
+C0011081,Aria Sharma,San Francisco,California,United States,23,17075.69,2024-02-18,2025-12-02,30,742.42,Loyal Active,361
+C0048990,Aisha Thomas,Atlanta,Georgia,United States,25,17052.59,2024-08-24,2025-12-26,6,682.1,Loyal Active,362
+C0030219,Benjamin Chen,Boston,Massachusetts,United States,22,17019.99,2024-01-16,2025-12-31,1,773.64,Loyal Active,363
+C0037387,Hannah Taylor,Mumbai,Maharashtra,India,27,17018.97,2024-12-29,2025-12-21,11,630.33,Loyal Active,364
+C0029353,Aisha Johnson,Austin,Texas,United States,28,17002.75,2023-09-27,2025-12-06,26,607.24,Loyal Active,365
+C0043146,Amelia Patel,Boston,Massachusetts,United States,11,16997.15,2024-07-15,2025-12-12,20,1545.2,Loyal Active,366
+C0015292,Aria Kim,Atlanta,Georgia,United States,21,16993.01,2025-07-03,2025-12-27,5,809.19,Loyal Active,367
+C0002166,Grace Singh,Austin,Texas,United States,19,16977.09,2024-09-16,2025-12-18,14,893.53,Loyal Active,368
+C0004448,Amelia Gupta,Atlanta,Georgia,United States,14,16975.24,2023-01-27,2025-10-14,79,1212.52,Loyal Active,369
+C0030755,Zara Khan,Denver,Colorado,United States,26,16963.18,2023-11-27,2025-12-31,1,652.43,Loyal Active,370
+C0037277,Amelia Thomas,San Francisco,California,United States,26,16938.13,2025-10-25,2025-12-31,1,651.47,Loyal Active,371
+C0021477,Olivia Johnson,Seattle,Washington,United States,28,16928.37,2025-02-13,2025-12-22,10,604.58,Loyal Active,372
+C0005198,Alex Brown,Austin,Texas,United States,20,16918.81,2023-05-08,2025-12-22,10,845.94,Loyal Active,373
+C0025896,Fatima Robinson,Phoenix,Arizona,United States,20,16909.76,2023-12-16,2025-12-30,2,845.49,Loyal Active,374
+C0018336,Daniel Johnson,Los Angeles,California,United States,13,16896.08,2025-02-20,2025-12-06,26,1299.7,Loyal Active,375
+C0041352,Aria Garcia,New York,New York,United States,23,16887.94,2023-10-28,2025-07-28,157,734.26,Repeat Active,376
+C0040180,Amelia Chen,Toronto,Ontario,Canada,22,16887.7,2025-06-07,2025-12-31,1,767.62,Loyal Active,377
+C0012760,Aarav Anderson,Atlanta,Georgia,United States,22,16859.11,2023-04-09,2025-12-13,19,766.32,Loyal Active,378
+C0044976,Mia Robinson,San Francisco,California,United States,24,16839.43,2023-12-06,2025-12-31,1,701.64,Loyal Active,379
+C0043328,Ravi Martinez,Melbourne,Victoria,Australia,27,16837.0,2025-10-24,2025-12-28,4,623.59,Loyal Active,380
+C0012690,Fatima Kim,New York,New York,United States,19,16836.31,2024-11-13,2025-12-16,16,886.12,Loyal Active,381
+C0034246,James Robinson,Atlanta,Georgia,United States,17,16805.96,2025-01-28,2025-12-24,8,988.59,Loyal Active,382
+C0035654,Aisha Sharma,New York,New York,United States,10,16768.98,2024-07-06,2025-11-25,37,1676.9,Loyal Active,383
+C0000640,Fatima Garcia,Phoenix,Arizona,United States,12,16764.01,2023-02-28,2025-05-14,232,1397.0,At Risk,384
+C0000661,Theo Garcia,Denver,Colorado,United States,23,16760.16,2025-04-06,2025-12-31,1,728.7,Loyal Active,385
+C0020177,Ethan Gupta,Atlanta,Georgia,United States,22,16751.39,2023-04-08,2025-10-07,86,761.43,Loyal Active,386
+C0007941,Fatima Chen,Denver,Colorado,United States,22,16749.05,2023-02-14,2025-11-15,47,761.32,Loyal Active,387
+C0016542,Ravi Davis,New York,New York,United States,23,16741.91,2024-10-24,2025-12-26,6,727.91,Loyal Active,388
+C0043860,Maya Miller,Bengaluru,Karnataka,India,18,16735.02,2024-10-07,2025-12-06,26,929.72,Loyal Active,389
+C0025396,Aria Thomas,Melbourne,Victoria,Australia,25,16731.35,2023-07-21,2025-11-30,32,669.25,Loyal Active,390
+C0007005,Kai Davis,Melbourne,Victoria,Australia,14,16726.84,2024-12-18,2025-12-12,20,1194.77,Loyal Active,391
+C0021809,Sofia Chen,New Delhi,Delhi,India,16,16720.7,2025-10-19,2025-12-31,1,1045.04,Loyal Active,392
+C0046004,Fatima Singh,Atlanta,Georgia,United States,18,16708.17,2023-01-18,2025-12-31,1,928.23,Loyal Active,393
+C0021612,Noah Lee,New York,New York,United States,19,16698.39,2023-04-15,2025-11-11,51,878.86,Loyal Active,394
+C0014279,Aisha Garcia,Chicago,Illinois,United States,25,16686.56,2023-12-15,2025-12-24,8,667.46,Loyal Active,395
+C0007360,Zara Garcia,Boston,Massachusetts,United States,21,16678.93,2024-10-07,2025-12-25,7,794.23,Loyal Active,396
+C0004339,Aarav Davis,Austin,Texas,United States,24,16668.49,2024-06-24,2025-12-29,3,694.52,Loyal Active,397
+C0018481,Liam Taylor,Mumbai,Maharashtra,India,10,16663.14,2023-10-16,2025-11-23,39,1666.31,Loyal Active,398
+C0032761,James Anderson,Dallas,Texas,United States,25,16662.34,2024-06-11,2025-12-21,11,666.49,Loyal Active,399
+C0029392,Priya Johnson,San Francisco,California,United States,22,16657.75,2023-03-08,2025-10-18,75,757.17,Loyal Active,400
+C0030643,Olivia Khan,Dallas,Texas,United States,28,16628.32,2023-08-25,2025-12-06,26,593.87,Loyal Active,401
+C0048548,Noah Smith,Bengaluru,Karnataka,India,23,16618.95,2025-04-17,2025-12-28,4,722.56,Loyal Active,402
+C0020558,Liam Anderson,Bengaluru,Karnataka,India,24,16611.63,2023-12-27,2025-12-24,8,692.15,Loyal Active,403
+C0036032,Isabella Johnson,Mumbai,Maharashtra,India,28,16610.53,2024-03-08,2025-12-05,27,593.23,Loyal Active,404
+C0016215,Aarav Anderson,Boston,Massachusetts,United States,16,16607.02,2023-03-22,2025-12-13,19,1037.94,Loyal Active,405
+C0024503,Noah Martinez,London,England,United Kingdom,24,16600.06,2023-05-21,2025-11-04,58,691.67,Loyal Active,406
+C0041904,Priya Anderson,Bengaluru,Karnataka,India,24,16598.65,2023-07-08,2025-12-25,7,691.61,Loyal Active,407
+C0015387,Liam Anderson,Sydney,New South Wales,Australia,11,16591.82,2024-04-26,2025-12-21,11,1508.35,Loyal Active,408
+C0004289,Camila Wilson,Sydney,New South Wales,Australia,27,16580.06,2023-05-31,2025-10-23,70,614.08,Loyal Active,409
+C0046971,Aria Singh,Chicago,Illinois,United States,27,16575.9,2023-01-08,2025-12-06,26,613.92,Loyal Active,410
+C0008949,Amelia Khan,New York,New York,United States,25,16567.19,2025-03-12,2025-12-25,7,662.69,Loyal Active,411
+C0043124,Camila Sharma,New York,New York,United States,23,16563.61,2025-01-29,2025-12-28,4,720.16,Loyal Active,412
+C0025796,Zara Patel,San Francisco,California,United States,10,16562.84,2025-08-31,2025-12-30,2,1656.28,Loyal Active,413
+C0048287,Alex Singh,New York,New York,United States,25,16560.23,2023-12-01,2025-10-23,70,662.41,Loyal Active,414
+C0018028,Camila Martinez,Austin,Texas,United States,12,16559.46,2023-11-11,2025-12-17,15,1379.95,Loyal Active,415
+C0001904,Noah Brown,San Francisco,California,United States,18,16549.71,2023-05-10,2025-08-22,132,919.43,Repeat Active,416
+C0038425,Ravi Taylor,Atlanta,Georgia,United States,14,16538.95,2024-09-23,2025-12-29,3,1181.35,Loyal Active,417
+C0009459,Theo Singh,Bengaluru,Karnataka,India,25,16524.7,2023-10-18,2025-11-09,53,660.99,Loyal Active,418
+C0035823,Aarav Lee,Melbourne,Victoria,Australia,22,16518.19,2024-07-13,2025-12-23,9,750.83,Loyal Active,419
+C0035284,Daniel Kim,Seattle,Washington,United States,14,16517.15,2023-12-27,2025-11-21,41,1179.8,Loyal Active,420
+C0048802,Maya Miller,Chicago,Illinois,United States,22,16505.66,2025-07-07,2025-12-25,7,750.26,Loyal Active,421
+C0041771,Sofia Sharma,Miami,Florida,United States,17,16505.22,2023-02-03,2025-12-08,24,970.9,Loyal Active,422
+C0037809,Alex Davis,Dallas,Texas,United States,26,16504.53,2025-07-29,2025-12-31,1,634.79,Loyal Active,423
+C0018884,Alex Miller,Seattle,Washington,United States,21,16503.0,2024-01-31,2025-12-21,11,785.86,Loyal Active,424
+C0030374,Zara Miller,Los Angeles,California,United States,25,16500.09,2023-11-27,2025-12-08,24,660.0,Loyal Active,425
+C0023215,Ravi Brown,Miami,Florida,United States,22,16498.51,2024-03-12,2025-12-28,4,749.93,Loyal Active,426
+C0020086,Noah Martinez,New York,New York,United States,22,16483.61,2024-04-13,2025-12-24,8,749.25,Loyal Active,427
+C0022723,Olivia Garcia,Toronto,Ontario,Canada,24,16478.47,2023-08-16,2025-12-29,3,686.6,Loyal Active,428
+C0006265,Theo Johnson,Mumbai,Maharashtra,India,25,16476.66,2025-11-15,2025-12-31,1,659.07,Loyal Active,429
+C0039119,Hannah Taylor,Vancouver,British Columbia,Canada,24,16467.98,2023-06-18,2025-12-23,9,686.17,Loyal Active,430
+C0003882,Mia Miller,Austin,Texas,United States,26,16460.35,2023-11-25,2025-12-12,20,633.09,Loyal Active,431
+C0033439,Amelia Brown,Seattle,Washington,United States,19,16444.26,2025-09-10,2025-12-27,5,865.49,Loyal Active,432
+C0027390,Isabella Davis,Vancouver,British Columbia,Canada,15,16441.19,2024-12-28,2025-12-31,1,1096.08,Loyal Active,433
+C0005996,Fatima Thomas,Chicago,Illinois,United States,20,16437.26,2023-09-05,2025-12-07,25,821.86,Loyal Active,434
+C0037803,James Patel,San Francisco,California,United States,9,16436.91,2023-07-06,2025-09-05,118,1826.32,Repeat Active,435
+C0044038,Hannah Wilson,Manchester,England,United Kingdom,27,16433.29,2023-07-18,2025-12-20,12,608.64,Loyal Active,436
+C0024758,Aisha Davis,New York,New York,United States,10,16419.99,2024-09-03,2025-12-17,15,1642.0,Loyal Active,437
+C0021079,Priya Chen,San Francisco,California,United States,10,16416.5,2023-08-24,2025-10-11,82,1641.65,Loyal Active,438
+C0009282,Daniel Khan,Phoenix,Arizona,United States,17,16411.43,2023-08-08,2025-12-30,2,965.38,Loyal Active,439
+C0020063,Ethan Chen,Vancouver,British Columbia,Canada,28,16399.71,2024-09-17,2025-12-28,4,585.7,Loyal Active,440
+C0022722,Ravi Kim,Dallas,Texas,United States,17,16398.05,2023-06-04,2025-10-28,65,964.59,Loyal Active,441
+C0007829,Theo Thomas,Austin,Texas,United States,21,16386.68,2024-12-06,2025-12-26,6,780.32,Loyal Active,442
+C0003598,Maya Miller,New York,New York,United States,25,16381.35,2025-06-13,2025-12-29,3,655.25,Loyal Active,443
+C0034359,Kai Taylor,Phoenix,Arizona,United States,22,16379.88,2025-06-03,2025-12-26,6,744.54,Loyal Active,444
+C0007579,Zara Gupta,New York,New York,United States,27,16378.98,2023-01-08,2025-11-25,37,606.63,Loyal Active,445
+C0017094,Ravi Taylor,Boston,Massachusetts,United States,17,16367.64,2023-03-10,2025-06-27,188,962.8,At Risk,446
+C0031479,Daniel Martinez,Los Angeles,California,United States,21,16361.38,2024-02-11,2025-12-21,11,779.11,Loyal Active,447
+C0021856,Priya Sharma,New York,New York,United States,24,16355.33,2025-04-17,2025-12-23,9,681.47,Loyal Active,448
+C0048362,Maya Taylor,San Francisco,California,United States,24,16351.7,2023-02-17,2025-12-10,22,681.32,Loyal Active,449
+C0010283,Aarav Davis,Miami,Florida,United States,22,16348.62,2025-02-11,2025-12-28,4,743.12,Loyal Active,450
+C0005515,Daniel Gupta,Boston,Massachusetts,United States,19,16348.34,2023-04-01,2025-12-24,8,860.44,Loyal Active,451
+C0018535,Noah Kim,New York,New York,United States,15,16342.41,2025-10-03,2025-12-30,2,1089.49,Loyal Active,452
+C0045062,Olivia Kim,Atlanta,Georgia,United States,27,16337.2,2023-02-26,2025-12-26,6,605.08,Loyal Active,453
+C0008185,Alex Smith,Chicago,Illinois,United States,13,16325.52,2023-10-07,2025-11-27,35,1255.81,Loyal Active,454
+C0000908,Maya Anderson,New Delhi,Delhi,India,25,16323.65,2024-12-01,2025-12-16,16,652.95,Loyal Active,455
+C0022286,Aisha Robinson,Bengaluru,Karnataka,India,28,16309.48,2023-02-07,2025-12-31,1,582.48,Loyal Active,456
+C0026317,Hannah Smith,Toronto,Ontario,Canada,14,16308.37,2023-09-28,2025-08-03,151,1164.88,Repeat Active,457
+C0040499,Aarav Smith,New Delhi,Delhi,India,25,16290.12,2023-02-12,2025-12-22,10,651.6,Loyal Active,458
+C0040060,Hannah Anderson,Bengaluru,Karnataka,India,25,16280.21,2025-04-16,2025-12-17,15,651.21,Loyal Active,459
+C0017884,Hannah Martinez,New Delhi,Delhi,India,21,16269.05,2024-09-17,2025-12-29,3,774.72,Loyal Active,460
+C0027854,Fatima Wilson,San Francisco,California,United States,23,16258.67,2024-07-06,2025-12-28,4,706.9,Loyal Active,461
+C0034951,Daniel Taylor,Sydney,New South Wales,Australia,27,16246.19,2023-03-01,2025-12-24,8,601.71,Loyal Active,462
+C0028634,Aarav Lee,San Francisco,California,United States,19,16240.7,2025-01-29,2025-12-13,19,854.77,Loyal Active,463
+C0037767,Aisha Davis,Seattle,Washington,United States,21,16215.93,2024-12-08,2025-12-04,28,772.19,Loyal Active,464
+C0043529,Isabella Chen,Dallas,Texas,United States,13,16172.72,2023-08-08,2025-12-30,2,1244.06,Loyal Active,465
+C0020663,Aisha Miller,Dallas,Texas,United States,26,16171.92,2023-03-13,2025-12-13,19,622.0,Loyal Active,466
+C0016536,Aria Gupta,Bengaluru,Karnataka,India,9,16167.25,2023-08-09,2025-12-20,12,1796.36,Loyal Active,467
+C0037395,Zara Wilson,Miami,Florida,United States,19,16165.74,2024-02-22,2025-12-29,3,850.83,Loyal Active,468
+C0029195,Amelia Kim,Dallas,Texas,United States,16,16165.6,2023-08-13,2025-12-28,4,1010.35,Loyal Active,469
+C0015453,Maya Kim,Sydney,New South Wales,Australia,24,16160.81,2025-05-21,2025-12-21,11,673.37,Loyal Active,470
+C0047129,Theo Thomas,Toronto,Ontario,Canada,24,16159.2,2025-07-09,2025-12-31,1,673.3,Loyal Active,471
+C0021794,Aisha Sharma,Vancouver,British Columbia,Canada,28,16154.97,2023-02-04,2025-12-09,23,576.96,Loyal Active,472
+C0027729,Olivia Patel,Austin,Texas,United States,24,16152.78,2024-07-06,2025-12-27,5,673.03,Loyal Active,473
+C0035523,Amelia Smith,New Delhi,Delhi,India,22,16150.11,2024-07-18,2025-12-22,10,734.1,Loyal Active,474
+C0005351,Aisha Sharma,Melbourne,Victoria,Australia,19,16138.53,2023-06-04,2025-12-27,5,849.4,Loyal Active,475
+C0044645,Ethan Taylor,Bengaluru,Karnataka,India,29,16137.77,2023-05-22,2025-12-26,6,556.47,Loyal Active,476
+C0042342,Alex Kim,Sydney,New South Wales,Australia,22,16137.57,2025-08-02,2025-12-28,4,733.53,Loyal Active,477
+C0028437,Hannah Davis,Boston,Massachusetts,United States,24,16127.76,2025-09-11,2025-12-27,5,671.99,Loyal Active,478
+C0012099,Aarav Johnson,Dallas,Texas,United States,22,16107.31,2024-10-29,2025-12-20,12,732.15,Loyal Active,479
+C0015076,Aria Gupta,Austin,Texas,United States,23,16079.09,2025-10-04,2025-12-29,3,699.09,Loyal Active,480
+C0047752,Maya Johnson,Sydney,New South Wales,Australia,19,16076.08,2024-11-07,2025-12-29,3,846.11,Loyal Active,481
+C0037948,Amelia Davis,Miami,Florida,United States,16,16058.19,2023-08-17,2025-12-11,21,1003.64,Loyal Active,482
+C0037382,Mia Martinez,Phoenix,Arizona,United States,26,16053.94,2023-12-05,2025-12-28,4,617.46,Loyal Active,483
+C0012162,Isabella Singh,Bengaluru,Karnataka,India,20,16036.74,2023-03-19,2025-11-30,32,801.84,Loyal Active,484
+C0009583,Benjamin Brown,Mumbai,Maharashtra,India,26,16020.27,2023-03-18,2025-12-05,27,616.16,Loyal Active,485
+C0017469,Aarav Patel,Bengaluru,Karnataka,India,27,16018.23,2023-04-16,2025-11-26,36,593.27,Loyal Active,486
+C0043441,Hannah Chen,Manchester,England,United Kingdom,21,16017.76,2025-04-05,2025-12-29,3,762.75,Loyal Active,487
+C0049740,Aisha Thomas,Atlanta,Georgia,United States,26,16017.68,2025-09-09,2025-12-30,2,616.06,Loyal Active,488
+C0043354,Theo Gupta,Toronto,Ontario,Canada,22,16009.55,2023-09-16,2025-12-17,15,727.71,Loyal Active,489
+C0045134,Alex Anderson,Manchester,England,United Kingdom,20,15998.76,2024-10-03,2025-12-28,4,799.94,Loyal Active,490
+C0047788,Noah Miller,Seattle,Washington,United States,25,15995.1,2023-12-13,2025-12-20,12,639.8,Loyal Active,491
+C0041134,Kai Lee,Dallas,Texas,United States,12,15991.2,2023-03-28,2025-11-23,39,1332.6,Loyal Active,492
+C0045547,Camila Gupta,Toronto,Ontario,Canada,26,15979.65,2025-03-19,2025-12-28,4,614.6,Loyal Active,493
+C0008120,Sofia Thomas,Chicago,Illinois,United States,13,15972.36,2023-12-30,2025-12-12,20,1228.64,Loyal Active,494
+C0037418,Aisha Chen,Dallas,Texas,United States,29,15967.98,2023-05-23,2025-12-10,22,550.62,Loyal Active,495
+C0020776,Grace Patel,Los Angeles,California,United States,26,15967.86,2024-03-14,2025-12-10,22,614.15,Loyal Active,496
+C0042817,Priya Taylor,Los Angeles,California,United States,19,15961.14,2025-03-14,2025-12-14,18,840.06,Loyal Active,497
+C0004525,Maya Lee,Austin,Texas,United States,16,15957.76,2023-05-19,2025-12-09,23,997.36,Loyal Active,498
+C0038958,Daniel Miller,San Francisco,California,United States,21,15956.88,2023-04-30,2025-12-30,2,759.85,Loyal Active,499
+C0011938,Aria Garcia,New Delhi,Delhi,India,28,15934.2,2024-08-11,2025-12-29,3,569.08,Loyal Active,500
+C0038700,Benjamin Robinson,Vancouver,British Columbia,Canada,18,15932.16,2023-06-30,2025-10-31,62,885.12,Loyal Active,501
+C0007349,Ethan Robinson,Boston,Massachusetts,United States,17,15925.9,2025-04-03,2025-12-01,31,936.82,Loyal Active,502
+C0032107,Mia Smith,Dallas,Texas,United States,20,15902.14,2023-06-04,2025-12-23,9,795.11,Loyal Active,503
+C0038225,Aarav Chen,Toronto,Ontario,Canada,28,15901.67,2024-12-04,2025-12-01,31,567.92,Loyal Active,504
+C0012703,Fatima Khan,London,England,United Kingdom,24,15884.06,2023-01-09,2025-11-20,42,661.84,Loyal Active,505
+C0037175,Zara Thomas,Chicago,Illinois,United States,24,15871.54,2024-03-28,2025-12-31,1,661.31,Loyal Active,506
+C0007949,Camila Lee,Denver,Colorado,United States,13,15868.19,2025-05-01,2025-12-26,6,1220.63,Loyal Active,507
+C0002453,Theo Gupta,Chicago,Illinois,United States,11,15866.81,2025-06-03,2025-12-10,22,1442.44,Loyal Active,508
+C0042377,Mia Davis,San Francisco,California,United States,23,15865.5,2024-05-06,2025-12-26,6,689.8,Loyal Active,509
+C0004686,Sofia Johnson,Manchester,England,United Kingdom,26,15865.13,2025-08-06,2025-12-29,3,610.2,Loyal Active,510
+C0031044,Zara Patel,Toronto,Ontario,Canada,23,15862.74,2024-01-08,2025-11-09,53,689.68,Loyal Active,511
+C0006704,Amelia Kim,Manchester,England,United Kingdom,23,15833.46,2023-03-21,2025-12-28,4,688.41,Loyal Active,512
+C0048203,Grace Miller,Miami,Florida,United States,23,15831.93,2025-07-13,2025-12-17,15,688.34,Loyal Active,513
+C0027557,Aria Martinez,Austin,Texas,United States,27,15829.71,2024-12-31,2025-12-09,23,586.29,Loyal Active,514
+C0003146,Isabella Chen,Phoenix,Arizona,United States,12,15822.03,2023-04-10,2025-01-19,347,1318.5,At Risk,515
+C0044984,Isabella Davis,Miami,Florida,United States,20,15809.82,2025-10-12,2025-12-30,2,790.49,Loyal Active,516
+C0045124,Camila Taylor,Austin,Texas,United States,26,15805.52,2024-11-13,2025-12-18,14,607.9,Loyal Active,517
+C0020962,Olivia Wilson,Atlanta,Georgia,United States,28,15793.19,2025-07-28,2025-12-17,15,564.04,Loyal Active,518
+C0009911,Noah Smith,Atlanta,Georgia,United States,29,15792.67,2024-12-11,2025-12-26,6,544.57,Loyal Active,519
+C0009544,Zara Wilson,New Delhi,Delhi,India,13,15788.4,2023-09-22,2025-12-08,24,1214.49,Loyal Active,520
+C0012902,Hannah Sharma,San Francisco,California,United States,11,15779.85,2024-02-16,2025-11-11,51,1434.53,Loyal Active,521
+C0017357,Priya Lee,New York,New York,United States,12,15758.95,2024-04-29,2025-12-16,16,1313.25,Loyal Active,522
+C0008987,Aarav Miller,Bengaluru,Karnataka,India,24,15758.34,2024-08-21,2025-12-19,13,656.6,Loyal Active,523
+C0018029,Priya Gupta,London,England,United Kingdom,25,15756.89,2023-01-28,2025-12-22,10,630.28,Loyal Active,524
+C0014842,Noah Davis,Seattle,Washington,United States,15,15749.97,2023-01-24,2025-11-13,49,1050.0,Loyal Active,525
+C0009374,Olivia Sharma,London,England,United Kingdom,26,15742.57,2025-01-26,2025-12-27,5,605.48,Loyal Active,526
+C0010006,Isabella Garcia,San Francisco,California,United States,20,15733.3,2024-04-01,2025-12-29,3,786.66,Loyal Active,527
+C0031116,Sofia Lee,Vancouver,British Columbia,Canada,22,15731.65,2024-07-14,2025-12-30,2,715.07,Loyal Active,528
+C0007713,Daniel Sharma,London,England,United Kingdom,26,15725.91,2023-11-28,2025-11-21,41,604.84,Loyal Active,529
+C0016326,Aria Sharma,Sydney,New South Wales,Australia,23,15724.62,2024-08-01,2025-12-24,8,683.68,Loyal Active,530
+C0046821,Theo Kim,Denver,Colorado,United States,27,15698.2,2023-10-28,2025-12-08,24,581.41,Loyal Active,531
+C0002063,Ravi Lee,Miami,Florida,United States,26,15677.41,2025-03-21,2025-12-21,11,602.98,Loyal Active,532
+C0011863,Olivia Chen,Sydney,New South Wales,Australia,22,15675.99,2024-09-20,2025-12-11,21,712.54,Loyal Active,533
+C0048812,Camila Johnson,Atlanta,Georgia,United States,22,15665.92,2025-02-10,2025-12-20,12,712.09,Loyal Active,534
+C0021599,Zara Davis,New York,New York,United States,21,15662.98,2023-12-11,2025-11-10,52,745.86,Loyal Active,535
+C0020530,Mia Martinez,Seattle,Washington,United States,13,15646.32,2024-10-14,2025-12-14,18,1203.56,Loyal Active,536
+C0012932,Ravi Garcia,Toronto,Ontario,Canada,21,15641.24,2023-11-04,2025-12-16,16,744.82,Loyal Active,537
+C0009445,Priya Johnson,Sydney,New South Wales,Australia,8,15634.85,2025-02-20,2025-12-30,2,1954.36,Loyal Active,538
+C0007299,Zara Brown,Atlanta,Georgia,United States,25,15632.72,2024-08-04,2025-11-26,36,625.31,Loyal Active,539
+C0014758,Kai Patel,Sydney,New South Wales,Australia,12,15600.95,2025-06-11,2025-12-27,5,1300.08,Loyal Active,540
+C0034288,Grace Miller,Dallas,Texas,United States,21,15594.56,2023-12-17,2025-12-07,25,742.6,Loyal Active,541
+C0027846,Theo Wilson,Atlanta,Georgia,United States,20,15590.83,2023-01-31,2025-11-29,33,779.54,Loyal Active,542
+C0040392,Maya Khan,Phoenix,Arizona,United States,21,15581.57,2025-07-07,2025-12-17,15,741.98,Loyal Active,543
+C0004348,Grace Gupta,New York,New York,United States,14,15572.22,2024-11-23,2025-12-25,7,1112.3,Loyal Active,544
+C0035086,Aarav Patel,Austin,Texas,United States,14,15569.42,2024-06-08,2025-11-11,51,1112.1,Loyal Active,545
+C0008587,Noah Gupta,San Francisco,California,United States,20,15565.49,2024-09-29,2025-12-30,2,778.27,Loyal Active,546
+C0004921,Theo Martinez,Phoenix,Arizona,United States,15,15558.44,2025-06-25,2025-12-29,3,1037.23,Loyal Active,547
+C0024606,Grace Taylor,Vancouver,British Columbia,Canada,25,15558.0,2023-01-19,2025-09-20,103,622.32,Repeat Active,548
+C0004633,Aisha Robinson,Los Angeles,California,United States,26,15555.04,2024-07-23,2025-12-28,4,598.27,Loyal Active,549
+C0001143,Alex Martinez,Los Angeles,California,United States,16,15547.5,2023-02-08,2025-11-11,51,971.72,Loyal Active,550
+C0034883,Alex Chen,London,England,United Kingdom,25,15535.48,2024-03-07,2025-12-28,4,621.42,Loyal Active,551
+C0045933,Daniel Davis,Los Angeles,California,United States,28,15525.83,2025-08-08,2025-12-30,2,554.49,Loyal Active,552
+C0035502,Theo Anderson,Denver,Colorado,United States,28,15520.73,2023-03-02,2025-11-01,61,554.31,Loyal Active,553
+C0034675,James Brown,Austin,Texas,United States,26,15513.98,2024-08-02,2025-12-27,5,596.69,Loyal Active,554
+C0024283,Fatima Lee,Vancouver,British Columbia,Canada,14,15513.42,2024-04-22,2025-12-28,4,1108.1,Loyal Active,555
+C0048806,Olivia Brown,Toronto,Ontario,Canada,23,15497.99,2023-01-19,2025-12-11,21,673.83,Loyal Active,556
+C0047869,Zara Khan,New Delhi,Delhi,India,23,15490.16,2023-03-21,2025-12-12,20,673.49,Loyal Active,557
+C0029394,Camila Robinson,Chicago,Illinois,United States,8,15482.7,2023-11-17,2025-07-17,168,1935.34,Repeat Active,558
+C0048005,Kai Anderson,Dallas,Texas,United States,19,15476.27,2024-02-12,2025-12-25,7,814.54,Loyal Active,559
+C0021076,Zara Johnson,Seattle,Washington,United States,19,15463.38,2025-03-28,2025-12-15,17,813.86,Loyal Active,560
+C0037396,Aisha Thomas,New Delhi,Delhi,India,26,15459.12,2024-01-18,2025-12-22,10,594.58,Loyal Active,561
+C0021832,Benjamin Khan,Bengaluru,Karnataka,India,18,15457.53,2023-02-16,2025-12-16,16,858.75,Loyal Active,562
+C0026122,Zara Smith,Boston,Massachusetts,United States,24,15456.5,2024-08-15,2025-12-18,14,644.02,Loyal Active,563
+C0004020,Ravi Lee,Miami,Florida,United States,21,15451.47,2024-04-25,2025-12-28,4,735.78,Loyal Active,564
+C0010642,Noah Johnson,Mumbai,Maharashtra,India,22,15427.05,2025-09-04,2025-12-31,1,701.23,Loyal Active,565
+C0037564,Aarav Taylor,Seattle,Washington,United States,26,15413.29,2024-06-24,2025-12-15,17,592.82,Loyal Active,566
+C0044849,Alex Singh,New York,New York,United States,24,15412.09,2024-03-08,2025-12-21,11,642.17,Loyal Active,567
+C0004823,Fatima Anderson,Toronto,Ontario,Canada,14,15405.79,2025-06-11,2025-12-25,7,1100.41,Loyal Active,568
+C0001660,Sofia Smith,Manchester,England,United Kingdom,16,15385.95,2023-03-08,2025-12-23,9,961.62,Loyal Active,569
+C0018549,Benjamin Singh,Austin,Texas,United States,13,15380.07,2023-08-21,2025-07-21,164,1183.08,Repeat Active,570
+C0040657,Isabella Sharma,Chicago,Illinois,United States,25,15355.02,2023-11-09,2025-12-21,11,614.2,Loyal Active,571
+C0044185,James Robinson,Dallas,Texas,United States,26,15353.62,2023-04-04,2025-11-19,43,590.52,Loyal Active,572
+C0005348,Grace Martinez,Denver,Colorado,United States,26,15349.97,2024-03-07,2025-12-15,17,590.38,Loyal Active,573
+C0043375,Liam Garcia,Bengaluru,Karnataka,India,20,15347.93,2024-11-28,2025-12-18,14,767.4,Loyal Active,574
+C0045811,Camila Taylor,Austin,Texas,United States,22,15327.91,2024-08-01,2025-12-22,10,696.72,Loyal Active,575
+C0006541,Camila Patel,Manchester,England,United Kingdom,19,15317.25,2023-06-30,2025-05-11,235,806.17,At Risk,576
+C0005873,Aarav Patel,Boston,Massachusetts,United States,20,15307.18,2024-12-02,2025-12-26,6,765.36,Loyal Active,577
+C0035758,Noah Khan,Boston,Massachusetts,United States,24,15256.26,2024-06-14,2025-12-21,11,635.68,Loyal Active,578
+C0027993,Aria Singh,New York,New York,United States,25,15254.34,2023-03-06,2025-08-08,146,610.17,Repeat Active,579
+C0044539,Benjamin Lee,London,England,United Kingdom,24,15247.18,2023-02-17,2025-11-22,40,635.3,Loyal Active,580
+C0024979,Hannah Davis,Miami,Florida,United States,18,15233.25,2024-02-12,2025-12-20,12,846.29,Loyal Active,581
+C0042798,Fatima Sharma,Seattle,Washington,United States,11,15229.2,2024-09-13,2025-12-23,9,1384.47,Loyal Active,582
+C0049653,Alex Taylor,Bengaluru,Karnataka,India,22,15224.57,2024-09-28,2025-12-11,21,692.03,Loyal Active,583
+C0048112,Alex Taylor,New Delhi,Delhi,India,22,15221.98,2024-08-27,2025-12-31,1,691.91,Loyal Active,584
+C0013054,Zara Robinson,Melbourne,Victoria,Australia,22,15219.6,2023-01-21,2025-12-05,27,691.8,Loyal Active,585
+C0034587,Grace Lee,Mumbai,Maharashtra,India,12,15218.16,2023-11-15,2025-12-11,21,1268.18,Loyal Active,586
+C0003792,Olivia Davis,Los Angeles,California,United States,15,15217.0,2025-06-02,2025-12-31,1,1014.47,Loyal Active,587
+C0035269,Camila Garcia,Los Angeles,California,United States,23,15209.55,2023-02-08,2025-12-15,17,661.28,Loyal Active,588
+C0019839,Aarav Smith,London,England,United Kingdom,19,15206.3,2024-10-30,2025-12-22,10,800.33,Loyal Active,589
+C0002949,Sofia Khan,London,England,United Kingdom,17,15205.82,2024-10-13,2025-12-02,30,894.46,Loyal Active,590
+C0042752,Isabella Khan,San Francisco,California,United States,23,15204.75,2023-01-16,2025-11-26,36,661.08,Loyal Active,591
+C0026520,Maya Wilson,Mumbai,Maharashtra,India,10,15203.7,2024-06-16,2025-12-14,18,1520.37,Loyal Active,592
+C0015113,Mia Johnson,Sydney,New South Wales,Australia,22,15198.78,2023-01-31,2025-05-02,244,690.85,At Risk,593
+C0023866,Aisha Smith,Los Angeles,California,United States,24,15181.5,2024-11-08,2025-12-10,22,632.56,Loyal Active,594
+C0044132,Aria Garcia,Manchester,England,United Kingdom,17,15179.34,2024-11-07,2025-12-30,2,892.9,Loyal Active,595
+C0014685,Aisha Sharma,Atlanta,Georgia,United States,12,15171.12,2023-11-22,2025-12-25,7,1264.26,Loyal Active,596
+C0010396,Camila Davis,Miami,Florida,United States,24,15169.65,2024-09-14,2025-12-18,14,632.07,Loyal Active,597
+C0049806,James Gupta,Boston,Massachusetts,United States,25,15162.25,2024-02-24,2025-12-29,3,606.49,Loyal Active,598
+C0010660,Liam Singh,Denver,Colorado,United States,14,15152.09,2023-10-10,2025-09-11,112,1082.29,Repeat Active,599
+C0020322,Isabella Singh,Los Angeles,California,United States,15,15138.07,2024-10-06,2025-11-29,33,1009.2,Loyal Active,600
+C0022294,Theo Martinez,New Delhi,Delhi,India,28,15137.91,2024-08-08,2025-12-19,13,540.64,Loyal Active,601
+C0046070,Hannah Martinez,Melbourne,Victoria,Australia,18,15127.03,2024-05-08,2025-12-16,16,840.39,Loyal Active,602
+C0036364,Kai Miller,Mumbai,Maharashtra,India,16,15125.99,2024-10-13,2025-12-25,7,945.37,Loyal Active,603
+C0040377,Sofia Wilson,Manchester,England,United Kingdom,15,15123.03,2023-04-10,2025-12-20,12,1008.2,Loyal Active,604
+C0047540,Benjamin Wilson,Dallas,Texas,United States,27,15118.25,2024-10-18,2025-12-19,13,559.94,Loyal Active,605
+C0021096,Aarav Brown,San Francisco,California,United States,20,15116.49,2025-11-12,2025-12-26,6,755.82,Loyal Active,606
+C0049308,Aarav Miller,Los Angeles,California,United States,23,15115.72,2023-06-19,2025-12-16,16,657.21,Loyal Active,607
+C0035361,Mia Wilson,Manchester,England,United Kingdom,21,15105.3,2023-05-17,2025-12-10,22,719.3,Loyal Active,608
+C0015725,Aarav Khan,Dallas,Texas,United States,13,15105.12,2023-10-04,2025-11-30,32,1161.93,Loyal Active,609
+C0038175,Noah Garcia,Phoenix,Arizona,United States,17,15101.54,2023-09-23,2025-11-24,38,888.33,Loyal Active,610
+C0032908,Fatima Gupta,Austin,Texas,United States,28,15100.7,2024-02-12,2025-12-31,1,539.31,Loyal Active,611
+C0013778,Fatima Khan,London,England,United Kingdom,14,15073.94,2024-05-24,2025-12-08,24,1076.71,Loyal Active,612
+C0002683,Mia Garcia,Denver,Colorado,United States,20,15071.68,2024-09-11,2025-12-20,12,753.58,Loyal Active,613
+C0011328,Priya Taylor,Toronto,Ontario,Canada,21,15051.74,2023-08-15,2025-11-26,36,716.75,Loyal Active,614
+C0009717,Zara Lee,New York,New York,United States,22,15040.84,2024-01-13,2025-12-01,31,683.67,Loyal Active,615
+C0009579,Ravi Khan,Bengaluru,Karnataka,India,22,15039.07,2024-09-30,2025-12-29,3,683.59,Loyal Active,616
+C0016172,Olivia Khan,Toronto,Ontario,Canada,12,15034.49,2025-07-13,2025-12-30,2,1252.87,Loyal Active,617
+C0008449,Benjamin Martinez,Atlanta,Georgia,United States,22,15025.73,2023-01-18,2025-12-31,1,682.99,Loyal Active,618
+C0005871,Aisha Lee,New Delhi,Delhi,India,27,15021.86,2025-08-17,2025-12-29,3,556.37,Loyal Active,619
+C0040773,James Robinson,Melbourne,Victoria,Australia,17,15020.32,2024-01-20,2025-12-27,5,883.55,Loyal Active,620
+C0030403,Amelia Kim,Miami,Florida,United States,11,15007.99,2024-01-21,2025-12-06,26,1364.36,Loyal Active,621
+C0024348,Aisha Chen,New York,New York,United States,11,14999.66,2024-02-12,2025-12-22,10,1363.61,Loyal Active,622
+C0006197,Aisha Gupta,Vancouver,British Columbia,Canada,9,14994.61,2023-07-25,2025-11-28,34,1666.07,Loyal Active,623
+C0038709,Fatima Taylor,Austin,Texas,United States,22,14994.6,2023-11-20,2025-10-26,67,681.57,Loyal Active,624
+C0008481,Sofia Lee,Phoenix,Arizona,United States,12,14991.73,2025-08-03,2025-12-30,2,1249.31,Loyal Active,625
+C0013990,Ravi Chen,Toronto,Ontario,Canada,21,14990.86,2024-12-06,2025-12-20,12,713.85,Loyal Active,626
+C0024392,Kai Chen,Los Angeles,California,United States,19,14966.22,2024-05-13,2025-11-16,46,787.7,Loyal Active,627
+C0008318,Camila Davis,Denver,Colorado,United States,24,14965.51,2025-08-11,2025-12-23,9,623.56,Loyal Active,628
+C0035887,Mia Singh,Melbourne,Victoria,Australia,23,14965.23,2023-12-18,2025-12-04,28,650.66,Loyal Active,629
+C0001074,Maya Sharma,Chicago,Illinois,United States,23,14963.96,2023-02-20,2025-09-11,112,650.61,Repeat Active,630
+C0024731,Liam Garcia,Atlanta,Georgia,United States,21,14950.25,2025-11-04,2025-12-28,4,711.92,Loyal Active,631
+C0029970,Priya Chen,Phoenix,Arizona,United States,23,14931.4,2023-06-18,2025-12-30,2,649.19,Loyal Active,632
+C0027096,Olivia Thomas,Austin,Texas,United States,18,14925.9,2025-10-12,2025-12-30,2,829.22,Loyal Active,633
+C0004766,Maya Garcia,Boston,Massachusetts,United States,13,14924.07,2023-10-23,2025-11-21,41,1148.01,Loyal Active,634
+C0006700,Amelia Khan,Dallas,Texas,United States,23,14922.68,2023-02-14,2025-12-25,7,648.81,Loyal Active,635
+C0003616,Priya Smith,London,England,United Kingdom,20,14922.26,2025-07-26,2025-12-31,1,746.11,Loyal Active,636
+C0008920,James Thomas,Sydney,New South Wales,Australia,14,14912.64,2023-07-10,2025-12-26,6,1065.19,Loyal Active,637
+C0017668,Amelia Brown,Dallas,Texas,United States,13,14892.32,2023-07-20,2025-12-19,13,1145.56,Loyal Active,638
+C0026782,James Kim,Vancouver,British Columbia,Canada,21,14889.41,2023-07-03,2025-12-16,16,709.02,Loyal Active,639
+C0033381,Ravi Sharma,Miami,Florida,United States,16,14884.42,2024-07-12,2025-12-01,31,930.28,Loyal Active,640
+C0029517,Isabella Chen,New Delhi,Delhi,India,21,14883.39,2025-05-01,2025-12-22,10,708.73,Loyal Active,641
+C0024700,Fatima Smith,Atlanta,Georgia,United States,13,14875.94,2024-12-14,2025-12-14,18,1144.3,Loyal Active,642
+C0040302,Ethan Martinez,Bengaluru,Karnataka,India,15,14874.57,2023-03-17,2025-12-28,4,991.64,Loyal Active,643
+C0012453,Ravi Garcia,Chicago,Illinois,United States,17,14869.32,2023-03-27,2025-11-14,48,874.67,Loyal Active,644
+C0039581,Ethan Robinson,San Francisco,California,United States,27,14864.36,2025-10-11,2025-12-31,1,550.53,Loyal Active,645
+C0034328,Alex Johnson,Sydney,New South Wales,Australia,19,14859.33,2023-07-22,2025-12-10,22,782.07,Loyal Active,646
+C0000219,Isabella Davis,Chicago,Illinois,United States,13,14857.22,2023-02-19,2025-11-16,46,1142.86,Loyal Active,647
+C0016387,Noah Sharma,Boston,Massachusetts,United States,26,14855.19,2024-10-17,2025-12-30,2,571.35,Loyal Active,648
+C0049648,Theo Sharma,Manchester,England,United Kingdom,12,14852.26,2025-04-19,2025-12-28,4,1237.69,Loyal Active,649
+C0015870,Sofia Thomas,San Francisco,California,United States,18,14837.17,2024-05-23,2025-12-21,11,824.29,Loyal Active,650
+C0013095,Aisha Chen,Phoenix,Arizona,United States,23,14830.32,2023-04-10,2025-11-07,55,644.8,Loyal Active,651
+C0017368,Amelia Miller,Sydney,New South Wales,Australia,7,14827.43,2025-10-03,2025-12-17,15,2118.2,Loyal Active,652
+C0016193,Liam Wilson,London,England,United Kingdom,16,14825.78,2024-05-27,2025-10-06,87,926.61,Loyal Active,653
+C0002109,James Martinez,Manchester,England,United Kingdom,23,14817.91,2025-08-09,2025-12-29,3,644.26,Loyal Active,654
+C0011211,Kai Gupta,New York,New York,United States,21,14815.48,2023-06-05,2025-12-18,14,705.5,Loyal Active,655
+C0046819,Daniel Sharma,Manchester,England,United Kingdom,19,14813.81,2023-11-15,2025-12-27,5,779.67,Loyal Active,656
+C0030370,Ravi Johnson,New York,New York,United States,10,14812.94,2025-04-25,2025-11-23,39,1481.29,Loyal Active,657
+C0004603,Theo Davis,San Francisco,California,United States,27,14798.25,2024-09-12,2025-12-31,1,548.08,Loyal Active,658
+C0022278,Noah Anderson,Manchester,England,United Kingdom,22,14797.83,2025-09-14,2025-12-31,1,672.63,Loyal Active,659
+C0033706,Mia Johnson,Bengaluru,Karnataka,India,24,14788.6,2024-11-24,2025-12-20,12,616.19,Loyal Active,660
+C0008569,Kai Taylor,Phoenix,Arizona,United States,13,14787.56,2024-05-29,2025-12-15,17,1137.5,Loyal Active,661
+C0002948,Benjamin Garcia,Atlanta,Georgia,United States,24,14785.15,2024-09-26,2025-11-08,54,616.05,Loyal Active,662
+C0001129,Alex Wilson,Boston,Massachusetts,United States,20,14781.47,2024-05-11,2025-12-23,9,739.07,Loyal Active,663
+C0019359,Priya Wilson,Boston,Massachusetts,United States,18,14773.67,2023-04-22,2025-11-28,34,820.76,Loyal Active,664
+C0001368,Noah Garcia,Phoenix,Arizona,United States,19,14753.09,2024-08-28,2025-11-30,32,776.48,Loyal Active,665
+C0048458,Grace Lee,Bengaluru,Karnataka,India,17,14748.09,2023-07-08,2025-12-26,6,867.53,Loyal Active,666
+C0048423,Maya Anderson,Los Angeles,California,United States,20,14737.49,2024-07-16,2025-12-12,20,736.87,Loyal Active,667
+C0000730,Noah Sharma,Bengaluru,Karnataka,India,12,14721.0,2025-03-10,2025-12-01,31,1226.75,Loyal Active,668
+C0006952,James Smith,New Delhi,Delhi,India,14,14716.27,2023-11-22,2025-10-01,92,1051.16,Repeat Active,669
+C0016514,Mia Robinson,Los Angeles,California,United States,20,14714.05,2025-10-13,2025-12-25,7,735.7,Loyal Active,670
+C0025360,Fatima Anderson,Chicago,Illinois,United States,10,14706.63,2025-09-12,2025-12-12,20,1470.66,Loyal Active,671
+C0035656,Aarav Robinson,London,England,United Kingdom,22,14701.1,2023-12-25,2025-11-14,48,668.23,Loyal Active,672
+C0034755,Aisha Smith,Seattle,Washington,United States,21,14697.04,2024-07-17,2025-12-22,10,699.86,Loyal Active,673
+C0024235,Aisha Miller,London,England,United Kingdom,24,14695.83,2023-04-22,2025-11-29,33,612.33,Loyal Active,674
+C0044231,Ravi Martinez,Bengaluru,Karnataka,India,12,14691.8,2023-05-23,2025-09-06,117,1224.32,Repeat Active,675
+C0048211,Theo Kim,Mumbai,Maharashtra,India,7,14689.89,2023-11-23,2025-12-20,12,2098.56,Loyal Active,676
+C0040003,Ethan Lee,New Delhi,Delhi,India,14,14679.5,2023-07-21,2025-12-11,21,1048.54,Loyal Active,677
+C0001558,Camila Kim,Melbourne,Victoria,Australia,17,14668.42,2025-09-27,2025-12-25,7,862.85,Loyal Active,678
+C0034742,James Martinez,San Francisco,California,United States,10,14664.07,2024-09-02,2025-12-22,10,1466.41,Loyal Active,679
+C0003008,Liam Gupta,Dallas,Texas,United States,20,14658.27,2024-11-28,2025-12-23,9,732.91,Loyal Active,680
+C0002382,Liam Sharma,Denver,Colorado,United States,22,14655.9,2023-01-18,2025-12-27,5,666.18,Loyal Active,681
+C0030927,Camila Thomas,Boston,Massachusetts,United States,20,14652.01,2024-05-12,2025-12-24,8,732.6,Loyal Active,682
+C0008972,Priya Johnson,Austin,Texas,United States,13,14649.04,2023-11-01,2025-12-29,3,1126.85,Loyal Active,683
+C0012261,Sofia Johnson,Chicago,Illinois,United States,12,14648.68,2025-06-19,2025-12-28,4,1220.72,Loyal Active,684
+C0005738,Maya Patel,San Francisco,California,United States,23,14648.53,2023-12-07,2025-12-16,16,636.89,Loyal Active,685
+C0044626,Daniel Brown,Bengaluru,Karnataka,India,12,14647.46,2024-06-18,2025-12-31,1,1220.62,Loyal Active,686
+C0041011,Liam Garcia,Austin,Texas,United States,21,14635.66,2024-12-14,2025-12-10,22,696.94,Loyal Active,687
+C0012629,Camila Khan,Manchester,England,United Kingdom,13,14629.88,2025-03-22,2025-11-30,32,1125.38,Loyal Active,688
+C0017747,Zara Brown,Mumbai,Maharashtra,India,20,14627.2,2023-03-17,2025-11-24,38,731.36,Loyal Active,689
+C0036312,Benjamin Khan,Bengaluru,Karnataka,India,26,14625.15,2023-08-22,2025-11-21,41,562.51,Loyal Active,690
+C0022603,Mia Robinson,Melbourne,Victoria,Australia,25,14622.63,2023-12-10,2025-12-10,22,584.91,Loyal Active,691
+C0037982,James Sharma,Dallas,Texas,United States,21,14610.04,2024-02-14,2025-12-13,19,695.72,Loyal Active,692
+C0008717,Grace Chen,Los Angeles,California,United States,23,14608.21,2025-04-03,2025-12-31,1,635.14,Loyal Active,693
+C0028818,Alex Patel,Phoenix,Arizona,United States,15,14607.13,2024-05-06,2025-08-01,153,973.81,Repeat Active,694
+C0038834,Aisha Miller,Vancouver,British Columbia,Canada,13,14604.23,2023-07-04,2025-12-27,5,1123.4,Loyal Active,695
+C0043393,Isabella Wilson,Sydney,New South Wales,Australia,16,14600.41,2023-06-05,2025-09-18,105,912.53,Repeat Active,696
+C0049646,Zara Lee,New Delhi,Delhi,India,12,14599.32,2024-06-24,2025-10-24,69,1216.61,Loyal Active,697
+C0004183,Aisha Singh,Los Angeles,California,United States,24,14594.34,2023-08-06,2025-12-20,12,608.1,Loyal Active,698
+C0022623,Olivia Robinson,Manchester,England,United Kingdom,22,14591.5,2025-03-29,2025-12-31,1,663.25,Loyal Active,699
+C0034482,Aisha Kim,Bengaluru,Karnataka,India,25,14579.74,2023-02-17,2025-12-08,24,583.19,Loyal Active,700
+C0010889,Isabella Taylor,Mumbai,Maharashtra,India,22,14575.75,2025-03-21,2025-12-24,8,662.53,Loyal Active,701
+C0017333,Benjamin Robinson,Los Angeles,California,United States,13,14575.27,2024-09-20,2025-11-13,49,1121.17,Loyal Active,702
+C0016793,Aarav Chen,Boston,Massachusetts,United States,10,14574.82,2023-08-08,2024-12-26,371,1457.48,At Risk,703
+C0000329,Aria Garcia,Austin,Texas,United States,20,14567.43,2023-01-02,2025-11-18,44,728.37,Loyal Active,704
+C0011104,Alex Patel,Miami,Florida,United States,23,14564.48,2023-01-14,2025-12-26,6,633.24,Loyal Active,705
+C0035209,Kai Miller,San Francisco,California,United States,22,14547.41,2025-01-24,2025-12-24,8,661.25,Loyal Active,706
+C0027031,Mia Lee,Austin,Texas,United States,10,14534.95,2025-05-10,2025-12-07,25,1453.5,Loyal Active,707
+C0018992,Grace Kim,Mumbai,Maharashtra,India,26,14523.72,2025-09-25,2025-12-31,1,558.6,Loyal Active,708
+C0025375,Aisha Johnson,Atlanta,Georgia,United States,22,14517.63,2024-09-05,2025-12-29,3,659.89,Loyal Active,709
+C0003807,Olivia Taylor,Bengaluru,Karnataka,India,6,14493.71,2024-07-14,2025-11-08,54,2415.62,Loyal Active,710
+C0036656,Ravi Lee,Seattle,Washington,United States,23,14478.44,2024-12-01,2025-12-19,13,629.5,Loyal Active,711
+C0023288,Aarav Taylor,Phoenix,Arizona,United States,19,14478.11,2025-10-28,2025-12-28,4,762.01,Loyal Active,712
+C0024009,Noah Johnson,Austin,Texas,United States,25,14457.09,2025-08-04,2025-12-28,4,578.28,Loyal Active,713
+C0015918,Olivia Chen,Denver,Colorado,United States,14,14455.11,2023-07-03,2025-09-26,97,1032.51,Repeat Active,714
+C0002516,Grace Brown,Seattle,Washington,United States,27,14447.18,2024-03-07,2025-12-30,2,535.08,Loyal Active,715
+C0038959,Benjamin Sharma,Los Angeles,California,United States,27,14439.89,2023-01-01,2025-12-22,10,534.81,Loyal Active,716
+C0008529,Theo Smith,Bengaluru,Karnataka,India,23,14437.59,2024-05-22,2025-12-06,26,627.72,Loyal Active,717
+C0014788,Grace Khan,Miami,Florida,United States,21,14431.88,2024-11-05,2025-12-05,27,687.23,Loyal Active,718
+C0038903,Aisha Davis,Chicago,Illinois,United States,13,14431.15,2025-08-06,2025-12-28,4,1110.09,Loyal Active,719
+C0028029,Olivia Robinson,New York,New York,United States,26,14425.44,2024-06-16,2025-12-29,3,554.82,Loyal Active,720
+C0044473,Mia Anderson,Austin,Texas,United States,14,14422.69,2024-01-05,2025-12-14,18,1030.19,Loyal Active,721
+C0015236,Amelia Gupta,Boston,Massachusetts,United States,20,14420.69,2023-07-02,2025-10-02,91,721.03,Repeat Active,722
+C0035203,Olivia Kim,Atlanta,Georgia,United States,8,14399.6,2023-10-29,2025-11-26,36,1799.95,Loyal Active,723
+C0020637,Zara Martinez,San Francisco,California,United States,21,14388.2,2024-06-18,2025-12-23,9,685.15,Loyal Active,724
+C0004305,Aria Smith,Bengaluru,Karnataka,India,22,14387.39,2024-12-28,2025-12-15,17,653.97,Loyal Active,725
+C0029967,Alex Garcia,Manchester,England,United Kingdom,19,14381.46,2023-01-21,2025-12-02,30,756.92,Loyal Active,726
+C0046745,Ravi Smith,San Francisco,California,United States,14,14380.86,2023-07-02,2025-12-06,26,1027.2,Loyal Active,727
+C0012751,Sofia Garcia,Los Angeles,California,United States,14,14379.46,2024-09-15,2025-12-31,1,1027.1,Loyal Active,728
+C0015655,Maya Sharma,Los Angeles,California,United States,19,14377.45,2023-03-11,2025-10-26,67,756.71,Loyal Active,729
+C0036908,Hannah Khan,Seattle,Washington,United States,12,14374.69,2023-09-26,2025-12-25,7,1197.89,Loyal Active,730
+C0028049,Daniel Sharma,Chicago,Illinois,United States,21,14372.4,2023-10-05,2025-12-13,19,684.4,Loyal Active,731
+C0025654,Mia Patel,Atlanta,Georgia,United States,15,14372.28,2023-01-08,2025-11-09,53,958.15,Loyal Active,732
+C0048665,Olivia Smith,San Francisco,California,United States,11,14371.26,2025-11-07,2025-12-31,1,1306.48,Loyal Active,733
+C0025946,Sofia Brown,Miami,Florida,United States,17,14365.57,2025-02-05,2025-12-27,5,845.03,Loyal Active,734
+C0018846,Zara Singh,Miami,Florida,United States,17,14364.76,2024-02-23,2025-11-17,45,844.99,Loyal Active,735
+C0023415,Aisha Robinson,Boston,Massachusetts,United States,22,14363.7,2023-05-07,2025-12-25,7,652.9,Loyal Active,736
+C0049364,Isabella Garcia,Melbourne,Victoria,Australia,13,14360.66,2025-04-05,2025-12-14,18,1104.67,Loyal Active,737
+C0046644,Kai Taylor,San Francisco,California,United States,12,14356.44,2025-02-28,2025-12-18,14,1196.37,Loyal Active,738
+C0014093,Olivia Sharma,Seattle,Washington,United States,12,14348.52,2025-03-01,2025-12-22,10,1195.71,Loyal Active,739
+C0028220,Priya Martinez,Seattle,Washington,United States,25,14343.79,2023-03-15,2025-12-26,6,573.75,Loyal Active,740
+C0037732,Hannah Wilson,New York,New York,United States,17,14341.38,2024-06-17,2025-12-26,6,843.61,Loyal Active,741
+C0031132,Kai Wilson,Miami,Florida,United States,9,14338.61,2024-09-19,2025-12-15,17,1593.18,Loyal Active,742
+C0024912,Mia Lee,Mumbai,Maharashtra,India,10,14338.23,2024-08-09,2025-12-28,4,1433.82,Loyal Active,743
+C0047623,Isabella Taylor,Austin,Texas,United States,19,14329.38,2024-06-21,2025-12-31,1,754.18,Loyal Active,744
+C0014200,Grace Taylor,Bengaluru,Karnataka,India,16,14327.69,2023-10-16,2025-12-20,12,895.48,Loyal Active,745
+C0011152,James Patel,Chicago,Illinois,United States,18,14319.96,2023-04-03,2025-11-19,43,795.55,Loyal Active,746
+C0013673,Theo Kim,Los Angeles,California,United States,22,14318.64,2024-09-11,2025-12-10,22,650.85,Loyal Active,747
+C0035516,Isabella Miller,Miami,Florida,United States,17,14315.41,2023-12-07,2025-12-31,1,842.08,Loyal Active,748
+C0041421,Kai Lee,Austin,Texas,United States,22,14315.12,2024-01-10,2025-12-16,16,650.69,Loyal Active,749
+C0016635,Olivia Robinson,Atlanta,Georgia,United States,13,14281.59,2023-10-03,2025-12-24,8,1098.58,Loyal Active,750
+C0039756,Priya Anderson,Melbourne,Victoria,Australia,14,14274.0,2025-07-08,2025-12-12,20,1019.57,Loyal Active,751
+C0016789,Isabella Brown,Chicago,Illinois,United States,19,14258.04,2023-10-01,2025-12-14,18,750.42,Loyal Active,752
+C0030908,Aria Singh,New Delhi,Delhi,India,16,14252.44,2025-09-11,2025-12-24,8,890.78,Loyal Active,753
+C0026163,Ethan Gupta,Denver,Colorado,United States,29,14247.22,2023-02-14,2025-11-28,34,491.28,Loyal Active,754
+C0026412,Ravi Singh,Phoenix,Arizona,United States,19,14230.2,2024-07-21,2025-12-11,21,748.96,Loyal Active,755
+C0040872,Sofia Davis,Mumbai,Maharashtra,India,23,14229.4,2023-08-17,2025-12-26,6,618.67,Loyal Active,756
+C0030742,Liam Brown,Atlanta,Georgia,United States,15,14229.08,2023-12-17,2025-12-14,18,948.61,Loyal Active,757
+C0001545,Maya Garcia,Mumbai,Maharashtra,India,23,14218.55,2023-03-22,2025-12-18,14,618.2,Loyal Active,758
+C0022088,Isabella Brown,Austin,Texas,United States,19,14217.73,2025-04-16,2025-12-24,8,748.3,Loyal Active,759
+C0032837,Fatima Anderson,New York,New York,United States,22,14213.66,2025-01-15,2025-12-26,6,646.08,Loyal Active,760
+C0043194,Maya Chen,Phoenix,Arizona,United States,9,14211.96,2023-01-17,2025-04-15,261,1579.11,At Risk,761
+C0025012,Olivia Martinez,Denver,Colorado,United States,19,14210.03,2024-07-06,2025-12-30,2,747.9,Loyal Active,762
+C0024710,Mia Sharma,Denver,Colorado,United States,18,14197.44,2023-11-11,2025-12-27,5,788.75,Loyal Active,763
+C0036336,Theo Miller,Miami,Florida,United States,25,14195.29,2025-02-07,2025-12-24,8,567.81,Loyal Active,764
+C0049801,Aria Martinez,Mumbai,Maharashtra,India,12,14194.83,2024-04-10,2025-12-30,2,1182.9,Loyal Active,765
+C0014440,Olivia Robinson,Boston,Massachusetts,United States,22,14186.67,2024-02-11,2025-12-30,2,644.85,Loyal Active,766
+C0011026,Camila Gupta,Toronto,Ontario,Canada,21,14173.56,2025-09-05,2025-12-14,18,674.93,Loyal Active,767
+C0040508,Hannah Johnson,Bengaluru,Karnataka,India,24,14170.42,2025-10-08,2025-12-23,9,590.43,Loyal Active,768
+C0042694,Aria Chen,New Delhi,Delhi,India,12,14165.63,2025-05-06,2025-12-02,30,1180.47,Loyal Active,769
+C0002975,Priya Smith,Los Angeles,California,United States,12,14163.96,2025-01-01,2025-11-26,36,1180.33,Loyal Active,770
+C0027997,Daniel Garcia,Dallas,Texas,United States,16,14161.67,2024-02-17,2025-11-22,40,885.1,Loyal Active,771
+C0041341,Zara Brown,Chicago,Illinois,United States,10,14160.92,2024-10-13,2025-12-02,30,1416.09,Loyal Active,772
+C0042523,Benjamin Chen,Austin,Texas,United States,8,14157.89,2024-06-24,2025-10-18,75,1769.74,Loyal Active,773
+C0002122,Aria Martinez,Denver,Colorado,United States,18,14155.97,2024-12-05,2025-12-30,2,786.44,Loyal Active,774
+C0002112,Camila Gupta,San Francisco,California,United States,9,14155.81,2023-11-05,2025-12-16,16,1572.87,Loyal Active,775
+C0013141,Hannah Singh,Dallas,Texas,United States,7,14155.48,2025-09-01,2025-11-19,43,2022.21,Loyal Active,776
+C0001365,Ethan Brown,Vancouver,British Columbia,Canada,21,14154.04,2025-05-07,2025-12-18,14,674.0,Loyal Active,777
+C0040725,Fatima Patel,New York,New York,United States,18,14151.72,2025-11-06,2025-12-28,4,786.21,Loyal Active,778
+C0013860,Ethan Thomas,New York,New York,United States,18,14146.79,2023-04-17,2025-12-30,2,785.93,Loyal Active,779
+C0015661,Aisha Davis,Toronto,Ontario,Canada,23,14144.5,2024-09-22,2025-12-02,30,614.98,Loyal Active,780
+C0035378,Theo Patel,Los Angeles,California,United States,18,14144.36,2025-02-18,2025-12-26,6,785.8,Loyal Active,781
+C0049910,Amelia Chen,New York,New York,United States,12,14131.09,2024-12-17,2025-12-21,11,1177.59,Loyal Active,782
+C0009715,Aarav Sharma,San Francisco,California,United States,17,14123.99,2023-12-05,2025-11-13,49,830.82,Loyal Active,783
+C0015819,Aarav Robinson,Bengaluru,Karnataka,India,12,14118.13,2023-04-02,2025-12-15,17,1176.51,Loyal Active,784
+C0022939,Benjamin Gupta,London,England,United Kingdom,21,14112.73,2024-01-16,2025-12-26,6,672.03,Loyal Active,785
+C0016099,Kai Lee,New Delhi,Delhi,India,12,14110.92,2024-09-07,2025-09-27,96,1175.91,Repeat Active,786
+C0030458,Noah Davis,Atlanta,Georgia,United States,17,14109.23,2024-07-08,2025-12-26,6,829.95,Loyal Active,787
+C0020014,Ravi Singh,New Delhi,Delhi,India,13,14105.27,2025-08-14,2025-12-17,15,1085.02,Loyal Active,788
+C0036604,Alex Singh,Mumbai,Maharashtra,India,15,14101.21,2023-08-20,2025-11-04,58,940.08,Loyal Active,789
+C0045239,Aisha Brown,Seattle,Washington,United States,17,14096.81,2025-10-20,2025-12-31,1,829.22,Loyal Active,790
+C0000883,Camila Chen,London,England,United Kingdom,13,14087.65,2023-06-21,2025-12-25,7,1083.67,Loyal Active,791
+C0005695,Aisha Johnson,New York,New York,United States,19,14076.89,2024-08-28,2025-12-30,2,740.89,Loyal Active,792
+C0000914,Amelia Martinez,Austin,Texas,United States,16,14075.45,2023-09-10,2025-10-30,63,879.72,Loyal Active,793
+C0041164,Amelia Wilson,Denver,Colorado,United States,10,14074.59,2023-08-19,2025-11-23,39,1407.46,Loyal Active,794
+C0023655,Theo Lee,Seattle,Washington,United States,12,14073.84,2024-08-25,2025-11-06,56,1172.82,Loyal Active,795
+C0033510,Liam Sharma,Phoenix,Arizona,United States,23,14073.13,2023-12-16,2025-12-27,5,611.88,Loyal Active,796
+C0021428,Aria Taylor,Chicago,Illinois,United States,16,14070.99,2023-07-09,2025-12-10,22,879.44,Loyal Active,797
+C0032588,Alex Davis,Bengaluru,Karnataka,India,9,14067.76,2025-11-20,2025-12-31,1,1563.08,Loyal Active,798
+C0009207,Ethan Gupta,Seattle,Washington,United States,23,14060.22,2023-02-10,2025-12-07,25,611.31,Loyal Active,799
+C0005804,James Lee,Dallas,Texas,United States,11,14054.49,2024-12-18,2025-12-05,27,1277.68,Loyal Active,800
+C0031304,Daniel Thomas,Denver,Colorado,United States,12,14045.93,2024-05-12,2025-11-25,37,1170.49,Loyal Active,801
+C0028747,Liam Gupta,Manchester,England,United Kingdom,17,14045.57,2025-02-16,2025-12-15,17,826.21,Loyal Active,802
+C0028182,Noah Garcia,Mumbai,Maharashtra,India,12,14042.53,2023-09-24,2025-12-09,23,1170.21,Loyal Active,803
+C0019134,Grace Davis,New York,New York,United States,20,14028.27,2024-03-13,2025-12-25,7,701.41,Loyal Active,804
+C0018986,Priya Smith,Dallas,Texas,United States,27,14025.2,2023-01-15,2025-12-19,13,519.45,Loyal Active,805
+C0036262,Sofia Wilson,Mumbai,Maharashtra,India,8,14018.7,2025-04-19,2025-12-17,15,1752.34,Loyal Active,806
+C0026080,Noah Robinson,Vancouver,British Columbia,Canada,23,14005.09,2023-05-06,2025-12-18,14,608.92,Loyal Active,807
+C0046806,Mia Patel,Bengaluru,Karnataka,India,23,14004.56,2023-07-03,2025-12-23,9,608.89,Loyal Active,808
+C0001385,Grace Smith,San Francisco,California,United States,14,14002.13,2024-08-13,2025-12-28,4,1000.15,Loyal Active,809
+C0046283,Benjamin Wilson,Miami,Florida,United States,23,13998.96,2025-01-02,2025-12-13,19,608.65,Loyal Active,810
+C0049734,Zara Wilson,Chicago,Illinois,United States,23,13987.75,2024-06-22,2025-12-25,7,608.16,Loyal Active,811
+C0041591,Daniel Brown,Vancouver,British Columbia,Canada,14,13975.1,2025-10-30,2025-12-29,3,998.22,Loyal Active,812
+C0034407,Zara Lee,Bengaluru,Karnataka,India,19,13972.86,2023-03-18,2025-12-28,4,735.41,Loyal Active,813
+C0046599,Isabella Wilson,Toronto,Ontario,Canada,6,13967.3,2024-02-02,2025-11-19,43,2327.88,Loyal Active,814
+C0026870,Daniel Martinez,Mumbai,Maharashtra,India,11,13965.05,2024-01-09,2025-11-21,41,1269.55,Loyal Active,815
+C0015299,Grace Miller,Phoenix,Arizona,United States,22,13964.77,2024-07-01,2025-12-28,4,634.76,Loyal Active,816
+C0003325,Daniel Brown,Miami,Florida,United States,20,13963.45,2023-01-22,2025-11-13,49,698.17,Loyal Active,817
+C0045888,Grace Davis,New York,New York,United States,15,13957.09,2024-03-09,2025-10-17,76,930.47,Loyal Active,818
+C0035548,Benjamin Smith,Mumbai,Maharashtra,India,24,13954.36,2024-05-15,2025-12-18,14,581.43,Loyal Active,819
+C0019705,Liam Wilson,Bengaluru,Karnataka,India,13,13952.16,2025-09-12,2025-12-30,2,1073.24,Loyal Active,820
+C0025397,Olivia Singh,New York,New York,United States,20,13951.11,2024-05-07,2025-12-14,18,697.56,Loyal Active,821
+C0021239,Isabella Robinson,Mumbai,Maharashtra,India,12,13946.58,2025-03-22,2025-12-17,15,1162.21,Loyal Active,822
+C0003388,Ravi Davis,Los Angeles,California,United States,21,13944.27,2025-10-16,2025-12-25,7,664.01,Loyal Active,823
+C0018478,Benjamin Martinez,Mumbai,Maharashtra,India,12,13937.12,2024-09-07,2025-12-23,9,1161.43,Loyal Active,824
+C0025014,Daniel Robinson,Atlanta,Georgia,United States,22,13935.95,2024-07-23,2025-12-15,17,633.45,Loyal Active,825
+C0007042,Aisha Smith,Unknown,Washington,United States,14,13931.88,2025-04-25,2025-12-31,1,995.13,Loyal Active,826
+C0035382,Amelia Kim,Bengaluru,Karnataka,India,18,13922.34,2023-05-23,2025-12-12,20,773.46,Loyal Active,827
+C0043264,Ravi Singh,Seattle,Washington,United States,24,13917.35,2023-02-14,2025-10-14,79,579.89,Loyal Active,828
+C0014316,Ravi Thomas,Boston,Massachusetts,United States,9,13915.77,2025-04-15,2025-12-28,4,1546.2,Loyal Active,829
+C0030018,Aarav Taylor,Los Angeles,California,United States,9,13898.27,2023-11-08,2025-12-20,12,1544.25,Loyal Active,830
+C0031197,Priya Khan,Chicago,Illinois,United States,20,13889.85,2023-09-19,2025-12-31,1,694.49,Loyal Active,831
+C0015228,Olivia Kim,Chicago,Illinois,United States,14,13885.26,2025-02-04,2025-12-24,8,991.8,Loyal Active,832
+C0002588,Maya Kim,New York,New York,United States,26,13882.77,2024-05-25,2025-12-15,17,533.95,Loyal Active,833
+C0009090,Ethan Martinez,New York,New York,United States,23,13862.96,2024-07-20,2025-12-24,8,602.74,Loyal Active,834
+C0035157,Grace Miller,Sydney,New South Wales,Australia,12,13853.55,2024-01-21,2025-12-31,1,1154.46,Loyal Active,835
+C0010346,Aarav Anderson,Los Angeles,California,United States,14,13851.08,2025-04-10,2025-12-09,23,989.36,Loyal Active,836
+C0039946,Liam Patel,Boston,Massachusetts,United States,27,13846.08,2025-08-09,2025-12-28,4,512.82,Loyal Active,837
+C0037570,Ethan Anderson,New York,New York,United States,15,13843.52,2025-06-25,2025-12-14,18,922.9,Loyal Active,838
+C0007140,Zara Robinson,San Francisco,California,United States,13,13842.1,2023-06-13,2025-12-07,25,1064.78,Loyal Active,839
+C0038122,Fatima Taylor,London,England,United Kingdom,10,13841.08,2023-03-26,2025-12-02,30,1384.11,Loyal Active,840
+C0028055,Aarav Kim,Denver,Colorado,United States,13,13837.24,2023-06-02,2025-11-08,54,1064.4,Loyal Active,841
+C0036521,Benjamin Khan,Austin,Texas,United States,27,13835.49,2025-09-11,2025-12-21,11,512.43,Loyal Active,842
+C0029423,Isabella Smith,Manchester,England,United Kingdom,14,13815.3,2024-01-23,2025-12-31,1,986.81,Loyal Active,843
+C0009172,Fatima Garcia,Bengaluru,Karnataka,India,21,13814.81,2025-04-24,2025-12-24,8,657.85,Loyal Active,844
+C0042007,Ethan Thomas,Los Angeles,California,United States,17,13793.86,2025-11-19,2025-12-30,2,811.4,Loyal Active,845
+C0041100,Sofia Garcia,New York,New York,United States,12,13785.61,2023-07-10,2025-05-14,232,1148.8,At Risk,846
+C0029415,Mia Smith,Sydney,New South Wales,Australia,16,13785.22,2024-05-22,2025-12-22,10,861.58,Loyal Active,847
+C0017789,Aria Kim,Chicago,Illinois,United States,21,13781.09,2023-08-21,2025-12-22,10,656.24,Loyal Active,848
+C0026654,Ravi Chen,Chicago,Illinois,United States,23,13781.08,2023-07-13,2025-11-07,55,599.18,Loyal Active,849
+C0049459,Ravi Brown,London,England,United Kingdom,12,13776.36,2025-07-30,2025-12-23,9,1148.03,Loyal Active,850
+C0015115,Daniel Gupta,Atlanta,Georgia,United States,24,13773.06,2025-02-03,2025-12-25,7,573.88,Loyal Active,851
+C0046713,Sofia Singh,New York,New York,United States,19,13770.99,2023-11-08,2025-12-23,9,724.79,Loyal Active,852
+C0021899,Alex Patel,Atlanta,Georgia,United States,12,13762.87,2025-02-18,2025-12-27,5,1146.91,Loyal Active,853
+C0031951,Mia Wilson,New York,New York,United States,11,13754.85,2023-07-22,2025-10-06,87,1250.44,Loyal Active,854
+C0016206,Grace Robinson,Denver,Colorado,United States,13,13753.85,2024-07-25,2025-12-26,6,1057.99,Loyal Active,855
+C0002913,Aria Chen,New York,New York,United States,12,13749.81,2024-06-09,2025-11-23,39,1145.82,Loyal Active,856
+C0015081,Sofia Taylor,Chicago,Illinois,United States,9,13749.19,2025-10-06,2025-12-27,5,1527.69,Loyal Active,857
+C0009258,Grace Kim,Austin,Texas,United States,23,13744.89,2024-07-15,2025-12-31,1,597.6,Loyal Active,858
+C0044070,Fatima Singh,Manchester,England,United Kingdom,18,13738.72,2024-12-22,2025-12-17,15,763.26,Loyal Active,859
+C0037309,Kai Davis,Chicago,Illinois,United States,22,13737.83,2025-04-05,2025-11-29,33,624.45,Loyal Active,860
+C0023501,Fatima Lee,Toronto,Ontario,Canada,23,13737.26,2023-06-04,2025-11-11,51,597.27,Loyal Active,861
+C0004486,Aarav Brown,Toronto,Ontario,Canada,14,13735.78,2023-02-04,2025-07-18,167,981.13,Repeat Active,862
+C0027004,Zara Brown,Los Angeles,California,United States,25,13732.56,2024-03-28,2025-12-28,4,549.3,Loyal Active,863
+C0038471,Daniel Brown,Atlanta,Georgia,United States,27,13731.89,2023-10-29,2025-12-25,7,508.59,Loyal Active,864
+C0048872,James Patel,San Francisco,California,United States,27,13725.81,2023-03-18,2025-12-28,4,508.36,Loyal Active,865
+C0033609,Aisha Taylor,Chicago,Illinois,United States,14,13723.36,2023-12-30,2025-07-11,174,980.24,Repeat Active,866
+C0005939,Priya Miller,New Delhi,Delhi,India,21,13723.13,2024-04-13,2025-11-28,34,653.48,Loyal Active,867
+C0024139,Isabella Kim,Miami,Florida,United States,21,13718.41,2025-06-20,2025-12-14,18,653.26,Loyal Active,868
+C0032734,Amelia Garcia,New York,New York,United States,22,13711.63,2025-03-24,2025-12-28,4,623.26,Loyal Active,869
+C0028264,Aarav Davis,Bengaluru,Karnataka,India,23,13706.76,2024-05-03,2025-12-19,13,595.95,Loyal Active,870
+C0027064,Noah Thomas,Vancouver,British Columbia,Canada,18,13702.62,2025-06-04,2025-12-29,3,761.26,Loyal Active,871
+C0042059,Aria Kim,Dallas,Texas,United States,20,13701.37,2023-12-01,2025-12-31,1,685.07,Loyal Active,872
+C0008810,Theo Anderson,Chicago,Illinois,United States,27,13683.78,2023-02-11,2025-12-03,29,506.81,Loyal Active,873
+C0042789,Amelia Wilson,Miami,Florida,United States,11,13681.19,2025-02-07,2025-12-30,2,1243.74,Loyal Active,874
+C0032393,Liam Johnson,New York,New York,United States,13,13679.81,2025-04-21,2025-12-23,9,1052.29,Loyal Active,875
+C0025468,Isabella Robinson,Dallas,Texas,United States,20,13677.55,2024-04-20,2025-11-11,51,683.88,Loyal Active,876
+C0036600,Ethan Gupta,Miami,Florida,United States,29,13676.79,2024-06-29,2025-12-25,7,471.61,Loyal Active,877
+C0022190,Kai Taylor,Atlanta,Georgia,United States,15,13674.47,2023-03-18,2025-12-18,14,911.63,Loyal Active,878
+C0008411,Zara Gupta,Los Angeles,California,United States,20,13656.03,2025-08-15,2025-12-26,6,682.8,Loyal Active,879
+C0043749,Benjamin Khan,Denver,Colorado,United States,22,13649.59,2025-03-06,2025-12-29,3,620.44,Loyal Active,880
+C0029694,Ravi Gupta,Boston,Massachusetts,United States,17,13647.08,2025-06-22,2025-12-26,6,802.77,Loyal Active,881
+C0028302,Mia Smith,San Francisco,California,United States,26,13644.41,2023-10-11,2025-12-27,5,524.78,Loyal Active,882
+C0028813,Zara Garcia,New Delhi,Delhi,India,18,13640.2,2025-03-27,2025-12-31,1,757.79,Loyal Active,883
+C0002360,James Garcia,Los Angeles,California,United States,22,13635.22,2023-06-28,2025-12-07,25,619.78,Loyal Active,884
+C0043417,Hannah Smith,Melbourne,Victoria,Australia,10,13630.77,2023-02-17,2025-11-02,60,1363.08,Loyal Active,885
+C0015395,Sofia Anderson,New York,New York,United States,11,13626.71,2023-08-15,2025-11-08,54,1238.79,Loyal Active,886
+C0036806,Maya Johnson,London,England,United Kingdom,19,13624.51,2024-02-29,2025-12-02,30,717.08,Loyal Active,887
+C0016670,Alex Garcia,Bengaluru,Karnataka,India,10,13622.81,2023-10-02,2025-11-30,32,1362.28,Loyal Active,888
+C0017616,Theo Anderson,Vancouver,British Columbia,Canada,20,13614.19,2025-02-09,2025-12-31,1,680.71,Loyal Active,889
+C0033652,Camila Brown,Sydney,New South Wales,Australia,11,13612.27,2025-06-30,2025-12-28,4,1237.48,Loyal Active,890
+C0029538,Mia Patel,Austin,Texas,United States,13,13595.57,2023-02-01,2025-10-11,82,1045.81,Loyal Active,891
+C0005639,Aarav Sharma,San Francisco,California,United States,22,13594.32,2023-09-25,2025-12-29,3,617.92,Loyal Active,892
+C0008549,Sofia Taylor,London,England,United Kingdom,11,13593.63,2025-10-14,2025-12-23,9,1235.78,Loyal Active,893
+C0004171,Mia Miller,Miami,Florida,United States,21,13587.85,2025-03-23,2025-12-14,18,647.04,Loyal Active,894
+C0008894,Grace Miller,Seattle,Washington,United States,24,13585.47,2024-03-02,2025-12-20,12,566.06,Loyal Active,895
+C0048037,Daniel Robinson,Bengaluru,Karnataka,India,12,13561.31,2024-02-08,2025-12-25,7,1130.11,Loyal Active,896
+C0040288,Camila Thomas,Atlanta,Georgia,United States,11,13560.61,2024-01-19,2025-05-10,236,1232.78,At Risk,897
+C0013052,Grace Johnson,Vancouver,British Columbia,Canada,23,13550.46,2024-07-25,2025-12-30,2,589.15,Loyal Active,898
+C0006370,Aisha Lee,New York,New York,United States,22,13549.42,2024-07-08,2025-12-18,14,615.88,Loyal Active,899
+C0041654,Aria Thomas,Manchester,England,United Kingdom,21,13548.26,2024-02-12,2025-12-24,8,645.16,Loyal Active,900
+C0015777,Benjamin Singh,London,England,United Kingdom,26,13547.03,2023-02-07,2025-12-10,22,521.04,Loyal Active,901
+C0034877,Benjamin Lee,Manchester,England,United Kingdom,19,13541.51,2024-06-09,2025-12-27,5,712.71,Loyal Active,902
+C0019478,Theo Garcia,Melbourne,Victoria,Australia,22,13537.53,2024-05-07,2025-12-25,7,615.34,Loyal Active,903
+C0037117,Ravi Sharma,Denver,Colorado,United States,10,13536.39,2024-04-22,2025-12-29,3,1353.64,Loyal Active,904
+C0014489,Sofia Khan,Vancouver,British Columbia,Canada,22,13528.44,2025-07-01,2025-12-25,7,614.93,Loyal Active,905
+C0017411,Benjamin Wilson,Atlanta,Georgia,United States,11,13519.76,2024-03-06,2025-11-15,47,1229.07,Loyal Active,906
+C0040589,Zara Martinez,Vancouver,British Columbia,Canada,11,13515.01,2023-02-12,2025-10-14,79,1228.64,Loyal Active,907
+C0045112,James Khan,Melbourne,Victoria,Australia,22,13513.6,2023-03-17,2025-12-15,17,614.25,Loyal Active,908
+C0043901,Benjamin Thomas,Vancouver,British Columbia,Canada,23,13513.51,2023-04-17,2025-12-29,3,587.54,Loyal Active,909
+C0028439,Isabella Lee,Boston,Massachusetts,United States,12,13505.0,2023-01-25,2025-10-20,73,1125.42,Loyal Active,910
+C0018038,Fatima Martinez,London,England,United Kingdom,16,13504.2,2023-07-21,2025-12-20,12,844.01,Loyal Active,911
+C0008636,Ravi Taylor,New Delhi,Delhi,India,14,13491.26,2025-02-23,2025-11-29,33,963.66,Loyal Active,912
+C0030583,Priya Singh,Miami,Florida,United States,22,13484.79,2023-05-20,2025-12-29,3,612.95,Loyal Active,913
+C0023024,Liam Gupta,Chicago,Illinois,United States,17,13479.74,2023-11-02,2025-12-18,14,792.93,Loyal Active,914
+C0046058,James Anderson,Austin,Texas,United States,19,13477.01,2024-06-27,2025-11-25,37,709.32,Loyal Active,915
+C0035780,Ravi Miller,Boston,Massachusetts,United States,14,13470.63,2024-03-14,2025-12-13,19,962.19,Loyal Active,916
+C0026955,Aarav Martinez,Miami,Florida,United States,19,13469.97,2025-01-30,2025-12-31,1,708.95,Loyal Active,917
+C0000376,Amelia Anderson,Austin,Texas,United States,13,13464.76,2023-08-07,2025-12-10,22,1035.75,Loyal Active,918
+C0020721,Liam Garcia,Chicago,Illinois,United States,16,13464.27,2023-03-02,2025-12-18,14,841.52,Loyal Active,919
+C0013267,Camila Garcia,Toronto,Ontario,Canada,25,13445.32,2025-11-01,2025-12-29,3,537.81,Loyal Active,920
+C0011972,Theo Sharma,Manchester,England,United Kingdom,11,13441.03,2025-08-01,2025-12-28,4,1221.91,Loyal Active,921
+C0039222,Theo Sharma,Vancouver,British Columbia,Canada,19,13430.22,2024-08-24,2025-12-31,1,706.85,Loyal Active,922
+C0049878,Aria Brown,San Francisco,California,United States,11,13423.76,2025-02-17,2025-12-15,17,1220.34,Loyal Active,923
+C0023882,Grace Robinson,Bengaluru,Karnataka,India,12,13415.76,2025-02-19,2025-12-28,4,1117.98,Loyal Active,924
+C0026177,Ravi Kim,Manchester,England,United Kingdom,16,13410.12,2025-08-16,2025-12-26,6,838.13,Loyal Active,925
+C0014395,Camila Johnson,Seattle,Washington,United States,10,13408.39,2023-08-21,2025-05-04,242,1340.84,At Risk,926
+C0034164,Noah Kim,Los Angeles,California,United States,13,13395.18,2025-05-14,2025-12-23,9,1030.4,Loyal Active,927
+C0010016,James Johnson,Boston,Massachusetts,United States,13,13376.94,2024-12-27,2025-12-30,2,1029.0,Loyal Active,928
+C0025156,Alex Johnson,Chicago,Illinois,United States,14,13373.18,2024-01-28,2025-12-06,26,955.23,Loyal Active,929
+C0011235,Mia Garcia,Toronto,Ontario,Canada,25,13355.47,2023-03-19,2025-11-22,40,534.22,Loyal Active,930
+C0035192,Ethan Garcia,San Francisco,California,United States,23,13355.27,2023-02-06,2025-12-27,5,580.66,Loyal Active,931
+C0004248,Ethan Gupta,Sydney,New South Wales,Australia,24,13349.49,2024-01-14,2025-10-02,91,556.23,Repeat Active,932
+C0031036,Amelia Kim,Melbourne,Victoria,Australia,16,13348.44,2025-04-30,2025-12-30,2,834.28,Loyal Active,933
+C0006711,Sofia Garcia,Vancouver,British Columbia,Canada,23,13333.39,2025-06-29,2025-12-28,4,579.71,Loyal Active,934
+C0027187,Kai Miller,London,England,United Kingdom,12,13323.95,2025-07-23,2025-12-11,21,1110.33,Loyal Active,935
+C0025960,Theo Johnson,Miami,Florida,United States,26,13315.32,2023-07-31,2025-12-25,7,512.13,Loyal Active,936
+C0031884,Mia Johnson,Los Angeles,California,United States,15,13301.42,2025-07-01,2025-12-24,8,886.76,Loyal Active,937
+C0012632,Ravi Davis,Melbourne,Victoria,Australia,17,13299.34,2023-01-23,2025-11-10,52,782.31,Loyal Active,938
+C0046020,Noah Davis,Seattle,Washington,United States,14,13292.93,2023-01-18,2025-11-28,34,949.5,Loyal Active,939
+C0040566,Olivia Chen,San Francisco,California,United States,24,13291.99,2025-06-03,2025-12-27,5,553.83,Loyal Active,940
+C0015257,Amelia Wilson,Miami,Florida,United States,23,13287.37,2023-04-14,2025-12-24,8,577.71,Loyal Active,941
+C0013436,Olivia Robinson,Los Angeles,California,United States,8,13284.8,2025-06-02,2025-12-22,10,1660.6,Loyal Active,942
+C0043819,Aisha Garcia,Denver,Colorado,United States,8,13281.81,2023-07-04,2025-03-03,304,1660.23,At Risk,943
+C0017733,Alex Davis,New York,New York,United States,11,13264.98,2023-10-11,2025-11-20,42,1205.91,Loyal Active,944
+C0016956,Kai Singh,Seattle,Washington,United States,13,13264.76,2025-02-17,2025-12-30,2,1020.37,Loyal Active,945
+C0047670,Hannah Martinez,Toronto,Ontario,Canada,23,13263.07,2023-09-06,2025-12-02,30,576.66,Loyal Active,946
+C0026619,Maya Brown,Vancouver,British Columbia,Canada,19,13261.57,2023-08-06,2025-11-22,40,697.98,Loyal Active,947
+C0033023,Ravi Smith,Phoenix,Arizona,United States,15,13254.7,2025-05-11,2025-12-08,24,883.65,Loyal Active,948
+C0026121,Noah Chen,Miami,Florida,United States,6,13253.44,2023-08-17,2025-09-01,122,2208.91,Repeat Active,949
+C0046919,Alex Khan,Atlanta,Georgia,United States,24,13242.23,2024-08-20,2025-12-02,30,551.76,Loyal Active,950
+C0034397,Ethan Garcia,Seattle,Washington,United States,23,13233.09,2024-03-09,2025-12-26,6,575.35,Loyal Active,951
+C0049125,Aarav Chen,Dallas,Texas,United States,19,13230.14,2024-08-30,2025-12-21,11,696.32,Loyal Active,952
+C0016980,Benjamin Miller,Dallas,Texas,United States,14,13228.16,2024-09-01,2025-12-19,13,944.87,Loyal Active,953
+C0021886,Maya Gupta,Chicago,Illinois,United States,14,13223.15,2024-05-08,2025-12-30,2,944.51,Loyal Active,954
+C0005608,Fatima Gupta,New Delhi,Delhi,India,14,13219.98,2025-10-31,2025-12-31,1,944.28,Loyal Active,955
+C0016959,Fatima Thomas,San Francisco,California,United States,19,13219.25,2023-09-19,2025-12-08,24,695.75,Loyal Active,956
+C0031410,Fatima Thomas,Miami,Florida,United States,26,13218.8,2024-04-03,2025-12-22,10,508.42,Loyal Active,957
+C0038550,James Davis,Sydney,New South Wales,Australia,3,13211.4,2025-05-19,2025-12-01,31,4403.8,Repeat Active,958
+C0011775,Kai Singh,Seattle,Washington,United States,15,13211.11,2024-09-25,2025-12-11,21,880.74,Loyal Active,959
+C0049515,Aarav Lee,Mumbai,Maharashtra,India,12,13210.75,2024-05-26,2025-09-18,105,1100.9,Repeat Active,960
+C0017447,Priya Singh,Chicago,Illinois,United States,15,13204.48,2023-05-07,2025-10-17,76,880.3,Loyal Active,961
+C0005318,Olivia Anderson,Los Angeles,California,United States,13,13203.2,2023-11-08,2025-11-19,43,1015.63,Loyal Active,962
+C0043008,Ravi Thomas,Los Angeles,California,United States,23,13199.59,2023-03-21,2025-10-14,79,573.9,Loyal Active,963
+C0021778,Ravi Taylor,New York,New York,United States,23,13198.59,2023-12-08,2025-12-22,10,573.85,Loyal Active,964
+C0020782,Mia Martinez,Los Angeles,California,United States,20,13195.28,2023-10-01,2025-12-11,21,659.76,Loyal Active,965
+C0006799,Aria Taylor,Phoenix,Arizona,United States,17,13194.72,2025-02-24,2025-12-21,11,776.16,Loyal Active,966
+C0007701,Camila Patel,New Delhi,Delhi,India,22,13193.89,2023-03-19,2025-09-07,116,599.72,Repeat Active,967
+C0049141,Hannah Patel,Boston,Massachusetts,United States,12,13192.36,2025-02-06,2025-12-27,5,1099.36,Loyal Active,968
+C0032217,Liam Brown,Manchester,England,United Kingdom,23,13192.17,2023-01-27,2025-12-17,15,573.57,Loyal Active,969
+C0020765,Noah Chen,Atlanta,Georgia,United States,19,13189.73,2024-09-27,2025-12-18,14,694.2,Loyal Active,970
+C0000604,Mia Anderson,New York,New York,United States,18,13181.43,2025-02-20,2025-12-31,1,732.3,Loyal Active,971
+C0023543,Isabella Lee,Bengaluru,Karnataka,India,12,13175.33,2024-04-15,2025-12-30,2,1097.94,Loyal Active,972
+C0045772,Ravi Anderson,Bengaluru,Karnataka,India,19,13172.07,2025-07-05,2025-12-31,1,693.27,Loyal Active,973
+C0030093,Grace Patel,Mumbai,Maharashtra,India,21,13168.73,2024-08-10,2025-11-30,32,627.08,Loyal Active,974
+C0040297,Ethan Brown,San Francisco,California,United States,24,13161.98,2025-06-28,2025-12-29,3,548.42,Loyal Active,975
+C0028860,Isabella Robinson,Seattle,Washington,United States,10,13141.03,2024-10-21,2025-12-21,11,1314.1,Loyal Active,976
+C0015439,James Robinson,New York,New York,United States,21,13137.75,2023-08-04,2025-12-06,26,625.61,Loyal Active,977
+C0039746,Zara Singh,Phoenix,Arizona,United States,24,13136.88,2025-06-29,2025-12-22,10,547.37,Loyal Active,978
+C0027774,Priya Thomas,New York,New York,United States,13,13136.25,2024-12-27,2025-12-12,20,1010.48,Loyal Active,979
+C0027321,Noah Taylor,Mumbai,Maharashtra,India,23,13130.35,2024-09-16,2025-12-29,3,570.88,Loyal Active,980
+C0029141,Theo Wilson,Los Angeles,California,United States,11,13106.41,2025-09-11,2025-12-22,10,1191.49,Loyal Active,981
+C0017397,Sofia Anderson,Mumbai,Maharashtra,India,22,13098.97,2025-02-21,2025-12-30,2,595.41,Loyal Active,982
+C0031647,Hannah Smith,Bengaluru,Karnataka,India,23,13087.46,2024-10-19,2025-12-19,13,569.02,Loyal Active,983
+C0023950,James Robinson,Los Angeles,California,United States,16,13087.37,2023-06-23,2025-12-31,1,817.96,Loyal Active,984
+C0027334,Ethan Kim,San Francisco,California,United States,10,13077.53,2023-06-15,2025-11-24,38,1307.75,Loyal Active,985
+C0024934,Mia Martinez,Seattle,Washington,United States,12,13075.56,2023-06-02,2025-12-20,12,1089.63,Loyal Active,986
+C0017243,Olivia Martinez,Chicago,Illinois,United States,14,13074.9,2025-05-19,2025-12-30,2,933.92,Loyal Active,987
+C0025622,Theo Brown,Bengaluru,Karnataka,India,19,13072.07,2023-03-21,2025-11-26,36,688.0,Loyal Active,988
+C0001601,Kai Lee,Los Angeles,California,United States,13,13069.75,2024-09-20,2025-12-27,5,1005.37,Loyal Active,989
+C0019283,Daniel Johnson,Boston,Massachusetts,United States,20,13068.46,2024-07-01,2025-12-30,2,653.42,Loyal Active,990
+C0040980,Alex Brown,New York,New York,United States,10,13064.72,2025-06-03,2025-12-31,1,1306.47,Loyal Active,991
+C0011871,Alex Wilson,Dallas,Texas,United States,12,13064.22,2023-01-12,2025-12-09,23,1088.68,Loyal Active,992
+C0017804,Noah Smith,Chicago,Illinois,United States,12,13058.96,2023-03-19,2025-10-22,71,1088.25,Loyal Active,993
+C0030728,Benjamin Patel,Bengaluru,Karnataka,India,23,13058.78,2023-08-11,2025-12-19,13,567.77,Loyal Active,994
+C0045599,Aarav Thomas,Vancouver,British Columbia,Canada,26,13057.83,2024-04-10,2025-12-27,5,502.22,Loyal Active,995
+C0044718,Mia Davis,San Francisco,California,United States,13,13034.22,2024-01-31,2025-12-25,7,1002.63,Loyal Active,996
+C0021547,Aarav Smith,Dallas,Texas,United States,13,13033.12,2023-12-10,2025-12-16,16,1002.55,Loyal Active,997
+C0027029,Alex Wilson,Melbourne,Victoria,Australia,19,13029.42,2025-04-12,2025-11-28,34,685.76,Loyal Active,998
+C0008600,Ethan Garcia,Dallas,Texas,United States,20,13026.04,2023-01-07,2025-12-17,15,651.3,Loyal Active,999
+C0028782,Alex Kim,New Delhi,Delhi,India,6,13019.9,2025-10-14,2025-12-08,24,2169.98,Loyal Active,1000

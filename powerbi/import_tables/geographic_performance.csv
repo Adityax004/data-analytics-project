@@ -1,0 +1,40 @@
+country,state,city,revenue,orders,customers,repeat_customer_rate_pct,aov
+United States,New York,New York,9777454.99,14585,3854,62.61,670.38
+United States,California,Los Angeles,9675479.0,14389,3991,61.16,672.42
+India,Karnataka,Bengaluru,8310295.58,12225,3271,61.08,679.78
+United States,California,San Francisco,6916377.87,10282,2748,61.97,672.67
+United States,Texas,Austin,6687819.89,9859,2614,61.86,678.35
+United Kingdom,England,London,6506682.24,9686,2656,61.78,671.76
+United States,Illinois,Chicago,6400708.79,9395,2522,62.25,681.29
+United States,Texas,Dallas,6220626.91,9102,2335,61.5,683.44
+India,Maharashtra,Mumbai,6068182.33,8959,2406,60.14,677.33
+United States,Florida,Miami,6028973.73,8893,2281,61.77,677.95
+Canada,Ontario,Toronto,5448091.97,7991,2141,60.63,681.78
+United States,Washington,Seattle,5442851.47,8218,2174,61.27,662.31
+United States,Georgia,Atlanta,5401508.82,8074,2080,62.16,669.0
+India,Delhi,New Delhi,4792698.89,6968,1873,60.33,687.82
+United States,Massachusetts,Boston,4762602.52,6903,1803,61.51,689.93
+Australia,New South Wales,Sydney,4665406.61,6824,1811,61.84,683.68
+United States,Colorado,Denver,4414411.07,6501,1710,62.98,679.04
+United States,Arizona,Phoenix,3974214.67,5863,1554,60.68,677.85
+Australia,Victoria,Melbourne,3856925.79,5728,1621,59.9,673.35
+Canada,British Columbia,Vancouver,3750519.02,5680,1463,60.63,660.3
+United Kingdom,England,Manchester,3403485.93,5060,1297,61.99,672.63
+United States,California,Unknown,36337.21,47,10,70.0,773.13
+India,Karnataka,Unknown,34738.11,44,8,87.5,789.5
+United States,Colorado,Unknown,30192.47,44,6,66.67,686.19
+United States,Texas,Unknown,20068.93,32,10,70.0,627.15
+Canada,British Columbia,Unknown,18266.96,26,5,100.0,702.58
+United States,New York,Unknown,15098.42,21,2,100.0,718.97
+United States,Washington,Unknown,13931.88,14,1,100.0,995.13
+United Kingdom,England,Unknown,12859.23,24,8,50.0,535.8
+United States,Georgia,Unknown,12601.28,18,4,100.0,700.07
+Australia,New South Wales,Unknown,10266.37,16,4,25.0,641.65
+United States,Florida,Unknown,10236.07,14,5,40.0,731.15
+India,Delhi,Unknown,6041.4,12,2,50.0,503.45
+Canada,Ontario,Unknown,5612.87,12,6,33.33,467.74
+India,Maharashtra,Unknown,4137.39,7,3,33.33,591.06
+United States,Massachusetts,Unknown,3613.07,6,4,50.0,602.18
+Australia,Victoria,Unknown,2946.66,5,2,50.0,589.33
+United States,Arizona,Unknown,439.43,1,1,0.0,439.43
+United States,Illinois,Unknown,281.56,1,1,0.0,281.56

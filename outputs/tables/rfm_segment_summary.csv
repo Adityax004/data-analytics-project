@@ -1,0 +1,8 @@
+customer_segment,customers,revenue,average_recency,average_frequency,average_monetary,at_risk_customers,revenue_share_pct
+Champions,9880,64593738.96,18.77,9.19,6537.83,0,52.63
+Loyal Customers,8161,29097148.96,145.2,5.43,3565.39,2224,23.71
+Need Nurture,10925,9613293.43,153.47,1.36,879.94,3607,7.83
+Potential Loyalists,6034,7228988.67,24.08,2.04,1198.04,0,5.89
+At Risk,4399,6193912.21,345.89,2.31,1408.03,3650,5.05
+Lost Customers,6994,4739022.43,581.6,1.02,677.58,6994,3.86
+New Customers,1894,1276882.74,25.34,1.0,674.17,0,1.04

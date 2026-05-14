@@ -1,0 +1,51 @@
+product_id,product_name,category,units_sold,revenue,overall_revenue_rank,category_revenue_dense_rank
+P000768,Aster Laptops 0768,Electronics,2391,4280502.49,1,1
+P000635,Nexora Phones 0635,Electronics,3010,2392953.43,2,2
+P000086,ZenByte Laptops 0086,Electronics,1391,2305729.49,3,3
+P000671,Aster Phones 0671,Electronics,2231,1897806.27,4,4
+P000209,Nexora Laptops 0209,Electronics,1753,1810319.43,5,5
+P000409,PulseTech Laptops 0409,Electronics,1713,1776164.46,6,6
+P000759,Orbit Phones 0759,Electronics,1653,1471770.46,7,7
+P000195,PulseTech Laptops 0195,Electronics,731,1431508.57,8,8
+P000442,Aster Laptops 0442,Electronics,1332,1356410.3,9,9
+P000107,CraftHaus Furniture 0107,Home & Kitchen,1615,1347149.93,10,1
+P000239,Orbit Laptops 0239,Electronics,1420,1334777.78,11,10
+P000050,Orbit Phones 0050,Electronics,1560,1333742.18,12,11
+P000248,CraftHaus Furniture 0248,Home & Kitchen,2938,1318380.46,13,2
+P000435,Orbit Laptops 0435,Electronics,742,1278282.34,14,12
+P000769,ZenByte Laptops 0769,Electronics,931,1219222.94,15,13
+P000294,PulseTech Phones 0294,Electronics,1585,1185097.84,16,14
+P000302,ZenByte Laptops 0302,Electronics,923,1017155.65,17,15
+P000590,Aster Cameras 0590,Electronics,1315,999062.68,18,16
+P000075,Orbit Laptops 0075,Electronics,831,960419.35,19,17
+P000725,Aster Laptops 0725,Electronics,551,938452.4,20,18
+P000509,CraftHaus Furniture 0509,Home & Kitchen,899,913643.42,21,3
+P000472,BrightNest Furniture 0472,Home & Kitchen,1010,890460.35,22,4
+P000129,Aster Phones 0129,Electronics,1084,872438.47,23,19
+P000485,Nexora Phones 0485,Electronics,1332,859160.41,24,20
+P000091,Orbit Cameras 0091,Electronics,1156,834726.46,25,21
+P000037,Nexora Laptops 0037,Electronics,876,830851.47,26,22
+P000555,Aster Laptops 0555,Electronics,674,815465.09,27,23
+P000341,Orbit Cameras 0341,Electronics,1251,804259.98,28,24
+P000123,Orbit Laptops 0123,Electronics,673,781343.8,29,25
+P000230,PulseTech Phones 0230,Electronics,877,769480.62,30,26
+P000568,ZenByte Cameras 0568,Electronics,687,755317.72,31,27
+P000679,ZenByte Cameras 0679,Electronics,1000,747911.27,32,28
+P000584,CraftHaus Appliances 0584,Home & Kitchen,2498,743994.52,33,5
+P000624,BrightNest Furniture 0624,Home & Kitchen,1236,740183.43,34,6
+P000741,Nexora Laptops 0741,Electronics,533,737976.37,35,29
+P000561,PulseTech Laptops 0561,Electronics,807,731154.55,36,30
+P000626,BrightNest Furniture 0626,Home & Kitchen,1431,727869.84,37,7
+P000059,Nexora Phones 0059,Electronics,1112,726228.94,38,31
+P000307,Kiva Furniture 0307,Home & Kitchen,933,724359.11,39,8
+P000462,Aster Phones 0462,Electronics,1178,716828.38,40,32
+P000038,Elm & Co Furniture 0038,Home & Kitchen,815,696975.2,41,9
+P000271,Nexora Cameras 0271,Electronics,806,695813.56,42,33
+P000029,Aster Phones 0029,Electronics,1291,689487.11,43,34
+P000018,Aster Cameras 0018,Electronics,704,673001.77,44,35
+P000681,ZenByte Phones 0681,Electronics,1190,667346.64,45,36
+P000404,ZenByte Phones 0404,Electronics,1970,665879.67,46,37
+P000422,Aster Phones 0422,Electronics,1192,660501.55,47,38
+P000052,Aster Laptops 0052,Electronics,381,653709.64,48,39
+P000764,Orbit Cameras 0764,Electronics,669,652264.82,49,40
+P000188,Nexora Phones 0188,Electronics,948,629488.82,50,41

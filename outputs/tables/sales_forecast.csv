@@ -1,0 +1,7 @@
+forecast_month,forecast_revenue,method
+2026-01-01,3773659.31,Linear trend with monthly seasonal index
+2026-02-01,3579855.97,Linear trend with monthly seasonal index
+2026-03-01,4991546.83,Linear trend with monthly seasonal index
+2026-04-01,5559117.38,Linear trend with monthly seasonal index
+2026-05-01,6819967.23,Linear trend with monthly seasonal index
+2026-06-01,7199964.56,Linear trend with monthly seasonal index

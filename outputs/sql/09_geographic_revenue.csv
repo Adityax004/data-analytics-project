@@ -1,0 +1,40 @@
+country,state,city,customers,orders,revenue,aov
+United States,New York,New York,3854,14585,9777454.99,670.38
+United States,California,Los Angeles,3991,14389,9675479.0,672.42
+India,Karnataka,Bengaluru,3271,12225,8310295.58,679.78
+United States,California,San Francisco,2748,10282,6916377.87,672.67
+United States,Texas,Austin,2614,9859,6687819.89,678.35
+United Kingdom,England,London,2656,9686,6506682.24,671.76
+United States,Illinois,Chicago,2522,9395,6400708.79,681.29
+United States,Texas,Dallas,2335,9102,6220626.91,683.44
+India,Maharashtra,Mumbai,2406,8959,6068182.33,677.33
+United States,Florida,Miami,2281,8893,6028973.73,677.95
+Canada,Ontario,Toronto,2141,7991,5448091.97,681.78
+United States,Washington,Seattle,2174,8218,5442851.47,662.31
+United States,Georgia,Atlanta,2080,8074,5401508.82,669.0
+India,Delhi,New Delhi,1873,6968,4792698.89,687.82
+United States,Massachusetts,Boston,1803,6903,4762602.52,689.93
+Australia,New South Wales,Sydney,1811,6824,4665406.61,683.68
+United States,Colorado,Denver,1710,6501,4414411.07,679.04
+United States,Arizona,Phoenix,1554,5863,3974214.67,677.85
+Australia,Victoria,Melbourne,1621,5728,3856925.79,673.35
+Canada,British Columbia,Vancouver,1463,5680,3750519.02,660.3
+United Kingdom,England,Manchester,1297,5060,3403485.93,672.63
+United States,California,Unknown,10,47,36337.21,773.13
+India,Karnataka,Unknown,8,44,34738.11,789.5
+United States,Colorado,Unknown,6,44,30192.47,686.19
+United States,Texas,Unknown,10,32,20068.93,627.15
+Canada,British Columbia,Unknown,5,26,18266.96,702.58
+United States,New York,Unknown,2,21,15098.42,718.97
+United States,Washington,Unknown,1,14,13931.88,995.13
+United Kingdom,England,Unknown,8,24,12859.23,535.8
+United States,Georgia,Unknown,4,18,12601.28,700.07
+Australia,New South Wales,Unknown,4,16,10266.37,641.65
+United States,Florida,Unknown,5,14,10236.07,731.15
+India,Delhi,Unknown,2,12,6041.4,503.45
+Canada,Ontario,Unknown,6,12,5612.87,467.74
+India,Maharashtra,Unknown,3,7,4137.39,591.06
+United States,Massachusetts,Unknown,4,6,3613.07,602.18
+Australia,Victoria,Unknown,2,5,2946.66,589.33
+United States,Arizona,Unknown,1,1,439.43,439.43
+United States,Illinois,Unknown,1,1,281.56,281.56

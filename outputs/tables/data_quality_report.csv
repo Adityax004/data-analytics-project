@@ -1,0 +1,6 @@
+table_name,raw_rows,duplicate_rows_removed,duplicate_primary_keys_removed,rows_after_deduplication,processed_rows
+customers,50125,125,0,50000,50000
+products,805,5,0,800,800
+orders,199529,166,0,199363,199363
+order_items,417260,208,0,417052,417052
+returns,10914,21,0,10893,10893

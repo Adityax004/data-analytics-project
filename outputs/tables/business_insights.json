@@ -1,0 +1,32 @@
+[
+  {
+    "finding": "Highest revenue customer segment",
+    "insight": "Champions generated $64,593,739, representing 52.6% of RFM revenue.",
+    "recommendation": "Prioritize early access, loyalty benefits, and cross-sell journeys for this segment."
+  },
+  {
+    "finding": "Peak sales month",
+    "insight": "December 2025 was the peak month at $14,850,493.",
+    "recommendation": "Use seasonal inventory planning and launch retention campaigns 4-6 weeks before this peak period."
+  },
+  {
+    "finding": "Most profitable category",
+    "insight": "Electronics produced the highest gross profit at $18,315,235.",
+    "recommendation": "Increase merchandising coverage and bundle this category with high-frequency add-ons."
+  },
+  {
+    "finding": "Discount margin pressure",
+    "insight": "High: 21%+ has the lowest margin at 17.3%.",
+    "recommendation": "Replace broad promotions with targeted discounts for at-risk or high-propensity customers."
+  },
+  {
+    "finding": "Top revenue region",
+    "insight": "New York, New York leads regional revenue at $9,777,455.",
+    "recommendation": "Use this region as a benchmark for localized product mix and retention campaigns."
+  },
+  {
+    "finding": "Early retention",
+    "insight": "Average month-one cohort retention is 15.5%.",
+    "recommendation": "Optimize onboarding, replenishment reminders, and second-purchase offers inside the first 30 days."
+  }
+]

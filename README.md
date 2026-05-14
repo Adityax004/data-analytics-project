@@ -62,6 +62,7 @@ Stakeholders can use the outputs to answer questions such as:
     |-- python_analysis.py
     |-- create_notebook.py
     |-- create_dashboard_screenshot.py
+    |-- create_process_screenshots.py
     `-- run_pipeline.py
 ```
 
@@ -107,8 +108,30 @@ The default generation creates 50,000 customers, 800 products, more than 190,000
 - `outputs/tables/business_insights.json`
 - `outputs/report/ecommerce_analytics_report.html`
 - `assets/powerbi_dashboard_screenshot.png`
+- `assets/process_workflow.png`
+- `assets/process_data_model.png`
+- `assets/process_sql_analysis.png`
+- `assets/process_python_analytics.png`
 - `powerbi/import_tables/*.csv`
 - `powerbi/DAX_Measures.md`, `powerbi/Data_Model.md`, and `powerbi/Dashboard_Build_Guide.md`
+
+## Project Process Screenshots
+
+### End-to-End Workflow
+
+![End-to-End Analytics Workflow](assets/process_workflow.png)
+
+### Normalized Data Model
+
+![Normalized Data Model](assets/process_data_model.png)
+
+### SQL Analysis Process
+
+![SQL Analysis Process](assets/process_sql_analysis.png)
+
+### Python Analytics Process
+
+![Python Analytics Process](assets/process_python_analytics.png)
 
 ## Power BI Dashboard
 
